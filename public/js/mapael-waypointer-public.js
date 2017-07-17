@@ -28,23 +28,32 @@ var mapaelWaypointer = (function ($) {
 	 * Although scripts in the WordPress core, Plugins and Themes may be
 	 * practising this, we should strive to set a better example in our own work.
 	 */
-	var vm = {};
+	var vm = {
+		zoomSpeed: 600,
+		waypointIndex: -1 
+	};
 
 	$(window).load(function () {
 		console.log('Initialising Mapel Waypointer');
 
 		// Load args from the html (saved by the php code)
-		var args = $('[data-side="mw-map-front"]').data('params');
-		args.cities = args.cities ? args.cities.split(',') : {};
+		vm.args = $('[data-side="mw-map-front"]').data('params');
+		vm.args.cities = vm.args.cities ? vm.args.cities.split(',') : {};
+		vm.args.zoom = vm.args.zoom === 'true' ? true : false;
 		var maps = {
-			'world': 'world_countries'
+			'world': 'world_countries',
+			'worldmercator': 'world_countries_mercator',
+			'worldmiller': 'world_countries_miller'
 		};
+
+		// Move the map a few layouts outwards.
+		$(".mw__map-container").appendTo('.site-container');
 
 		// Load city plots
 		$.getJSON('/wp-content/plugins/mapael-waypointer/public/js/mw-cities.json').complete(function (data) {
 			vm.cities = data.responseJSON;
 
-			var selectedCities = args.cities.map(function (selectedCity) {
+			var selectedCities = vm.args.cities.map(function (selectedCity) {
 				return vm.cities[selectedCity.trim()];
 			}).reduce(function (accumulator, current) {
 
@@ -60,7 +69,7 @@ var mapaelWaypointer = (function ($) {
 			// Initialise map
 			$(".mw__map-container").mapael({
 				map: {
-					name: maps[args.map],
+					name: maps[vm.args.map],
 					cssClass: 'mw__map-container__svg'
 				},
 				plots: selectedCities,
@@ -86,6 +95,8 @@ var mapaelWaypointer = (function ($) {
 	});
 
 	function triggerDownAction(type, $element) {
+		vm.waypointIndex++;
+
 		switch (type) {
 			case 'plot':
 				addPlot($element.data('waypoint-name'));
@@ -97,6 +108,8 @@ var mapaelWaypointer = (function ($) {
 	}
 
 	function triggerUpAction(type, $element) {
+		vm.waypointIndex--;
+
 		switch (type) {
 			case 'plot':
 				removePlot($element.data('waypoint-name'));
@@ -105,10 +118,17 @@ var mapaelWaypointer = (function ($) {
 				removeLink($element.data('waypoint-to'), $element.data('waypoint-from'));
 				break;
 		}
+
+		if (vm.waypointIndex === -1 && vm.args.zoom) {
+			$('.mw__map-container').trigger('zoom', {
+				level: '0',
+				animDuration: vm.zoomSpeed
+			});
+		}
 	}
 
 	function addPlot(cityName) {
-		console.log(['Adding a new plot: ', cityName].join(''));
+		//console.log(['Adding a new plot: ', cityName].join(''));
 		cityName = cityName.trim();
 
 		var newPlots = {};
@@ -119,10 +139,19 @@ var mapaelWaypointer = (function ($) {
 			newPlots: newPlots,
 			animDuration: 300
 		});
+
+		if (vm.args.zoom) {
+			$('.mw__map-container').trigger('zoom', {
+				level: '3',
+				latitude: newPlots[cityName].latitude,
+				longitude: newPlots[cityName].longitude,
+				animDuration: vm.zoomSpeed
+			});
+		}
 	}
 
 	function removePlot(cityName) {
-		console.log(['Removing a new plot: ', cityName].join(''));
+		//console.log(['Removing a new plot: ', cityName].join(''));
 		cityName = cityName.trim();
 
 		$('.mw__map-container').trigger('update', {
@@ -132,7 +161,7 @@ var mapaelWaypointer = (function ($) {
 	}
 
 	function addLink(to, from) {
-		console.log(['Adding a new link: ', to, ' ', from].join(''));
+		//console.log(['Adding a new link: ', to, ' ', from].join(''));
 
 		var newLinks = {};
 		newLinks[[from, to].join('')] = {
@@ -144,15 +173,33 @@ var mapaelWaypointer = (function ($) {
 			newLinks: newLinks,
 			animDuration: 300
 		});
+
+		if (vm.args.zoom) {
+			$('.mw__map-container').trigger('zoom', {
+				level: '1',
+				latitude: vm.cities[to].latitude,
+				longitude: vm.cities[to].longitude,
+				animDuration: vm.zoomSpeed
+			});
+		}
 	}
 
 	function removeLink(to, from) {
-		console.log(['Removing a new link: ', to, ' ', from].join(''));
+		//console.log(['Removing a new link: ', to, ' ', from].join(''));
 
 		$('.mw__map-container').trigger('update', {
 			deleteLinkKeys: [[from, to].join('')],
 			animDuration: 300
 		});
+
+		if (vm.args.zoom) {
+			$('.mw__map-container').trigger('zoom', {
+				level: '1',
+				latitude: vm.cities[from].latitude,
+				longitude: vm.cities[from].longitude,
+				animDuration: vm.zoomSpeed
+			});
+		}
 	}
 
 	function generateRandomFactor() {
