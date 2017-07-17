@@ -62,13 +62,27 @@ class Mapael_Waypointer_Public {
 	 
 	 public function mw_register_shortcodes() {
 
-		function mw_map_shortcode($atts)
-		{ ?>
+		function mw_map_shortcode($dataParams) { ?>
+			
 			<div class="mw__map-container">
-        		<div class="mw__map-container__svg">Alternative content</div>
-    		</div>
+				<div hidden data-side="mw-map-front" data-params="<?php echo htmlspecialchars(json_encode($dataParams), ENT_QUOTES, 'UTF-8'); ?>"></div>
+        		<div class="mw__map-container__svg"></div>
+			</div>
+			
 		<?php }
 		add_shortcode( 'mw-map' , 'mw_map_shortcode' );
+
+		function mw_waypoint_shortcode($dataParams) {
+			switch ($dataParams['type']) {
+				case "city":
+					return '<div class="mw__waypoint-wrapper"><div class="mw__waypoint mw__waypoint--plot" data-waypoint-type="plot" data-waypoint-name="' . $dataParams['city-name'] . '"></div></div>';
+				break;
+				case "route":
+					return '<div class="mw__waypoint-wrapper"><div class="mw__waypoint mw__waypoint--link" data-waypoint-type="link" data-waypoint-from="' . $dataParams['from'] . '" data-waypoint-to="' . $dataParams['to'] . '"></div></div>';
+				break;
+			} ?>
+		<?php }
+		add_shortcode( 'mw-waypoint' , 'mw_waypoint_shortcode' );
 	}
 
 	/**
@@ -116,9 +130,9 @@ class Mapael_Waypointer_Public {
 		wp_enqueue_script( 'lodash', 'https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js', array(), '4.17.4', false );
 		wp_enqueue_script( 'waypoints', 'https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js', array( 'jquery' ), '4.0.1', false );
 		wp_enqueue_script( 'raphael', 'https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js', array(), '2.27', false );
-		wp_enqueue_script( 'mapael', 'https://cdnjs.cloudflare.com/ajax/libs/jquery-mapael/2.1.0/js/jquery.mapael.min.js', array( 'jquery', 'raphael' ), '2.1.0', false );
+		wp_enqueue_script( 'mapael', 'https://cdnjs.cloudflare.com/ajax/libs/jquery-mapael/2.1.0/js/jquery.mapael.js', array( 'jquery', 'raphael' ), '2.1.0', false );
 		wp_enqueue_script( 'mapael-world_countries', 'https://cdnjs.cloudflare.com/ajax/libs/jquery-mapael/2.1.0/js/maps/world_countries.min.js', array( 'mapael' ), '2.1.0', false );
-		wp_enqueue_script( $this->plugin_name, plugin_dir_url( __FILE__ ) . 'js/mapael-waypointer-public.js', array( 'jquery', 'mapael', 'waypoints' ), $this->version, false );
+		wp_enqueue_script( $this->plugin_name, plugin_dir_url( __FILE__ ) . 'js/mapael-waypointer-public.js', array( 'jquery', 'mapael', 'mapael-world_countries', 'waypoints' ), $this->version, false );
 	}
 	
 }
