@@ -1,4 +1,4 @@
-(function( $ ) {
+var mapaelWaypointer = (function ($) {
 	'use strict';
 
 	/**
@@ -29,4 +29,38 @@
 	 * practising this, we should strive to set a better example in our own work.
 	 */
 
-})( jQuery );
+	$(window).load(function () {
+		console.log('Initialising Mapel Waypointer');
+
+		// Load city plots
+		$.getJSON('/wp-content/plugins/mapael-waypointer/public/js/mw-cities.json').complete(function (data) {
+			var cities = data.responseJSON;
+			console.log(cities);
+
+			// Initialise map
+			$(".mw__map-container").mapael({
+				map: {
+					name: "world_countries",
+					cssClass: 'mw__map-container__svg'
+				},
+				plots: {
+					'paris': cities.paris,
+					'newyork': {
+						latitude: 40.667,
+						longitude: -73.833,
+						tooltip: { content: "NYC" }
+					},
+					'tokyo': {
+						latitude: 35.687418,
+						longitude: 139.692306,
+						tooltip: { content: 'Tokyo' }
+					}
+				},
+				links: {}
+			});
+
+		});
+
+	});
+
+})(jQuery);
