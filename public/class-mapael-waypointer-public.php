@@ -64,8 +64,8 @@ class Mapael_Waypointer_Public {
 
 		function mw_map_shortcode($atts)
 		{ ?>
-			<div class="mw__map__container" style="position: fixed; right: 0; top: 0; width: 70%;">
-        		<div class="mw__map__container__svg">Alternative content</div>
+			<div class="mw__map-container">
+        		<div class="mw__map-container__svg">Alternative content</div>
     		</div>
 		<?php }
 		add_shortcode( 'mw-map' , 'mw_map_shortcode' );
