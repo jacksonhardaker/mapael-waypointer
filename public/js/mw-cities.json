@@ -1,3307 +1,3307 @@
 {
   "adak": {
-    "latitude": 51.883,
-    "longitude": -176.633,
+    "lat": 51.883,
+    "lng": -176.633,
     "city": "Adak"
   },
   "nuku%ca%bbalofa": {
-    "latitude": -21.133,
-    "longitude": -175.2,
+    "lat": -21.133,
+    "lng": -175.2,
     "city": "Nuku%CA%BBalofa"
   },
   "apia": {
-    "latitude": -13.833,
-    "longitude": -171.833,
+    "lat": -13.833,
+    "lng": -171.833,
     "city": "Apia"
   },
   "pagopago": {
-    "latitude": -14.267,
-    "longitude": -170.7,
+    "lat": -14.267,
+    "lng": -170.7,
     "city": "Pago Pago"
   },
   "alofi": {
-    "latitude": -19.05,
-    "longitude": -169.917,
+    "lat": -19.05,
+    "lng": -169.917,
     "city": "Alofi"
   },
   "avarua": {
-    "latitude": -21.2,
-    "longitude": -159.767,
+    "lat": -21.2,
+    "lng": -159.767,
     "city": "Avarua"
   },
   "honolulu": {
-    "latitude": 21.3,
-    "longitude": -157.817,
+    "lat": 21.3,
+    "lng": -157.817,
     "city": "Honolulu"
   },
   "hilo": {
-    "latitude": 19.7,
-    "longitude": -155.1,
+    "lat": 19.7,
+    "lng": -155.1,
     "city": "Hilo"
   },
   "anchorage": {
-    "latitude": 61.217,
-    "longitude": -149.883,
+    "lat": 61.217,
+    "lng": -149.883,
     "city": "Anchorage"
   },
   "papeete": {
-    "latitude": -17.533,
-    "longitude": -149.567,
+    "lat": -17.533,
+    "lng": -149.567,
     "city": "Papeete"
   },
   "fairbanks": {
-    "latitude": 64.833,
-    "longitude": -147.7,
+    "lat": 64.833,
+    "lng": -147.7,
     "city": "Fairbanks"
   },
   "sitka": {
-    "latitude": 57.05,
-    "longitude": -135.317,
+    "lat": 57.05,
+    "lng": -135.317,
     "city": "Sitka"
   },
   "whitehorse": {
-    "latitude": 60.717,
-    "longitude": -135.05,
+    "lat": 60.717,
+    "lng": -135.05,
     "city": "Whitehorse"
   },
   "juneau": {
-    "latitude": 58.35,
-    "longitude": -134.5,
+    "lat": 58.35,
+    "lng": -134.5,
     "city": "Juneau"
   },
   "adamstown": {
-    "latitude": -25.067,
-    "longitude": -130.1,
+    "lat": -25.067,
+    "lng": -130.1,
     "city": "Adamstown"
   },
   "vancouver": {
-    "latitude": 49.25,
-    "longitude": -123.1,
+    "lat": 49.25,
+    "lng": -123.1,
     "city": "Vancouver"
   },
   "rabiisland": {
-    "latitude": 3.133,
-    "longitude": -12.05,
+    "lat": 3.133,
+    "lng": -12.05,
     "city": "Rabi Island"
   },
   "portland": {
-    "latitude": 45.517,
-    "longitude": -122.667,
+    "lat": 45.517,
+    "lng": -122.667,
     "city": "Portland"
   },
   "sanfrancisco": {
-    "latitude": 37.767,
-    "longitude": -122.417,
+    "lat": 37.767,
+    "lng": -122.417,
     "city": "San Francisco"
   },
   "seattle": {
-    "latitude": 47.6,
-    "longitude": -122.317,
+    "lat": 47.6,
+    "lng": -122.317,
     "city": "Seattle"
   },
   "sacramento": {
-    "latitude": 38.55,
-    "longitude": -121.467,
+    "lat": 38.55,
+    "lng": -121.467,
     "city": "Sacramento"
   },
   "losangeles": {
-    "latitude": 34.05,
-    "longitude": -118.25,
+    "lat": 34.05,
+    "lng": -118.25,
     "city": "Los Angeles"
   },
   "riverside": {
-    "latitude": 33.933,
-    "longitude": -117.383,
+    "lat": 33.933,
+    "lng": -117.383,
     "city": "Riverside"
   },
   "sandiego": {
-    "latitude": 32.767,
-    "longitude": -117.15,
+    "lat": 32.767,
+    "lng": -117.15,
     "city": "San Diego"
   },
   "tijuana": {
-    "latitude": 32.517,
-    "longitude": -117.033,
+    "lat": 32.517,
+    "lng": -117.033,
     "city": "Tijuana"
   },
   "mexicali": {
-    "latitude": 32.667,
-    "longitude": -115.467,
+    "lat": 32.667,
+    "lng": -115.467,
     "city": "Mexicali"
   },
   "lasvegas": {
-    "latitude": 36.167,
-    "longitude": -115.133,
+    "lat": 36.167,
+    "lng": -115.133,
     "city": "Las Vegas"
   },
   "yellowknife": {
-    "latitude": 62.45,
-    "longitude": -114.4,
+    "lat": 62.45,
+    "lng": -114.4,
     "city": "Yellowknife"
   },
   "calgary": {
-    "latitude": 51.033,
-    "longitude": -114.05,
+    "lat": 51.033,
+    "lng": -114.05,
     "city": "Calgary"
   },
   "edmonton": {
-    "latitude": 53.567,
-    "longitude": -113.517,
+    "lat": 53.567,
+    "lng": -113.517,
     "city": "Edmonton"
   },
   "phoenix": {
-    "latitude": 33.433,
-    "longitude": -112.067,
+    "lat": 33.433,
+    "lng": -112.067,
     "city": "Phoenix"
   },
   "saltlakecity": {
-    "latitude": 40.75,
-    "longitude": -111.883,
+    "lat": 40.75,
+    "lng": -111.883,
     "city": "Salt Lake City"
   },
   "tucson": {
-    "latitude": 32.2,
-    "longitude": -110.917,
+    "lat": 32.2,
+    "lng": -110.917,
     "city": "Tucson"
   },
   "hangaroa": {
-    "latitude": 27.15,
-    "longitude": -109.433,
+    "lat": 27.15,
+    "lng": -109.433,
     "city": "Hanga Roa"
   },
   "saskatoon": {
-    "latitude": 52.117,
-    "longitude": -106.65,
+    "lat": 52.117,
+    "lng": -106.65,
     "city": "Saskatoon"
   },
   "albuquerque": {
-    "latitude": 35.1,
-    "longitude": -106.6,
+    "lat": 35.1,
+    "lng": -106.6,
     "city": "Albuquerque"
   },
   "elpaso": {
-    "latitude": 31.783,
-    "longitude": -106.417,
+    "lat": 31.783,
+    "lng": -106.417,
     "city": "El Paso"
   },
   "chihuahua": {
-    "latitude": 28.1,
-    "longitude": -106.0,
+    "lat": 28.1,
+    "lng": -106.0,
     "city": "Chihuahua"
   },
   "denver": {
-    "latitude": 39.733,
-    "longitude": -104.983,
+    "lat": 39.733,
+    "lng": -104.983,
     "city": "Denver"
   },
   "durango": {
-    "latitude": 24.017,
-    "longitude": -104.667,
+    "lat": 24.017,
+    "lng": -104.667,
     "city": "Durango"
   },
   "regina": {
-    "latitude": 50.433,
-    "longitude": -104.617,
+    "lat": 50.433,
+    "lng": -104.617,
     "city": "Regina"
   },
   "zapopan": {
-    "latitude": 20.767,
-    "longitude": -103.4,
+    "lat": 20.767,
+    "lng": -103.4,
     "city": "Zapopan"
   },
   "guadalajara": {
-    "latitude": 20.667,
-    "longitude": -103.35,
+    "lat": 20.667,
+    "lng": -103.35,
     "city": "Guadalajara"
   },
   "monterrey": {
-    "latitude": 25.667,
-    "longitude": -100.3,
+    "lat": 25.667,
+    "lng": -100.3,
     "city": "Monterrey"
   },
   "mexicocity": {
-    "latitude": 19.4,
-    "longitude": -99.117,
+    "lat": 19.4,
+    "lng": -99.117,
     "city": "Mexico City"
   },
   "sanantonio": {
-    "latitude": 29.533,
-    "longitude": -98.467,
+    "lat": 29.533,
+    "lng": -98.467,
     "city": "San Antonio"
   },
   "puebla": {
-    "latitude": 19.05,
-    "longitude": -98.2,
+    "lat": 19.05,
+    "lng": -98.2,
     "city": "Puebla"
   },
   "austin": {
-    "latitude": 30.267,
-    "longitude": -97.767,
+    "lat": 30.267,
+    "lng": -97.767,
     "city": "Austin"
   },
   "oklahomacity": {
-    "latitude": 35.467,
-    "longitude": -97.533,
+    "lat": 35.467,
+    "lng": -97.533,
     "city": "Oklahoma City"
   },
   "wichita": {
-    "latitude": 37.683,
-    "longitude": -97.333,
+    "lat": 37.683,
+    "lng": -97.333,
     "city": "Wichita"
   },
   "winnipeg": {
-    "latitude": 49.9,
-    "longitude": -97.133,
+    "lat": 49.9,
+    "lng": -97.133,
     "city": "Winnipeg"
   },
   "dallas": {
-    "latitude": 32.767,
-    "longitude": -96.8,
+    "lat": 32.767,
+    "lng": -96.8,
     "city": "Dallas"
   },
   "veracruz": {
-    "latitude": 19.183,
-    "longitude": -96.133,
+    "lat": 19.183,
+    "lng": -96.133,
     "city": "Veracruz"
   },
   "houston": {
-    "latitude": 29.75,
-    "longitude": -95.367,
+    "lat": 29.75,
+    "lng": -95.367,
     "city": "Houston"
   },
   "kansascity": {
-    "latitude": 39.1,
-    "longitude": -94.567,
+    "lat": 39.1,
+    "lng": -94.567,
     "city": "Kansas City"
   },
   "minneapolis": {
-    "latitude": 44.967,
-    "longitude": -93.25,
+    "lat": 44.967,
+    "lng": -93.25,
     "city": "Minneapolis"
   },
   "quetzaltenango": {
-    "latitude": 14.833,
-    "longitude": -91.517,
+    "lat": 14.833,
+    "lng": -91.517,
     "city": "Quetzaltenango"
   },
   "guatemalacity": {
-    "latitude": 14.633,
-    "longitude": -90.55,
+    "lat": 14.633,
+    "lng": -90.55,
     "city": "Guatemala City"
   },
   "st.louis": {
-    "latitude": 38.617,
-    "longitude": -90.183,
+    "lat": 38.617,
+    "lng": -90.183,
     "city": "St. Louis"
   },
   "neworleans": {
-    "latitude": 29.967,
-    "longitude": -90.067,
+    "lat": 29.967,
+    "lng": -90.067,
     "city": "New Orleans"
   },
   "memphis": {
-    "latitude": 35.117,
-    "longitude": -89.967,
+    "lat": 35.117,
+    "lng": -89.967,
     "city": "Memphis"
   },
   "m%c3%a9rida": {
-    "latitude": 20.967,
-    "longitude": -89.617,
+    "lat": 20.967,
+    "lng": -89.617,
     "city": "M%C3%A9rida"
   },
   "sansalvador": {
-    "latitude": 13.683,
-    "longitude": -89.183,
+    "lat": 13.683,
+    "lng": -89.183,
     "city": "San Salvador"
   },
   "belmopan": {
-    "latitude": 17.25,
-    "longitude": -88.767,
+    "lat": 17.25,
+    "lng": -88.767,
     "city": "Belmopan"
   },
   "belizecity": {
-    "latitude": 17.483,
-    "longitude": -88.183,
+    "lat": 17.483,
+    "lng": -88.183,
     "city": "Belize City"
   },
   "milwaukee": {
-    "latitude": 47.05,
-    "longitude": -87.95,
+    "lat": 47.05,
+    "lng": -87.95,
     "city": "Milwaukee"
   },
   "chicago": {
-    "latitude": 41.867,
-    "longitude": -87.617,
+    "lat": 41.867,
+    "lng": -87.617,
     "city": "Chicago"
   },
   "tegucigalpa": {
-    "latitude": 14.083,
-    "longitude": -87.217,
+    "lat": 14.083,
+    "lng": -87.217,
     "city": "Tegucigalpa"
   },
   "nashville": {
-    "latitude": 36.167,
-    "longitude": -86.783,
+    "lat": 36.167,
+    "lng": -86.783,
     "city": "Nashville"
   },
   "managua": {
-    "latitude": 12.133,
-    "longitude": -86.25,
+    "lat": 12.133,
+    "lng": -86.25,
     "city": "Managua"
   },
   "indianapolis": {
-    "latitude": 39.783,
-    "longitude": -86.15,
+    "lat": 39.783,
+    "lng": -86.15,
     "city": "Indianapolis"
   },
   "louisville": {
-    "latitude": 38.25,
-    "longitude": -85.75,
+    "lat": 38.25,
+    "lng": -85.75,
     "city": "Louisville"
   },
   "cincinnati": {
-    "latitude": 39.133,
-    "longitude": -84.5,
+    "lat": 39.133,
+    "lng": -84.5,
     "city": "Cincinnati"
   },
   "atlanta": {
-    "latitude": 33.75,
-    "longitude": -84.383,
+    "lat": 33.75,
+    "lng": -84.383,
     "city": "Atlanta"
   },
   "sanjos%c3%a9": {
-    "latitude": 9.933,
-    "longitude": -84.083,
+    "lat": 9.933,
+    "lng": -84.083,
     "city": "San Jos%C3%A9"
   },
   "detroit": {
-    "latitude": 42.333,
-    "longitude": -83.05,
+    "lat": 42.333,
+    "lng": -83.05,
     "city": "Detroit"
   },
   "columbus": {
-    "latitude": 39.983,
-    "longitude": -82.983,
+    "lat": 39.983,
+    "lng": -82.983,
     "city": "Columbus"
   },
   "tampa": {
-    "latitude": 27.967,
-    "longitude": -82.467,
+    "lat": 27.967,
+    "lng": -82.467,
     "city": "Tampa"
   },
   "havana": {
-    "latitude": 23.133,
-    "longitude": -82.383,
+    "lat": 23.133,
+    "lng": -82.383,
     "city": "Havana"
   },
   "cleveland": {
-    "latitude": 41.483,
-    "longitude": -81.667,
+    "lat": 41.483,
+    "lng": -81.667,
     "city": "Cleveland"
   },
   "jacksonville": {
-    "latitude": 30.317,
-    "longitude": -81.65,
+    "lat": 30.317,
+    "lng": -81.65,
     "city": "Jacksonville"
   },
   "georgetown": {
-    "latitude": 5.417,
-    "longitude": 100.317,
+    "lat": 5.417,
+    "lng": 100.317,
     "city": "George Town"
   },
   "charlotte": {
-    "latitude": 35.2,
-    "longitude": -80.817,
+    "lat": 35.2,
+    "lng": -80.817,
     "city": "Charlotte"
   },
   "miami": {
-    "latitude": 25.783,
-    "longitude": -80.217,
+    "lat": 25.783,
+    "lng": -80.217,
     "city": "Miami"
   },
   "pittsburgh": {
-    "latitude": 40.433,
-    "longitude": -79.967,
+    "lat": 40.433,
+    "lng": -79.967,
     "city": "Pittsburgh"
   },
   "guayaquil": {
-    "latitude": 2.183,
-    "longitude": -79.883,
+    "lat": 2.183,
+    "lng": -79.883,
     "city": "Guayaquil"
   },
   "panamacity": {
-    "latitude": 8.983,
-    "longitude": -79.517,
+    "lat": 8.983,
+    "lng": -79.517,
     "city": "Panama City"
   },
   "toronto": {
-    "latitude": 43.65,
-    "longitude": -79.383,
+    "lat": 43.65,
+    "lng": -79.383,
     "city": "Toronto"
   },
   "buffalo": {
-    "latitude": 42.9,
-    "longitude": -78.85,
+    "lat": 42.9,
+    "lng": -78.85,
     "city": "Buffalo"
   },
   "raleigh": {
-    "latitude": 35.817,
-    "longitude": -78.633,
+    "lat": 35.817,
+    "lng": -78.633,
     "city": "Raleigh"
   },
   "quito": {
-    "latitude": 0.25,
-    "longitude": -78.583,
+    "lat": 0.25,
+    "lng": -78.583,
     "city": "Quito"
   },
   "rochester": {
-    "latitude": 43.15,
-    "longitude": -77.6,
+    "lat": 43.15,
+    "lng": -77.6,
     "city": "Rochester"
   },
   "nassau": {
-    "latitude": 25.05,
-    "longitude": -77.333,
+    "lat": 25.05,
+    "lng": -77.333,
     "city": "Nassau"
   },
   "washington": {
-    "latitude": 38.883,
-    "longitude": -77.033,
+    "lat": 38.883,
+    "lng": -77.033,
     "city": "Washington"
   },
   "lima": {
-    "latitude": -12.033,
-    "longitude": -77.017,
+    "lat": -12.033,
+    "lng": -77.017,
     "city": "Lima"
   },
   "kingston": {
-    "latitude": -29.067,
-    "longitude": 167.967,
+    "lat": -29.067,
+    "lng": 167.967,
     "city": "Kingston"
   },
   "baltimore": {
-    "latitude": 39.283,
-    "longitude": -76.617,
+    "lat": 39.283,
+    "lng": -76.617,
     "city": "Baltimore"
   },
   "cali": {
-    "latitude": 3.417,
-    "longitude": -76.517,
+    "lat": 3.417,
+    "lng": -76.517,
     "city": "Cali"
   },
   "virginiabeach": {
-    "latitude": 36.85,
-    "longitude": -75.983,
+    "lat": 36.85,
+    "lng": -75.983,
     "city": "Virginia Beach"
   },
   "santiagodecuba": {
-    "latitude": 20.017,
-    "longitude": -75.8,
+    "lat": 20.017,
+    "lng": -75.8,
     "city": "Santiago de Cuba"
   },
   "ottawa": {
-    "latitude": 45.417,
-    "longitude": -75.683,
+    "lat": 45.417,
+    "lng": -75.683,
     "city": "Ottawa"
   },
   "medell%c3%adn": {
-    "latitude": 6.233,
-    "longitude": -75.567,
+    "lat": 6.233,
+    "lng": -75.567,
     "city": "Medell%C3%ADn"
   },
   "cartagena": {
-    "latitude": 10.4,
-    "longitude": -75.5,
+    "lat": 10.4,
+    "lng": -75.5,
     "city": "Cartagena"
   },
   "philadelphia": {
-    "latitude": 39.95,
-    "longitude": -75.167,
+    "lat": 39.95,
+    "lng": -75.167,
     "city": "Philadelphia"
   },
   "barranquilla": {
-    "latitude": 10.95,
-    "longitude": -74.783,
+    "lat": 10.95,
+    "lng": -74.783,
     "city": "Barranquilla"
   },
   "forkedriver": {
-    "latitude": 39.817,
-    "longitude": -74.183,
+    "lat": 39.817,
+    "lng": -74.183,
     "city": "Forked River"
   },
   "jerseycity": {
-    "latitude": 41.433,
-    "longitude": -74.133,
+    "lat": 41.433,
+    "lng": -74.133,
     "city": "Jersey City"
   },
   "bogot%c3%a1": {
-    "latitude": 4.6,
-    "longitude": -74.067,
+    "lat": 4.6,
+    "lng": -74.067,
     "city": "Bogot%C3%A1"
   },
   "newyorkcity": {
-    "latitude": 40.717,
-    "longitude": -74.0,
+    "lat": 40.717,
+    "lng": -74.0,
     "city": "New York City"
   },
   "montreal": {
-    "latitude": 45.5,
-    "longitude": -73.55,
+    "lat": 45.5,
+    "lng": -73.55,
     "city": "Montreal"
   },
   "iquitos": {
-    "latitude": -3.733,
-    "longitude": -73.25,
+    "lat": -3.733,
+    "lng": -73.25,
     "city": "Iquitos"
   },
   "valdivia": {
-    "latitude": -39.817,
-    "longitude": -73.233,
+    "lat": -39.817,
+    "lng": -73.233,
     "city": "Valdivia"
   },
   "concepci%c3%b3n": {
-    "latitude": -36.833,
-    "longitude": -73.05,
+    "lat": -36.833,
+    "lng": -73.05,
     "city": "Concepci%C3%B3n"
   },
   "portauprince": {
-    "latitude": 18.533,
-    "longitude": -72.333,
+    "lat": 18.533,
+    "lng": -72.333,
     "city": "Port-au-Prince"
   },
   "cusco": {
-    "latitude": -13.5,
-    "longitude": -71.967,
+    "lat": -13.5,
+    "lng": -71.967,
     "city": "Cusco"
   },
   "maracaibo": {
-    "latitude": -10.65,
-    "longitude": -71.633,
+    "lat": -10.65,
+    "lng": -71.633,
     "city": "Maracaibo"
   },
   "valpara%c3%adso": {
-    "latitude": -33.05,
-    "longitude": -71.617,
+    "lat": -33.05,
+    "lng": -71.617,
     "city": "Valpara%C3%ADso"
   },
   "arequipa": {
-    "latitude": -16.4,
-    "longitude": -71.533,
+    "lat": -16.4,
+    "lng": -71.533,
     "city": "Arequipa"
   },
   "providence": {
-    "latitude": 41.817,
-    "longitude": -71.417,
+    "lat": 41.817,
+    "lng": -71.417,
     "city": "Providence"
   },
   "sancarlosdebariloche": {
-    "latitude": -41.15,
-    "longitude": -71.3,
+    "lat": -41.15,
+    "lng": -71.3,
     "city": "San Carlos de Bariloche"
   },
   "laserena": {
-    "latitude": -29.9,
-    "longitude": -71.25,
+    "lat": -29.9,
+    "lng": -71.25,
     "city": "La Serena"
   },
   "quebeccity": {
-    "latitude": 46.8,
-    "longitude": -71.217,
+    "lat": 46.8,
+    "lng": -71.217,
     "city": "Quebec City"
   },
   "cockburntown": {
-    "latitude": 21.45,
-    "longitude": -71.133,
+    "lat": 21.45,
+    "lng": -71.133,
     "city": "Cockburn Town"
   },
   "boston": {
-    "latitude": 42.35,
-    "longitude": -71.05,
+    "lat": 42.35,
+    "lng": -71.05,
     "city": "Boston"
   },
   "puntaarenas": {
-    "latitude": -53.167,
-    "longitude": -70.933,
+    "lat": -53.167,
+    "lng": -70.933,
     "city": "Punta Arenas"
   },
   "santiago": {
-    "latitude": -33.45,
-    "longitude": -70.667,
+    "lat": -33.45,
+    "lng": -70.667,
     "city": "Santiago"
   },
   "antofagasta": {
-    "latitude": -23.65,
-    "longitude": -70.4,
+    "lat": -23.65,
+    "lng": -70.4,
     "city": "Antofagasta"
   },
   "iquique": {
-    "latitude": -20.217,
-    "longitude": -70.15,
+    "lat": -20.217,
+    "lng": -70.15,
     "city": "Iquique"
   },
   "oranjestad": {
-    "latitude": 12.517,
-    "longitude": -70.033,
+    "lat": 12.517,
+    "lng": -70.033,
     "city": "Oranjestad"
   },
   "santodomingo": {
-    "latitude": 18.483,
-    "longitude": -69.917,
+    "lat": 18.483,
+    "lng": -69.917,
     "city": "Santo Domingo"
   },
   "riobranco": {
-    "latitude": -10.117,
-    "longitude": -69.35,
+    "lat": -10.117,
+    "lng": -69.35,
     "city": "Rio Branco"
   },
   "willemstad": {
-    "latitude": 12.117,
-    "longitude": -68.933,
+    "lat": 12.117,
+    "lng": -68.933,
     "city": "Willemstad"
   },
   "calama": {
-    "latitude": -22.467,
-    "longitude": -68.933,
+    "lat": -22.467,
+    "lng": -68.933,
     "city": "Calama"
   },
   "mendoza": {
-    "latitude": -32.883,
-    "longitude": -68.817,
+    "lat": -32.883,
+    "lng": -68.817,
     "city": "Mendoza"
   },
   "iqaluit": {
-    "latitude": 63.75,
-    "longitude": -68.517,
+    "lat": 63.75,
+    "lng": -68.517,
     "city": "Iqaluit"
   },
   "ushuaia": {
-    "latitude": -54.8,
-    "longitude": -68.3,
+    "lat": -54.8,
+    "lng": -68.3,
     "city": "Ushuaia"
   },
   "lapaz": {
-    "latitude": -16.5,
-    "longitude": -68.15,
+    "lat": -16.5,
+    "lng": -68.15,
     "city": "La Paz"
   },
   "puertowilliams": {
-    "latitude": 54.933,
-    "longitude": -67.617,
+    "lat": 54.933,
+    "lng": -67.617,
     "city": "Puerto Williams"
   },
   "caracas": {
-    "latitude": 10.5,
-    "longitude": -66.917,
+    "lat": 10.5,
+    "lng": -66.917,
     "city": "Caracas"
   },
   "fredericton": {
-    "latitude": 45.95,
-    "longitude": -66.667,
+    "lat": 45.95,
+    "lng": -66.667,
     "city": "Fredericton"
   },
   "sanjuan": {
-    "latitude": 18.45,
-    "longitude": -66.067,
+    "lat": 18.45,
+    "lng": -66.067,
     "city": "San Juan"
   },
   "saintjohn": {
-    "latitude": 45.267,
-    "longitude": -66.05,
+    "lat": 45.267,
+    "lng": -66.05,
     "city": "Saint John"
   },
   "sucre": {
-    "latitude": -19.033,
-    "longitude": -65.25,
+    "lat": -19.033,
+    "lng": -65.25,
     "city": "Sucre"
   },
   "charlotteamalie": {
-    "latitude": -18.35,
-    "longitude": -64.95,
+    "lat": -18.35,
+    "lng": -64.95,
     "city": "Charlotte Amalie"
   },
   "hamilton": {
-    "latitude": -37.783,
-    "longitude": 175.283,
+    "lat": -37.783,
+    "lng": 175.283,
     "city": "Hamilton"
   },
   "roadtown": {
-    "latitude": 18.433,
-    "longitude": -64.617,
+    "lat": 18.433,
+    "lng": -64.617,
     "city": "Road Town"
   },
   "c%c3%b3rdoba": {
-    "latitude": -31.4,
-    "longitude": -64.183,
+    "lat": -31.4,
+    "lng": -64.183,
     "city": "C%C3%B3rdoba"
   },
   "portovelho": {
-    "latitude": -8.75,
-    "longitude": -63.9,
+    "lat": -8.75,
+    "lng": -63.9,
     "city": "Porto Velho"
   },
   "cityofhalifax": {
-    "latitude": 44.667,
-    "longitude": -63.6,
+    "lat": 44.667,
+    "lng": -63.6,
     "city": "City of Halifax"
   },
   "santacruzdelasierra": {
-    "latitude": -17.8,
-    "longitude": -63.167,
+    "lat": -17.8,
+    "lng": -63.167,
     "city": "Santa Cruz de la Sierra"
   },
   "charlottetown": {
-    "latitude": 46.233,
-    "longitude": -63.133,
+    "lat": 46.233,
+    "lng": -63.133,
     "city": "Charlottetown"
   },
   "thevalley": {
-    "latitude": 18.217,
-    "longitude": -63.05,
+    "lat": 18.217,
+    "lng": -63.05,
     "city": "The Valley"
   },
   "basseterre": {
-    "latitude": 15.983,
-    "longitude": -61.717,
+    "lat": 15.983,
+    "lng": -61.717,
     "city": "Basse-Terre"
   },
   "bah%c3%adablanca": {
-    "latitude": -38.717,
-    "longitude": -62.267,
+    "lat": -38.717,
+    "lng": -62.267,
     "city": "Bah%C3%ADa Blanca"
   },
   "st.john%27s": {
-    "latitude": 47.55,
-    "longitude": -52.7,
+    "lat": 47.55,
+    "lng": -52.7,
     "city": "St. John%27s"
   },
   "st.george%27s": {
-    "latitude": 12.05,
-    "longitude": -61.75,
+    "lat": 12.05,
+    "lng": -61.75,
     "city": "St. George%27s"
   },
   "portofspain": {
-    "latitude": 10.667,
-    "longitude": -61.517,
+    "lat": 10.667,
+    "lng": -61.517,
     "city": "Port of Spain"
   },
   "sanfernando": {
-    "latitude": 10.283,
-    "longitude": -61.467,
+    "lat": 10.283,
+    "lng": -61.467,
     "city": "San Fernando"
   },
   "roseau": {
-    "latitude": 15.3,
-    "longitude": -61.383,
+    "lat": 15.3,
+    "lng": -61.383,
     "city": "Roseau"
   },
   "chaguanas": {
-    "latitude": 10.5,
-    "longitude": -61.383,
+    "lat": 10.5,
+    "lng": -61.383,
     "city": "Chaguanas"
   },
   "kingstown": {
-    "latitude": 13.167,
-    "longitude": -61.233,
+    "lat": 13.167,
+    "lng": -61.233,
     "city": "Kingstown"
   },
   "fortdefrance": {
-    "latitude": 14.6,
-    "longitude": -61.083,
+    "lat": 14.6,
+    "lng": -61.083,
     "city": "Fort-de-France"
   },
   "castries": {
-    "latitude": 14.017,
-    "longitude": -60.983,
+    "lat": 14.017,
+    "lng": -60.983,
     "city": "Castries"
   },
   "rosario": {
-    "latitude": -32.95,
-    "longitude": -60.667,
+    "lat": -32.95,
+    "lng": -60.667,
     "city": "Rosario"
   },
   "boavista": {
-    "latitude": 2.817,
-    "longitude": -60.65,
+    "lat": 2.817,
+    "lng": -60.65,
     "city": "Boa Vista"
   },
   "manaus": {
-    "latitude": -3.1,
-    "longitude": -60.017,
+    "lat": -3.1,
+    "lng": -60.017,
     "city": "Manaus"
   },
   "bridgetown": {
-    "latitude": 13.083,
-    "longitude": -59.617,
+    "lat": 13.083,
+    "lng": -59.617,
     "city": "Bridgetown"
   },
   "buenosaires": {
-    "latitude": -34.6,
-    "longitude": -58.367,
+    "lat": -34.6,
+    "lng": -58.367,
     "city": "Buenos Aires"
   },
   "stanley": {
-    "latitude": 51.683,
-    "longitude": -57.85,
+    "lat": 51.683,
+    "lng": -57.85,
     "city": "Stanley"
   },
   "asunci%c3%b3n": {
-    "latitude": -25.267,
-    "longitude": -57.667,
+    "lat": -25.267,
+    "lng": -57.667,
     "city": "Asunci%C3%B3n"
   },
   "saintpierre": {
-    "latitude": 46.767,
-    "longitude": -56.167,
+    "lat": 46.767,
+    "lng": -56.167,
     "city": "Saint-Pierre"
   },
   "montevideo": {
-    "latitude": -34.917,
-    "longitude": -56.167,
+    "lat": -34.917,
+    "lng": -56.167,
     "city": "Montevideo"
   },
   "cuiab%c3%a1": {
-    "latitude": -15.583,
-    "longitude": -56.083,
+    "lat": -15.583,
+    "lng": -56.083,
     "city": "Cuiab%C3%A1"
   },
   "paramaribo": {
-    "latitude": 5.867,
-    "longitude": -55.167,
+    "lat": 5.867,
+    "lng": -55.167,
     "city": "Paramaribo"
   },
   "campogrande": {
-    "latitude": -20.433,
-    "longitude": -54.633,
+    "lat": -20.433,
+    "lng": -54.633,
     "city": "Campo Grande"
   },
   "ciudaddeleste": {
-    "latitude": -25.417,
-    "longitude": -54.617,
+    "lat": -25.417,
+    "lng": -54.617,
     "city": "Ciudad del Este"
   },
   "chu%c3%ad": {
-    "latitude": -33.683,
-    "longitude": -53.45,
+    "lat": -33.683,
+    "lng": -53.45,
     "city": "Chu%C3%AD"
   },
   "pelotas": {
-    "latitude": -31.767,
-    "longitude": -52.333,
+    "lat": -31.767,
+    "lng": -52.333,
     "city": "Pelotas"
   },
   "cayenne": {
-    "latitude": 4.917,
-    "longitude": -52.317,
+    "lat": 4.917,
+    "lng": -52.317,
     "city": "Cayenne"
   },
   "nuuk": {
-    "latitude": 64.167,
-    "longitude": -51.75,
+    "lat": 64.167,
+    "lng": -51.75,
     "city": "Nuuk"
   },
   "portoalegre": {
-    "latitude": 30.033,
-    "longitude": -51.217,
+    "lat": 30.033,
+    "lng": -51.217,
     "city": "Porto Alegre"
   },
   "macap%c3%a1": {
-    "latitude": 0.033,
-    "longitude": -51.05,
+    "lat": 0.033,
+    "lng": -51.05,
     "city": "Macap%C3%A1"
   },
   "assis": {
-    "latitude": -22.65,
-    "longitude": -50.4,
+    "lat": -22.65,
+    "lng": -50.4,
     "city": "Assis"
   },
   "curitiba": {
-    "latitude": -25.417,
-    "longitude": -49.25,
+    "lat": -25.417,
+    "lng": -49.25,
     "city": "Curitiba"
   },
   "bel%c3%a9m": {
-    "latitude": 1.467,
-    "longitude": -48.483,
+    "lat": 1.467,
+    "lng": -48.483,
     "city": "Bel%C3%A9m"
   },
   "bras%c3%adlia": {
-    "latitude": -15.8,
-    "longitude": -47.9,
+    "lat": -15.8,
+    "lng": -47.9,
     "city": "Bras%C3%ADlia"
   },
   "campinas": {
-    "latitude": -22.9,
-    "longitude": -47.05,
+    "lat": -22.9,
+    "lng": -47.05,
     "city": "Campinas"
   },
   "s%c3%a3opaulo": {
-    "latitude": -23.55,
-    "longitude": -46.633,
+    "lat": -23.55,
+    "lng": -46.633,
     "city": "S%C3%A3o Paulo"
   },
   "s%c3%a3ojos%c3%a9doscampos": {
-    "latitude": -23.183,
-    "longitude": -45.867,
+    "lat": -23.183,
+    "lng": -45.867,
     "city": "S%C3%A3o Jos%C3%A9 dos Campos"
   },
   "riodejaneiro": {
-    "latitude": -22.9,
-    "longitude": -43.233,
+    "lat": -22.9,
+    "lng": -43.233,
     "city": "Rio de Janeiro"
   },
   "vit%c3%b3ria": {
-    "latitude": -20.317,
-    "longitude": -40.333,
+    "lat": -20.317,
+    "lng": -40.333,
     "city": "Vit%C3%B3ria"
   },
   "ilh%c3%a9us": {
-    "latitude": -14.783,
-    "longitude": -39.05,
+    "lat": -14.783,
+    "lng": -39.05,
     "city": "Ilh%C3%A9us"
   },
   "fortaleza": {
-    "latitude": -3.767,
-    "longitude": -38.567,
+    "lat": -3.767,
+    "lng": -38.567,
     "city": "Fortaleza"
   },
   "macei%c3%b3": {
-    "latitude": -9.65,
-    "longitude": -35.717,
+    "lat": -9.65,
+    "lng": -35.717,
     "city": "Macei%C3%B3"
   },
   "recife": {
-    "latitude": -8.067,
-    "longitude": -34.867,
+    "lat": -8.067,
+    "lng": -34.867,
     "city": "Recife"
   },
   "horta": {
-    "latitude": 38.533,
-    "longitude": -28.633,
+    "lat": 38.533,
+    "lng": -28.633,
     "city": "Horta (Azores)"
   },
   "angradohero%c3%adsmo": {
-    "latitude": 38.65,
-    "longitude": -27.217,
+    "lat": 38.65,
+    "lng": -27.217,
     "city": "Angra do Hero%C3%ADsmo"
   },
   "pontadelgada": {
-    "latitude": 37.733,
-    "longitude": -25.667,
+    "lat": 37.733,
+    "lng": -25.667,
     "city": "Ponta Delgada"
   },
   "praia": {
-    "latitude": 14.917,
-    "longitude": -23.517,
+    "lat": 14.917,
+    "lng": -23.517,
     "city": "Praia"
   },
   "reykjav%c3%adk": {
-    "latitude": 64.133,
-    "longitude": -21.933,
+    "lat": 64.133,
+    "lng": -21.933,
     "city": "Reykjav%C3%ADk"
   },
   "dakar": {
-    "latitude": 14.683,
-    "longitude": -17.433,
+    "lat": 14.683,
+    "lng": -17.433,
     "city": "Dakar"
   },
   "thi%c3%a8s": {
-    "latitude": 14.833,
-    "longitude": -17.1,
+    "lat": 14.833,
+    "lng": -17.1,
     "city": "Thi%C3%A8s"
   },
   "serekunda": {
-    "latitude": 13.433,
-    "longitude": -16.667,
+    "lat": 13.433,
+    "lng": -16.667,
     "city": "Serekunda"
   },
   "brikama": {
-    "latitude": 13.267,
-    "longitude": -16.65,
+    "lat": 13.267,
+    "lng": -16.65,
     "city": "Brikama"
   },
   "banjul": {
-    "latitude": 13.45,
-    "longitude": -16.567,
+    "lat": 13.45,
+    "lng": -16.567,
     "city": "Banjul"
   },
   "santacruzdetenerife": {
-    "latitude": 28.467,
-    "longitude": -16.25,
+    "lat": 28.467,
+    "lng": -16.25,
     "city": "Santa Cruz de Tenerife"
   },
   "nouakchott": {
-    "latitude": 18.1,
-    "longitude": -15.95,
+    "lat": 18.1,
+    "lng": -15.95,
     "city": "Nouakchott"
   },
   "bissau": {
-    "latitude": 11.85,
-    "longitude": -15.583,
+    "lat": 11.85,
+    "lng": -15.583,
     "city": "Bissau"
   },
   "laspalmasdegrancanaria": {
-    "latitude": 28.133,
-    "longitude": -15.433,
+    "lat": 28.133,
+    "lng": -15.433,
     "city": "Las Palmas de Gran Canaria"
   },
   "conakry": {
-    "latitude": 9.517,
-    "longitude": -13.7,
+    "lat": 9.517,
+    "lng": -13.7,
     "city": "Conakry"
   },
   "freetown": {
-    "latitude": 8.467,
-    "longitude": -13.267,
+    "lat": 8.467,
+    "lng": -13.267,
     "city": "Freetown"
   },
   "elaai%c3%ban": {
-    "latitude": 27.15,
-    "longitude": -13.2,
+    "lat": 27.15,
+    "lng": -13.2,
     "city": "El Aai%C3%BAn"
   },
   "monrovia": {
-    "latitude": 6.317,
-    "longitude": -10.767,
+    "lat": 6.317,
+    "lng": -10.767,
     "city": "Monrovia"
   },
   "lisbon": {
-    "latitude": 38.7,
-    "longitude": -9.183,
+    "lat": 38.7,
+    "lng": -9.183,
     "city": "Lisbon"
   },
   "porto": {
-    "latitude": 41.15,
-    "longitude": -8.633,
+    "lat": 41.15,
+    "lng": -8.633,
     "city": "Porto"
   },
   "cork": {
-    "latitude": 51.883,
-    "longitude": -8.467,
+    "lat": 51.883,
+    "lng": -8.467,
     "city": "Cork (city)"
   },
   "marrakech": {
-    "latitude": 31.633,
-    "longitude": -8.0,
+    "lat": 31.633,
+    "lng": -8.0,
     "city": "Marrakech"
   },
   "bamako": {
-    "latitude": 12.65,
-    "longitude": -8.0,
+    "lat": 12.65,
+    "lng": -8.0,
     "city": "Bamako"
   },
   "casablanca": {
-    "latitude": 33.533,
-    "longitude": -7.583,
+    "lat": 33.533,
+    "lng": -7.583,
     "city": "Casablanca"
   },
   "koulikoro": {
-    "latitude": 12.983,
-    "longitude": -7.567,
+    "lat": 12.983,
+    "lng": -7.567,
     "city": "Koulikoro"
   },
   "rabat": {
-    "latitude": 34.033,
-    "longitude": -6.833,
+    "lat": 34.033,
+    "lng": -6.833,
     "city": "Rabat"
   },
   "t%c3%b3rshavn": {
-    "latitude": 62.0,
-    "longitude": -6.783,
+    "lat": 62.0,
+    "lng": -6.783,
     "city": "T%C3%B3rshavn"
   },
   "dublin": {
-    "latitude": 53.333,
-    "longitude": -6.267,
+    "lat": 53.333,
+    "lng": -6.267,
     "city": "Dublin"
   },
   "seville": {
-    "latitude": 37.367,
-    "longitude": -5.983,
+    "lat": 37.367,
+    "lng": -5.983,
     "city": "Seville"
   },
   "belfast": {
-    "latitude": 54.6,
-    "longitude": -5.917,
+    "lat": 54.6,
+    "lng": -5.917,
     "city": "Belfast"
   },
   "jamestown": {
-    "latitude": -15.917,
-    "longitude": -5.733,
+    "lat": -15.917,
+    "lng": -5.733,
     "city": "Jamestown"
   },
   "gibraltar": {
-    "latitude": 36.133,
-    "longitude": -5.35,
+    "lat": 36.133,
+    "lng": -5.35,
     "city": "Gibraltar"
   },
   "yamoussoukro": {
-    "latitude": 6.817,
-    "longitude": -5.283,
+    "lat": 6.817,
+    "lng": -5.283,
     "city": "Yamoussoukro"
   },
   "douglas": {
-    "latitude": 54.133,
-    "longitude": -4.483,
+    "lat": 54.133,
+    "lng": -4.483,
     "city": "Douglas"
   },
   "m%c3%a1laga": {
-    "latitude": 36.717,
-    "longitude": -4.417,
+    "lat": 36.717,
+    "lng": -4.417,
     "city": "M%C3%A1laga"
   },
   "glasgow": {
-    "latitude": 55.85,
-    "longitude": -4.25,
+    "lat": 55.85,
+    "lng": -4.25,
     "city": "Glasgow"
   },
   "abidjan": {
-    "latitude": 5.333,
-    "longitude": -4.017,
+    "lat": 5.333,
+    "lng": -4.017,
     "city": "Abidjan"
   },
   "madrid": {
-    "latitude": 40.4,
-    "longitude": -3.683,
+    "lat": 40.4,
+    "lng": -3.683,
     "city": "Madrid"
   },
   "cardiff": {
-    "latitude": 51.483,
-    "longitude": -3.183,
+    "lat": 51.483,
+    "lng": -3.183,
     "city": "Cardiff"
   },
   "edinburgh": {
-    "latitude": 55.95,
-    "longitude": -3.15,
+    "lat": 55.95,
+    "lng": -3.15,
     "city": "Edinburgh"
   },
   "timbuktu": {
-    "latitude": 16.767,
-    "longitude": -3.0,
+    "lat": 16.767,
+    "lng": -3.0,
     "city": "Timbuktu"
   },
   "liverpool": {
-    "latitude": 53.4,
-    "longitude": -2.983,
+    "lat": 53.4,
+    "lng": -2.983,
     "city": "Liverpool"
   },
   "bilbao": {
-    "latitude": 43.25,
-    "longitude": -2.917,
+    "lat": 43.25,
+    "lng": -2.917,
     "city": "Bilbao"
   },
   "manchester": {
-    "latitude": 53.467,
-    "longitude": -2.233,
+    "lat": 53.467,
+    "lng": -2.233,
     "city": "Manchester"
   },
   "aberdeen": {
-    "latitude": 57.15,
-    "longitude": -2.1,
+    "lat": 57.15,
+    "lng": -2.1,
     "city": "Aberdeen"
   },
   "birmingham": {
-    "latitude": 52.483,
-    "longitude": -1.883,
+    "lat": 52.483,
+    "lng": -1.883,
     "city": "Birmingham"
   },
   "leeds": {
-    "latitude": 53.8,
-    "longitude": -1.55,
+    "lat": 53.8,
+    "lng": -1.55,
     "city": "Leeds"
   },
   "nantes": {
-    "latitude": 47.217,
-    "longitude": -1.55,
+    "lat": 47.217,
+    "lng": -1.55,
     "city": "Nantes"
   },
   "ouagadougou": {
-    "latitude": 12.35,
-    "longitude": -1.533,
+    "lat": 12.35,
+    "lng": -1.533,
     "city": "Ouagadougou"
   },
   "tamale": {
-    "latitude": 9.4,
-    "longitude": -0.85,
+    "lat": 9.4,
+    "lng": -0.85,
     "city": "Tamale"
   },
   "valencia": {
-    "latitude": 39.483,
-    "longitude": -0.367,
+    "lat": 39.483,
+    "lng": -0.367,
     "city": "Valencia"
   },
   "accra": {
-    "latitude": 5.55,
-    "longitude": -0.2,
+    "lat": 5.55,
+    "lng": -0.2,
     "city": "Accra"
   },
   "london": {
-    "latitude": 51.5,
-    "longitude": -0.117,
+    "lat": 51.5,
+    "lng": -0.117,
     "city": "London"
   },
   "greenwich": {
-    "latitude": 51.467,
-    "longitude": -0.0,
+    "lat": 51.467,
+    "lng": -0.0,
     "city": "Greenwich"
   },
   "lom%c3%a9": {
-    "latitude": 6.133,
-    "longitude": 1.2,
+    "lat": 6.133,
+    "lng": 1.2,
     "city": "Lom%C3%A9"
   },
   "toulouse": {
-    "latitude": 43.6,
-    "longitude": 1.433,
+    "lat": 43.6,
+    "lng": 1.433,
     "city": "Toulouse"
   },
   "andorralavella": {
-    "latitude": 42.5,
-    "longitude": 1.5,
+    "lat": 42.5,
+    "lng": 1.5,
     "city": "Andorra la Vella"
   },
   "ibiza": {
-    "latitude": 39.633,
-    "longitude": 1.717,
+    "lat": 39.633,
+    "lng": 1.717,
     "city": "Ibiza"
   },
   "niamey": {
-    "latitude": 13.517,
-    "longitude": 2.1,
+    "lat": 13.517,
+    "lng": 2.1,
     "city": "Niamey"
   },
   "barcelona": {
-    "latitude": 41.383,
-    "longitude": 2.183,
+    "lat": 41.383,
+    "lng": 2.183,
     "city": "Barcelona"
   },
   "paris": {
-    "latitude": 48.867,
-    "longitude": 2.333,
+    "lat": 48.867,
+    "lng": 2.333,
     "city": "Paris"
   },
   "cotonou": {
-    "latitude": 6.35,
-    "longitude": 2.417,
+    "lat": 6.35,
+    "lng": 2.417,
     "city": "Cotonou"
   },
   "portonovo": {
-    "latitude": 6.5,
-    "longitude": 2.6,
+    "lat": 6.5,
+    "lng": 2.6,
     "city": "Porto-Novo"
   },
   "palma": {
-    "latitude": 39.567,
-    "longitude": 2.65,
+    "lat": 39.567,
+    "lng": 2.65,
     "city": "Palma"
   },
   "algiers": {
-    "latitude": 36.7,
-    "longitude": 3.217,
+    "lat": 36.7,
+    "lng": 3.217,
     "city": "Algiers"
   },
   "lagos": {
-    "latitude": 6.45,
-    "longitude": 3.383,
+    "lat": 6.45,
+    "lng": 3.383,
     "city": "Lagos"
   },
   "ibadan": {
-    "latitude": 7.367,
-    "longitude": 3.883,
+    "lat": 7.367,
+    "lng": 3.883,
     "city": "Ibadan"
   },
   "thehague": {
-    "latitude": 52.067,
-    "longitude": 4.3,
+    "lat": 52.067,
+    "lng": 4.3,
     "city": "The Hague"
   },
   "brussels": {
-    "latitude": 50.833,
-    "longitude": 4.35,
+    "lat": 50.833,
+    "lng": 4.35,
     "city": "Brussels"
   },
   "antwerp": {
-    "latitude": 51.217,
-    "longitude": 4.4,
+    "lat": 51.217,
+    "lng": 4.4,
     "city": "Antwerp"
   },
   "rotterdam": {
-    "latitude": 51.933,
-    "longitude": 4.467,
+    "lat": 51.933,
+    "lng": 4.467,
     "city": "Rotterdam"
   },
   "lyon": {
-    "latitude": 45.767,
-    "longitude": 4.833,
+    "lat": 45.767,
+    "lng": 4.833,
     "city": "Lyon"
   },
   "amsterdam": {
-    "latitude": 52.367,
-    "longitude": 4.883,
+    "lat": 52.367,
+    "lng": 4.883,
     "city": "Amsterdam"
   },
   "marseille": {
-    "latitude": 43.3,
-    "longitude": 5.367,
+    "lat": 43.3,
+    "lng": 5.367,
     "city": "Marseille"
   },
   "bergen": {
-    "latitude": 60.367,
-    "longitude": 5.4,
+    "lat": 60.367,
+    "lng": 5.4,
     "city": "Bergen"
   },
   "luxembourg": {
-    "latitude": 49.6,
-    "longitude": 6.117,
+    "lat": 49.6,
+    "lng": 6.117,
     "city": "Luxembourg (city)"
   },
   "geneva": {
-    "latitude": 46.2,
-    "longitude": 6.15,
+    "lat": 46.2,
+    "lng": 6.15,
     "city": "Geneva"
   },
   "s%c3%a3otom%c3%a9": {
-    "latitude": 0.333,
-    "longitude": 6.683,
+    "lat": 0.333,
+    "lng": 6.683,
     "city": "S%C3%A3o Tom%C3%A9"
   },
   "d%c3%bcsseldorf": {
-    "latitude": 51.233,
-    "longitude": 6.783,
+    "lat": 51.233,
+    "lng": 6.783,
     "city": "D%C3%BCsseldorf"
   },
   "cologne": {
-    "latitude": 50.95,
-    "longitude": 6.967,
+    "lat": 50.95,
+    "lng": 6.967,
     "city": "Cologne"
   },
   "cannes": {
-    "latitude": 43.55,
-    "longitude": 7.0,
+    "lat": 43.55,
+    "lng": 7.0,
     "city": "Cannes"
   },
   "nice": {
-    "latitude": 43.7,
-    "longitude": 7.267,
+    "lat": 43.7,
+    "lng": 7.267,
     "city": "Nice"
   },
   "monaco": {
-    "latitude": 43.733,
-    "longitude": 7.4,
+    "lat": 43.733,
+    "lng": 7.4,
     "city": "Monaco"
   },
   "bern": {
-    "latitude": 46.95,
-    "longitude": 7.45,
+    "lat": 46.95,
+    "lng": 7.45,
     "city": "Bern"
   },
   "abuja": {
-    "latitude": 9.067,
-    "longitude": 7.483,
+    "lat": 9.067,
+    "lng": 7.483,
     "city": "Abuja"
   },
   "enugu": {
-    "latitude": 6.45,
-    "longitude": 7.5,
+    "lat": 6.45,
+    "lng": 7.5,
     "city": "Enugu"
   },
   "turin": {
-    "latitude": 45.067,
-    "longitude": 7.7,
+    "lat": 45.067,
+    "lng": 7.7,
     "city": "Turin"
   },
   "strasbourg": {
-    "latitude": 48.583,
-    "longitude": 7.75,
+    "lat": 48.583,
+    "lng": 7.75,
     "city": "Strasbourg"
   },
   "kano": {
-    "latitude": 12.0,
-    "longitude": 8.517,
+    "lat": 12.0,
+    "lng": 8.517,
     "city": "Kano"
   },
   "z%c3%bcrich": {
-    "latitude": 47.367,
-    "longitude": 8.55,
+    "lat": 47.367,
+    "lng": 8.55,
     "city": "Z%C3%BCrich"
   },
   "frankfurt": {
-    "latitude": 50.1,
-    "longitude": 8.683,
+    "lat": 50.1,
+    "lng": 8.683,
     "city": "Frankfurt"
   },
   "malabo": {
-    "latitude": 3.75,
-    "longitude": 8.767,
+    "lat": 3.75,
+    "lng": 8.767,
     "city": "Malabo"
   },
   "stuttgart": {
-    "latitude": 48.767,
-    "longitude": 9.167,
+    "lat": 48.767,
+    "lng": 9.167,
     "city": "Stuttgart"
   },
   "milan": {
-    "latitude": 45.467,
-    "longitude": 9.183,
+    "lat": 45.467,
+    "lng": 9.183,
     "city": "Milan"
   },
   "libreville": {
-    "latitude": 0.383,
-    "longitude": 9.45,
+    "lat": 0.383,
+    "lng": 9.45,
     "city": "Libreville"
   },
   "vaduz": {
-    "latitude": 47.133,
-    "longitude": 9.517,
+    "lat": 47.133,
+    "lng": 9.517,
     "city": "Vaduz"
   },
   "douala": {
-    "latitude": 4.05,
-    "longitude": 9.7,
+    "lat": 4.05,
+    "lng": 9.7,
     "city": "Douala"
   },
   "hanover": {
-    "latitude": 52.367,
-    "longitude": 9.717,
+    "lat": 52.367,
+    "lng": 9.717,
     "city": "Hanover"
   },
   "hamburg": {
-    "latitude": 53.583,
-    "longitude": 9.983,
+    "lat": 53.583,
+    "lng": 9.983,
     "city": "Hamburg"
   },
   "tunis": {
-    "latitude": 36.8,
-    "longitude": 10.167,
+    "lat": 36.8,
+    "lng": 10.167,
     "city": "Tunis"
   },
   "aarhus": {
-    "latitude": 56.15,
-    "longitude": 10.2,
+    "lat": 56.15,
+    "lng": 10.2,
     "city": "Aarhus"
   },
   "oslo": {
-    "latitude": 59.95,
-    "longitude": 10.75,
+    "lat": 59.95,
+    "lng": 10.75,
     "city": "Oslo"
   },
   "innsbruck": {
-    "latitude": 47.267,
-    "longitude": 11.383,
+    "lat": 47.267,
+    "lng": 11.383,
     "city": "Innsbruck"
   },
   "yaound%c3%a9": {
-    "latitude": 3.867,
-    "longitude": 11.517,
+    "lat": 3.867,
+    "lng": 11.517,
     "city": "Yaound%C3%A9"
   },
   "munich": {
-    "latitude": 48.133,
-    "longitude": 11.567,
+    "lat": 48.133,
+    "lng": 11.567,
     "city": "Munich"
   },
   "gothenburg": {
-    "latitude": 57.7,
-    "longitude": 11.967,
+    "lat": 57.7,
+    "lng": 11.967,
     "city": "Gothenburg"
   },
   "leipzig": {
-    "latitude": 51.333,
-    "longitude": 12.383,
+    "lat": 51.333,
+    "lng": 12.383,
     "city": "Leipzig"
   },
   "cityofsanmarino": {
-    "latitude": 43.933,
-    "longitude": 12.433,
+    "lat": 43.933,
+    "lng": 12.433,
     "city": "City of San Marino"
   },
   "vaticancity": {
-    "latitude": 41.9,
-    "longitude": 12.45,
+    "lat": 41.9,
+    "lng": 12.45,
     "city": "Vatican City"
   },
   "rome": {
-    "latitude": 41.9,
-    "longitude": 12.5,
+    "lat": 41.9,
+    "lng": 12.5,
     "city": "Rome"
   },
   "copenhagen": {
-    "latitude": 55.667,
-    "longitude": 12.567,
+    "lat": 55.667,
+    "lng": 12.567,
     "city": "Copenhagen"
   },
   "malm%c3%b6": {
-    "latitude": 55.583,
-    "longitude": 13.033,
+    "lat": 55.583,
+    "lng": 13.033,
     "city": "Malm%C3%B6"
   },
   "salzburg": {
-    "latitude": 47.8,
-    "longitude": 13.033,
+    "lat": 47.8,
+    "lng": 13.033,
     "city": "Salzburg"
   },
   "tripoli": {
-    "latitude": 32.9,
-    "longitude": 13.183,
+    "lat": 32.9,
+    "lng": 13.183,
     "city": "Tripoli"
   },
   "luanda": {
-    "latitude": -8.833,
-    "longitude": 13.233,
+    "lat": -8.833,
+    "lng": 13.233,
     "city": "Luanda"
   },
   "berlin": {
-    "latitude": 52.517,
-    "longitude": 13.417,
+    "lat": 52.517,
+    "lng": 13.417,
     "city": "Berlin"
   },
   "dresden": {
-    "latitude": 51.05,
-    "longitude": 13.733,
+    "lat": 51.05,
+    "lng": 13.733,
     "city": "Dresden"
   },
   "naples": {
-    "latitude": 40.833,
-    "longitude": 14.25,
+    "lat": 40.833,
+    "lng": 14.25,
     "city": "Naples"
   },
   "linz": {
-    "latitude": 48.3,
-    "longitude": 14.283,
+    "lat": 48.3,
+    "lng": 14.283,
     "city": "Linz"
   },
   "prague": {
-    "latitude": 50.083,
-    "longitude": 14.417,
+    "lat": 50.083,
+    "lng": 14.417,
     "city": "Prague"
   },
   "sabha": {
-    "latitude": 27.033,
-    "longitude": 14.433,
+    "lat": 27.033,
+    "lng": 14.433,
     "city": "Sabha"
   },
   "birkirkara": {
-    "latitude": 35.883,
-    "longitude": 14.45,
+    "lat": 35.883,
+    "lng": 14.45,
     "city": "Birkirkara"
   },
   "ljubljana": {
-    "latitude": 46.067,
-    "longitude": 14.5,
+    "lat": 46.067,
+    "lng": 14.5,
     "city": "Ljubljana"
   },
   "valletta": {
-    "latitude": 35.9,
-    "longitude": 14.5,
+    "lat": 35.9,
+    "lng": 14.5,
     "city": "Valletta"
   },
   "n%27djamena": {
-    "latitude": 12.1,
-    "longitude": 15.05,
+    "lat": 12.1,
+    "lng": 15.05,
     "city": "N%27Djamena"
   },
   "brazzaville": {
-    "latitude": -4.267,
-    "longitude": 15.283,
+    "lat": -4.267,
+    "lng": 15.283,
     "city": "Brazzaville"
   },
   "kinshasa": {
-    "latitude": -4.317,
-    "longitude": 15.317,
+    "lat": -4.317,
+    "lng": 15.317,
     "city": "Kinshasa"
   },
   "graz": {
-    "latitude": 47.067,
-    "longitude": 15.433,
+    "lat": 47.067,
+    "lng": 15.433,
     "city": "Graz"
   },
   "longyearbyen": {
-    "latitude": 78.217,
-    "longitude": 15.55,
+    "lat": 78.217,
+    "lng": 15.55,
     "city": "Longyearbyen"
   },
   "zagreb": {
-    "latitude": 45.817,
-    "longitude": 15.983,
+    "lat": 45.817,
+    "lng": 15.983,
     "city": "Zagreb"
   },
   "vienna": {
-    "latitude": 48.2,
-    "longitude": 16.367,
+    "lat": 48.2,
+    "lng": 16.367,
     "city": "Vienna"
   },
   "split": {
-    "latitude": 43.5,
-    "longitude": 16.433,
+    "lat": 43.5,
+    "lng": 16.433,
     "city": "Split (city)"
   },
   "bratislava": {
-    "latitude": 48.133,
-    "longitude": 17.1,
+    "lat": 48.133,
+    "lng": 17.1,
     "city": "Bratislava"
   },
   "stockholm": {
-    "latitude": 59.35,
-    "longitude": 18.067,
+    "lat": 59.35,
+    "lng": 18.067,
     "city": "Stockholm"
   },
   "sarajevo": {
-    "latitude": 43.85,
-    "longitude": 18.35,
+    "lat": 43.85,
+    "lng": 18.35,
     "city": "Sarajevo"
   },
   "capetown": {
-    "latitude": -33.917,
-    "longitude": 18.417,
+    "lat": -33.917,
+    "lng": 18.417,
     "city": "Cape Town"
   },
   "bangui": {
-    "latitude": 4.35,
-    "longitude": 18.583,
+    "lat": 4.35,
+    "lng": 18.583,
     "city": "Bangui"
   },
   "gda%c5%84sk": {
-    "latitude": 54.35,
-    "longitude": 18.667,
+    "lat": 54.35,
+    "lng": 18.667,
     "city": "Gda%C5%84sk"
   },
   "budapest": {
-    "latitude": 47.467,
-    "longitude": 19.05,
+    "lat": 47.467,
+    "lng": 19.05,
     "city": "Budapest"
   },
   "podgorica": {
-    "latitude": 42.467,
-    "longitude": 19.267,
+    "lat": 42.467,
+    "lng": 19.267,
     "city": "Podgorica"
   },
   "tirana": {
-    "latitude": 41.317,
-    "longitude": 19.817,
+    "lat": 41.317,
+    "lng": 19.817,
     "city": "Tirana"
   },
-  "krak%c3%b3w": {
-    "latitude": 50.05,
-    "longitude": 19.933,
-    "city": "Krak%C3%B3w"
+  "krakow": {
+    "lat": 50.05,
+    "lng": 19.933,
+    "city": "Krakow"
   },
   "belgrade": {
-    "latitude": 44.817,
-    "longitude": 20.45,
+    "lat": 44.817,
+    "lng": 20.45,
     "city": "Belgrade"
   },
   "kaliningrad": {
-    "latitude": 54.717,
-    "longitude": 20.517,
+    "lat": 54.717,
+    "lng": 20.517,
     "city": "Kaliningrad"
   },
   "warsaw": {
-    "latitude": 52.233,
-    "longitude": 21.0,
+    "lat": 52.233,
+    "lng": 21.0,
     "city": "Warsaw"
   },
   "pristina": {
-    "latitude": 42.667,
-    "longitude": 21.167,
+    "lat": 42.667,
+    "lng": 21.167,
     "city": "Pristina"
   },
   "skopje": {
-    "latitude": 42.0,
-    "longitude": 21.433,
+    "lat": 42.0,
+    "lng": 21.433,
     "city": "Skopje"
   },
   "thessaloniki": {
-    "latitude": 40.633,
-    "longitude": 22.95,
+    "lat": 40.633,
+    "lng": 22.95,
     "city": "Thessaloniki"
   },
   "sofia": {
-    "latitude": 42.7,
-    "longitude": 23.333,
+    "lat": 42.7,
+    "lng": 23.333,
     "city": "Sofia"
   },
   "athens": {
-    "latitude": 37.967,
-    "longitude": 23.717,
+    "lat": 37.967,
+    "lng": 23.717,
     "city": "Athens"
   },
   "tampere": {
-    "latitude": 61.5,
-    "longitude": 23.75,
+    "lat": 61.5,
+    "lng": 23.75,
     "city": "Tampere"
   },
   "lviv": {
-    "latitude": 49.85,
-    "longitude": 24.017,
+    "lat": 49.85,
+    "lng": 24.017,
     "city": "Lviv"
   },
   "riga": {
-    "latitude": 56.967,
-    "longitude": 24.133,
+    "lat": 56.967,
+    "lng": 24.133,
     "city": "Riga"
   },
   "espoo": {
-    "latitude": 60.2,
-    "longitude": 24.65,
+    "lat": 60.2,
+    "lng": 24.65,
     "city": "Espoo"
   },
   "tallinn": {
-    "latitude": 59.433,
-    "longitude": 24.75,
+    "lat": 59.433,
+    "lng": 24.75,
     "city": "Tallinn"
   },
   "helsinki": {
-    "latitude": 60.167,
-    "longitude": 24.933,
+    "lat": 60.167,
+    "lng": 24.933,
     "city": "Helsinki"
   },
   "vilnius": {
-    "latitude": 54.683,
-    "longitude": 25.283,
+    "lat": 54.683,
+    "lng": 25.283,
     "city": "Vilnius"
   },
   "portelizabeth": {
-    "latitude": -33.95,
-    "longitude": 25.6,
+    "lat": -33.95,
+    "lng": 25.6,
     "city": "Port Elizabeth"
   },
   "livingstone": {
-    "latitude": -17.85,
-    "longitude": 25.867,
+    "lat": -17.85,
+    "lng": 25.867,
     "city": "Livingstone"
   },
   "gaborone": {
-    "latitude": -24.65,
-    "longitude": 25.9,
+    "lat": -24.65,
+    "lng": 25.9,
     "city": "Gaborone"
   },
   "bucharest": {
-    "latitude": 44.433,
-    "longitude": 26.1,
+    "lat": 44.433,
+    "lng": 26.1,
     "city": "Bucharest"
   },
   "bloemfontein": {
-    "latitude": -29.1,
-    "longitude": 26.217,
+    "lat": -29.1,
+    "lng": 26.217,
     "city": "Bloemfontein"
   },
   "tartu": {
-    "latitude": 58.383,
-    "longitude": 26.717,
+    "lat": 58.383,
+    "lng": 26.717,
     "city": "Tartu"
   },
   "%c4%b0zmir": {
-    "latitude": 38.433,
-    "longitude": 27.15,
+    "lat": 38.433,
+    "lng": 27.15,
     "city": "%C4%B0zmir"
   },
   "lubumbashi": {
-    "latitude": -11.667,
-    "longitude": 27.467,
+    "lat": -11.667,
+    "lng": 27.467,
     "city": "Lubumbashi"
   },
   "maseru": {
-    "latitude": -29.3,
-    "longitude": 27.467,
+    "lat": -29.3,
+    "lng": 27.467,
     "city": "Maseru"
   },
   "francistown": {
-    "latitude": -21.167,
-    "longitude": 27.5,
+    "lat": -21.167,
+    "lng": 27.5,
     "city": "Francistown"
   },
   "minsk": {
-    "latitude": 53.9,
-    "longitude": 27.567,
+    "lat": 53.9,
+    "lng": 27.567,
     "city": "Minsk"
   },
   "johannesburg": {
-    "latitude": -26.2,
-    "longitude": 28.033,
+    "lat": -26.2,
+    "lng": 28.033,
     "city": "Johannesburg"
   },
   "pretoria": {
-    "latitude": -25.733,
-    "longitude": 28.183,
+    "lat": -25.733,
+    "lng": 28.183,
     "city": "Pretoria"
   },
   "lusaka": {
-    "latitude": -15.417,
-    "longitude": 28.283,
+    "lat": -15.417,
+    "lng": 28.283,
     "city": "Lusaka"
   },
   "ndola": {
-    "latitude": -12.967,
-    "longitude": 28.633,
+    "lat": -12.967,
+    "lng": 28.633,
     "city": "Ndola"
   },
   "bulawayo": {
-    "latitude": -20.167,
-    "longitude": 28.567,
+    "lat": -20.167,
+    "lng": 28.567,
     "city": "Bulawayo"
   },
   "chi%c5%9fin%c4%83u": {
-    "latitude": 47.0,
-    "longitude": 28.867,
+    "lat": 47.0,
+    "lng": 28.867,
     "city": "Chi%C5%9Fin%C4%83u"
   },
   "istanbul": {
-    "latitude": 41.0,
-    "longitude": 28.967,
+    "lat": 41.0,
+    "lng": 28.967,
     "city": "Istanbul"
   },
   "bursa": {
-    "latitude": 40.183,
-    "longitude": 29.067,
+    "lat": 40.183,
+    "lng": 29.067,
     "city": "Bursa"
   },
   "bujumbura": {
-    "latitude": -3.383,
-    "longitude": 29.367,
+    "lat": -3.383,
+    "lng": 29.367,
     "city": "Bujumbura"
   },
   "tiraspol": {
-    "latitude": 46.85,
-    "longitude": 29.633,
+    "lat": 46.85,
+    "lng": 29.633,
     "city": "Tiraspol"
   },
   "alexandria": {
-    "latitude": 31.2,
-    "longitude": 29.917,
+    "lat": 31.2,
+    "lng": 29.917,
     "city": "Alexandria"
   },
   "kigali": {
-    "latitude": -1.933,
-    "longitude": 30.05,
+    "lat": -1.933,
+    "lng": 30.05,
     "city": "Kigali"
   },
   "saintpetersburg": {
-    "latitude": 59.933,
-    "longitude": 30.333,
+    "lat": 59.933,
+    "lng": 30.333,
     "city": "Saint Petersburg"
   },
   "kiev": {
-    "latitude": 50.45,
-    "longitude": 30.517,
+    "lat": 50.45,
+    "lng": 30.517,
     "city": "Kiev"
   },
   "odessa": {
-    "latitude": 46.467,
-    "longitude": 30.733,
+    "lat": 46.467,
+    "lng": 30.733,
     "city": "Odessa"
   },
   "harare": {
-    "latitude": -17.817,
-    "longitude": 31.05,
+    "lat": -17.817,
+    "lng": 31.05,
     "city": "Harare"
   },
   "durban": {
-    "latitude": -29.883,
-    "longitude": 31.05,
+    "lat": -29.883,
+    "lng": 31.05,
     "city": "Durban"
   },
   "mbabane": {
-    "latitude": -26.317,
-    "longitude": 31.133,
+    "lat": -26.317,
+    "lng": 31.133,
     "city": "Mbabane"
   },
   "lobamba": {
-    "latitude": -26.467,
-    "longitude": 31.2,
+    "lat": -26.467,
+    "lng": 31.2,
     "city": "Lobamba"
   },
   "cairo": {
-    "latitude": 30.05,
-    "longitude": 31.217,
+    "lat": 30.05,
+    "lng": 31.217,
     "city": "Cairo"
   },
   "manzini": {
-    "latitude": -26.483,
-    "longitude": 31.367,
+    "lat": -26.483,
+    "lng": 31.367,
     "city": "Manzini"
   },
   "portsaid": {
-    "latitude": 31.25,
-    "longitude": 32.283,
+    "lat": 31.25,
+    "lng": 32.283,
     "city": "Port Said"
   },
   "konya": {
-    "latitude": 37.867,
-    "longitude": 32.483,
+    "lat": 37.867,
+    "lng": 32.483,
     "city": "Konya"
   },
   "omdurman": {
-    "latitude": 15.65,
-    "longitude": 32.483,
+    "lat": 15.65,
+    "lng": 32.483,
     "city": "Omdurman"
   },
   "khartoum": {
-    "latitude": 15.633,
-    "longitude": 32.533,
+    "lat": 15.633,
+    "lng": 32.533,
     "city": "Khartoum"
   },
   "suez": {
-    "latitude": 29.967,
-    "longitude": 32.55,
+    "lat": 29.967,
+    "lng": 32.55,
     "city": "Suez"
   },
   "maputo": {
-    "latitude": -25.967,
-    "longitude": 32.583,
+    "lat": -25.967,
+    "lng": 32.583,
     "city": "Maputo"
   },
   "luxor": {
-    "latitude": 25.683,
-    "longitude": 32.65,
+    "lat": 25.683,
+    "lng": 32.65,
     "city": "Luxor"
   },
   "ankara": {
-    "latitude": 39.867,
-    "longitude": 32.833,
+    "lat": 39.867,
+    "lng": 32.833,
     "city": "Ankara"
   },
   "mwanza": {
-    "latitude": -2.517,
-    "longitude": 32.9,
+    "lat": -2.517,
+    "lng": 32.9,
     "city": "Mwanza"
   },
   "murmansk": {
-    "latitude": 68.967,
-    "longitude": 33.083,
+    "lat": 68.967,
+    "lng": 33.083,
     "city": "Murmansk"
   },
   "nicosia": {
-    "latitude": 35.167,
-    "longitude": 33.35,
+    "lat": 35.167,
+    "lng": 33.35,
     "city": "Nicosia"
   },
   "lilongwe": {
-    "latitude": -13.983,
-    "longitude": 33.783,
+    "lat": -13.983,
+    "lng": 33.783,
     "city": "Lilongwe"
   },
   "simferopol": {
-    "latitude": 44.95,
-    "longitude": 34.1,
+    "lat": 44.95,
+    "lng": 34.1,
     "city": "Simferopol"
   },
   "gaza": {
-    "latitude": 31.517,
-    "longitude": 34.45,
+    "lat": 31.517,
+    "lng": 34.45,
     "city": "Gaza"
   },
   "mersin": {
-    "latitude": 36.8,
-    "longitude": 34.633,
+    "lat": 36.8,
+    "lng": 34.633,
     "city": "Mersin"
   },
   "telaviv": {
-    "latitude": 32.083,
-    "longitude": 34.8,
+    "lat": 32.083,
+    "lng": 34.8,
     "city": "Tel Aviv"
   },
   "blantyre": {
-    "latitude": -15.783,
-    "longitude": 35.0,
+    "lat": -15.783,
+    "lng": 35.0,
     "city": "Blantyre"
   },
   "jerusalem": {
-    "latitude": 31.783,
-    "longitude": 35.217,
+    "lat": 31.783,
+    "lng": 35.217,
     "city": "Jerusalem"
   },
   "adana": {
-    "latitude": 37.0,
-    "longitude": 35.317,
+    "lat": 37.0,
+    "lng": 35.317,
     "city": "Adana"
   },
   "beirut": {
-    "latitude": 33.883,
-    "longitude": 35.5,
+    "lat": 33.883,
+    "lng": 35.5,
     "city": "Beirut"
   },
   "dodoma": {
-    "latitude": -6.167,
-    "longitude": 35.733,
+    "lat": -6.167,
+    "lng": 35.733,
     "city": "Dodoma"
   },
   "amman": {
-    "latitude": 31.95,
-    "longitude": 35.933,
+    "lat": 31.95,
+    "lng": 35.933,
     "city": "Amman"
   },
   "damascus": {
-    "latitude": 33.5,
-    "longitude": 36.283,
+    "lat": 33.5,
+    "lng": 36.283,
     "city": "Damascus"
   },
   "kharkiv": {
-    "latitude": 49.917,
-    "longitude": 36.317,
+    "lat": 49.917,
+    "lng": 36.317,
     "city": "Kharkiv"
   },
   "nairobi": {
-    "latitude": -1.283,
-    "longitude": 36.817,
+    "lat": -1.283,
+    "lng": 36.817,
     "city": "Nairobi"
   },
   "gaziantep": {
-    "latitude": 37.067,
-    "longitude": 37.383,
+    "lat": 37.067,
+    "lng": 37.383,
     "city": "Gaziantep"
   },
   "moscow": {
-    "latitude": 55.75,
-    "longitude": 37.6,
+    "lat": 55.75,
+    "lng": 37.6,
     "city": "Moscow"
   },
   "addisababa": {
-    "latitude": 9.017,
-    "longitude": 38.733,
+    "lat": 9.017,
+    "lng": 38.733,
     "city": "Addis Ababa"
   },
   "asmara": {
-    "latitude": 15.333,
-    "longitude": 38.933,
+    "lat": 15.333,
+    "lng": 38.933,
     "city": "Asmara"
   },
   "jeddah": {
-    "latitude": 21.533,
-    "longitude": 39.167,
+    "lat": 21.533,
+    "lng": 39.167,
     "city": "Jeddah"
   },
   "zanzibarcity": {
-    "latitude": -6.167,
-    "longitude": 39.2,
+    "lat": -6.167,
+    "lng": 39.2,
     "city": "Zanzibar City"
   },
   "daressalaam": {
-    "latitude": -6.817,
-    "longitude": 39.267,
+    "lat": -6.817,
+    "lng": 39.267,
     "city": "Dar es Salaam"
   },
   "medina": {
-    "latitude": 24.467,
-    "longitude": 39.6,
+    "lat": 24.467,
+    "lng": 39.6,
     "city": "Medina"
   },
   "mecca": {
-    "latitude": 21.417,
-    "longitude": 39.817,
+    "lat": 21.417,
+    "lng": 39.817,
     "city": "Mecca"
   },
   "sukhumi": {
-    "latitude": 43.0,
-    "longitude": 41.017,
+    "lat": 43.0,
+    "lng": 41.017,
     "city": "Sukhumi"
   },
   "djibouti": {
-    "latitude": 11.583,
-    "longitude": 43.133,
+    "lat": 11.583,
+    "lng": 43.133,
     "city": "Djibouti (city)"
   },
   "moroni": {
-    "latitude": -11.75,
-    "longitude": 43.2,
+    "lat": -11.75,
+    "lng": 43.2,
     "city": "Moroni"
   },
   "tskhinvali": {
-    "latitude": 42.233,
-    "longitude": 43.967,
+    "lat": 42.233,
+    "lng": 43.967,
     "city": "Tskhinvali"
   },
   "sana%27a": {
-    "latitude": 15.35,
-    "longitude": 44.2,
+    "lat": 15.35,
+    "lng": 44.2,
     "city": "Sana%27a"
   },
   "baghdad": {
-    "latitude": 33.317,
-    "longitude": 44.417,
+    "lat": 33.317,
+    "lng": 44.417,
     "city": "Baghdad"
   },
   "nizhnynovgorod": {
-    "latitude": 56.333,
-    "longitude": 44.0,
+    "lat": 56.333,
+    "lng": 44.0,
     "city": "Nizhny Novgorod"
   },
   "hargeisa": {
-    "latitude": 9.5,
-    "longitude": 44.0,
+    "lat": 9.5,
+    "lng": 44.0,
     "city": "Hargeisa"
   },
   "arbil": {
-    "latitude": 36.333,
-    "longitude": 44.017,
+    "lat": 36.333,
+    "lng": 44.017,
     "city": "Arbil"
   },
   "yerevan": {
-    "latitude": 40.183,
-    "longitude": 44.517,
+    "lat": 40.183,
+    "lng": 44.517,
     "city": "Yerevan"
   },
   "tbilisi": {
-    "latitude": 41.717,
-    "longitude": 44.783,
+    "lat": 41.717,
+    "lng": 44.783,
     "city": "Tbilisi"
   },
   "mamoudzou": {
-    "latitude": -12.783,
-    "longitude": 45.217,
+    "lat": -12.783,
+    "lng": 45.217,
     "city": "Mamoudzou"
   },
   "mogadishu": {
-    "latitude": 2.033,
-    "longitude": 45.35,
+    "lat": 2.033,
+    "lng": 45.35,
     "city": "Mogadishu"
   },
   "tabriz": {
-    "latitude": 38.083,
-    "longitude": 46.283,
+    "lat": 38.083,
+    "lng": 46.283,
     "city": "Tabriz"
   },
   "riyadh": {
-    "latitude": 24.7,
-    "longitude": 46.717,
+    "lat": 24.7,
+    "lng": 46.717,
     "city": "Riyadh"
   },
   "stepanakert": {
-    "latitude": 39.817,
-    "longitude": 46.75,
+    "lat": 39.817,
+    "lng": 46.75,
     "city": "Stepanakert"
   },
   "antananarivo": {
-    "latitude": -18.933,
-    "longitude": 47.517,
+    "lat": -18.933,
+    "lng": 47.517,
     "city": "Antananarivo"
   },
   "basra": {
-    "latitude": 30.5,
-    "longitude": 47.817,
+    "lat": 30.5,
+    "lng": 47.817,
     "city": "Basra"
   },
   "kuwaitcity": {
-    "latitude": 29.367,
-    "longitude": 47.967,
+    "lat": 29.367,
+    "lng": 47.967,
     "city": "Kuwait City"
   },
   "baku": {
-    "latitude": 40.367,
-    "longitude": 49.883,
+    "lat": 40.367,
+    "lng": 49.883,
     "city": "Baku"
   },
   "dammam": {
-    "latitude": 26.433,
-    "longitude": 50.117,
+    "lat": 26.433,
+    "lng": 50.117,
     "city": "Dammam"
   },
   "samara": {
-    "latitude": 53.233,
-    "longitude": 50.167,
+    "lat": 53.233,
+    "lng": 50.167,
     "city": "Samara"
   },
   "manama": {
-    "latitude": 26.217,
-    "longitude": 50.583,
+    "lat": 26.217,
+    "lng": 50.583,
     "city": "Manama"
   },
   "tehran": {
-    "latitude": 35.683,
-    "longitude": 51.417,
+    "lat": 35.683,
+    "lng": 51.417,
     "city": "Tehran"
   },
   "doha": {
-    "latitude": 25.283,
-    "longitude": 51.533,
+    "lat": 25.283,
+    "lng": 51.533,
     "city": "Doha"
   },
   "abudhabi": {
-    "latitude": 24.467,
-    "longitude": 54.367,
+    "lat": 24.467,
+    "lng": 54.367,
     "city": "Abu Dhabi"
   },
   "dubai": {
-    "latitude": 25.267,
-    "longitude": 55.3,
+    "lat": 25.267,
+    "lng": 55.3,
     "city": "Dubai"
   },
   "victoria": {
-    "latitude": -4.617,
-    "longitude": 55.45,
+    "lat": -4.617,
+    "lng": 55.45,
     "city": "Victoria"
   },
   "saintdenis": {
-    "latitude": -20.867,
-    "longitude": 55.45,
+    "lat": -20.867,
+    "lng": 55.45,
     "city": "Saint-Denis"
   },
   "perm": {
-    "latitude": 58.0,
-    "longitude": 56.317,
+    "lat": 58.0,
+    "lng": 56.317,
     "city": "Perm"
   },
   "portlouis": {
-    "latitude": -20.167,
-    "longitude": 57.5,
+    "lat": -20.167,
+    "lng": 57.5,
     "city": "Port Louis"
   },
   "ashgabat": {
-    "latitude": 37.967,
-    "longitude": 58.333,
+    "lat": 37.967,
+    "lng": 58.333,
     "city": "Ashgabat"
   },
   "muscat": {
-    "latitude": 23.6,
-    "longitude": 58.533,
+    "lat": 23.6,
+    "lng": 58.533,
     "city": "Muscat"
   },
   "nukus": {
-    "latitude": 42.467,
-    "longitude": 59.6,
+    "lat": 42.467,
+    "lng": 59.6,
     "city": "Nukus"
   },
   "mashhad": {
-    "latitude": 36.3,
-    "longitude": 59.6,
+    "lat": 36.3,
+    "lng": 59.6,
     "city": "Mashhad"
   },
   "yekaterinburg": {
-    "latitude": 56.833,
-    "longitude": 60.583,
+    "lat": 56.833,
+    "lng": 60.583,
     "city": "Yekaterinburg"
   },
   "kandahar": {
-    "latitude": 31.617,
-    "longitude": 65.717,
+    "lat": 31.617,
+    "lng": 65.717,
     "city": "Kandahar"
   },
   "karachi": {
-    "latitude": 24.85,
-    "longitude": 67.0,
+    "lat": 24.85,
+    "lng": 67.0,
     "city": "Karachi"
   },
   "hyderabad": {
-    "latitude": 17.367,
-    "longitude": 78.467,
+    "lat": 17.367,
+    "lng": 78.467,
     "city": "Hyderabad"
   },
   "dushanbe": {
-    "latitude": 38.533,
-    "longitude": 68.767,
+    "lat": 38.533,
+    "lng": 68.767,
     "city": "Dushanbe"
   },
   "kabul": {
-    "latitude": 34.533,
-    "longitude": 69.167,
+    "lat": 34.533,
+    "lng": 69.167,
     "city": "Kabul"
   },
   "tashkent": {
-    "latitude": 41.267,
-    "longitude": 69.217,
+    "lat": 41.267,
+    "lng": 69.217,
     "city": "Tashkent"
   },
   "astana": {
-    "latitude": 51.183,
-    "longitude": 71.45,
+    "lat": 51.183,
+    "lng": 71.45,
     "city": "Astana"
   },
   "multan": {
-    "latitude": 30.2,
-    "longitude": 71.45,
+    "lat": 30.2,
+    "lng": 71.45,
     "city": "Multan"
   },
   "peshawar": {
-    "latitude": 34.0,
-    "longitude": 71.5,
+    "lat": 34.0,
+    "lng": 71.5,
     "city": "Peshawar"
   },
   "namangan": {
-    "latitude": 41.633,
-    "longitude": 71.967,
+    "lat": 41.633,
+    "lng": 71.967,
     "city": "Namangan"
   },
   "ahmedabad": {
-    "latitude": 23.017,
-    "longitude": 72.567,
+    "lat": 23.017,
+    "lng": 72.567,
     "city": "Ahmedabad"
   },
   "mumbai": {
-    "latitude": 18.95,
-    "longitude": 72.817,
+    "lat": 18.95,
+    "lng": 72.817,
     "city": "Mumbai"
   },
   "surat": {
-    "latitude": 21.167,
-    "longitude": 72.817,
+    "lat": 21.167,
+    "lng": 72.817,
     "city": "Surat"
   },
   "faisalabad": {
-    "latitude": 31.367,
-    "longitude": 72.983,
+    "lat": 31.367,
+    "lng": 72.983,
     "city": "Faisalabad"
   },
   "rawalpindi": {
-    "latitude": 33.6,
-    "longitude": 73.033,
+    "lat": 33.6,
+    "lng": 73.033,
     "city": "Rawalpindi"
   },
   "islamabad": {
-    "latitude": 33.717,
-    "longitude": 73.067,
+    "lat": 33.717,
+    "lng": 73.067,
     "city": "Islamabad"
   },
   "omsk": {
-    "latitude": 54.983,
-    "longitude": 73.367,
+    "lat": 54.983,
+    "lng": 73.367,
     "city": "Omsk"
   },
   "mal%c3%a9": {
-    "latitude": 4.167,
-    "longitude": 73.5,
+    "lat": 4.167,
+    "lng": 73.5,
     "city": "Mal%C3%A9"
   },
   "pune": {
-    "latitude": 18.517,
-    "longitude": 73.85,
+    "lat": 18.517,
+    "lng": 73.85,
     "city": "Pune"
   },
   "lahore": {
-    "latitude": 31.55,
-    "longitude": 74.333,
+    "lat": 31.55,
+    "lng": 74.333,
     "city": "Lahore"
   },
   "bishkek": {
-    "latitude": 42.867,
-    "longitude": 74.6,
+    "lat": 42.867,
+    "lng": 74.6,
     "city": "Bishkek"
   },
   "srinagar": {
-    "latitude": 34.083,
-    "longitude": 74.783,
+    "lat": 34.083,
+    "lng": 74.783,
     "city": "Srinagar"
   },
   "amritsar": {
-    "latitude": 31.633,
-    "longitude": 74.85,
+    "lat": 31.633,
+    "lng": 74.85,
     "city": "Amritsar"
   },
   "jaipur": {
-    "latitude": 26.917,
-    "longitude": 75.817,
+    "lat": 26.917,
+    "lng": 75.817,
     "city": "Jaipur"
   },
   "ludhiana": {
-    "latitude": 30.9,
-    "longitude": 75.85,
+    "lat": 30.9,
+    "lng": 75.85,
     "city": "Ludhiana"
   },
   "almaty": {
-    "latitude": 43.267,
-    "longitude": 76.883,
+    "lat": 43.267,
+    "lng": 76.883,
     "city": "Almaty"
   },
   "newdelhi": {
-    "latitude": 28.617,
-    "longitude": 77.2,
+    "lat": 28.617,
+    "lng": 77.2,
     "city": "New Delhi"
   },
   "bangalore": {
-    "latitude": 12.967,
-    "longitude": 77.567,
+    "lat": 12.967,
+    "lng": 77.567,
     "city": "Bangalore"
   },
   "nagpur": {
-    "latitude": 21.067,
-    "longitude": 79.017,
+    "lat": 21.067,
+    "lng": 79.017,
     "city": "Nagpur"
   },
   "colombo": {
-    "latitude": 6.883,
-    "longitude": 79.867,
+    "lat": 6.883,
+    "lng": 79.867,
     "city": "Colombo"
   },
   "srijayawardenapurakotte": {
-    "latitude": 6.9,
-    "longitude": 79.883,
+    "lat": 6.9,
+    "lng": 79.883,
     "city": "Sri Jayawardenapura-Kotte"
   },
   "chennai": {
-    "latitude": 13.083,
-    "longitude": 80.267,
+    "lat": 13.083,
+    "lng": 80.267,
     "city": "Chennai"
   },
   "kanpur": {
-    "latitude": 26.45,
-    "longitude": 80.333,
+    "lat": 26.45,
+    "lng": 80.333,
     "city": "Kanpur"
   },
   "kandy": {
-    "latitude": 7.283,
-    "longitude": 80.633,
+    "lat": 7.283,
+    "lng": 80.633,
     "city": "Kandy"
   },
   "lucknow": {
-    "latitude": 26.85,
-    "longitude": 80.917,
+    "lat": 26.85,
+    "lng": 80.917,
     "city": "Lucknow"
   },
   "batticaloa": {
-    "latitude": 7.717,
-    "longitude": 81.7,
+    "lat": 7.717,
+    "lng": 81.7,
     "city": "Batticaloa"
   },
   "novosibirsk": {
-    "latitude": 55.017,
-    "longitude": 82.933,
+    "lat": 55.017,
+    "lng": 82.933,
     "city": "Novosibirsk"
   },
   "patna": {
-    "latitude": 25.6,
-    "longitude": 85.133,
+    "lat": 25.6,
+    "lng": 85.133,
     "city": "Patna"
   },
   "kathmandu": {
-    "latitude": 27.7,
-    "longitude": 85.333,
+    "lat": 27.7,
+    "lng": 85.333,
     "city": "Kathmandu"
   },
   "%c3%9cr%c3%bcmqi": {
-    "latitude": 43.8,
-    "longitude": 87.583,
+    "lat": 43.8,
+    "lng": 87.583,
     "city": "%C3%9Cr%C3%BCmqi"
   },
   "norilsk": {
-    "latitude": 69.35,
-    "longitude": 88.2,
+    "lat": 69.35,
+    "lng": 88.2,
     "city": "Norilsk"
   },
   "kolkata": {
-    "latitude": 22.567,
-    "longitude": 88.367,
+    "lat": 22.567,
+    "lng": 88.367,
     "city": "Kolkata"
   },
   "gangtok": {
-    "latitude": 27.317,
-    "longitude": 88.617,
+    "lat": 27.317,
+    "lng": 88.617,
     "city": "Gangtok"
   },
   "shigatse": {
-    "latitude": 29.267,
-    "longitude": 88.867,
+    "lat": 29.267,
+    "lng": 88.867,
     "city": "Shigatse"
   },
   "thimphu": {
-    "latitude": 27.467,
-    "longitude": 89.633,
+    "lat": 27.467,
+    "lng": 89.633,
     "city": "Thimphu"
   },
   "dhaka": {
-    "latitude": 23.7,
-    "longitude": 90.367,
+    "lat": 23.7,
+    "lng": 90.367,
     "city": "Dhaka"
   },
   "lhasa": {
-    "latitude": 29.65,
-    "longitude": 91.117,
+    "lat": 29.65,
+    "lng": 91.117,
     "city": "Lhasa"
   },
   "agartala": {
-    "latitude": 23.5,
-    "longitude": 91.2,
+    "lat": 23.5,
+    "lng": 91.2,
     "city": "Agartala"
   },
   "guwahati": {
-    "latitude": 26.167,
-    "longitude": 91.767,
+    "lat": 26.167,
+    "lng": 91.767,
     "city": "Guwahati"
   },
   "chittagong": {
-    "latitude": 22.367,
-    "longitude": 91.8,
+    "lat": 22.367,
+    "lng": 91.8,
     "city": "Chittagong"
   },
   "shillong": {
-    "latitude": 25.567,
-    "longitude": 91.883,
+    "lat": 25.567,
+    "lng": 91.883,
     "city": "Shillong"
   },
   "portblair": {
-    "latitude": 11.667,
-    "longitude": 92.75,
+    "lat": 11.667,
+    "lng": 92.75,
     "city": "Port Blair"
   },
   "dibrugarh": {
-    "latitude": 27.467,
-    "longitude": 94.9,
+    "lat": 27.467,
+    "lng": 94.9,
     "city": "Dibrugarh"
   },
   "bandaaceh": {
-    "latitude": 5.55,
-    "longitude": 95.317,
+    "lat": 5.55,
+    "lng": 95.317,
     "city": "Banda Aceh"
   },
   "naypyidaw": {
-    "latitude": 19.75,
-    "longitude": 96.1,
+    "lat": 19.75,
+    "lng": 96.1,
     "city": "Naypyidaw"
   },
   "yangon": {
-    "latitude": 16.8,
-    "longitude": 96.167,
+    "lat": 16.8,
+    "lng": 96.167,
     "city": "Yangon"
   },
   "medan": {
-    "latitude": 3.583,
-    "longitude": 98.667,
+    "lat": 3.583,
+    "lng": 98.667,
     "city": "Medan"
   },
   "phuket": {
-    "latitude": 7.883,
-    "longitude": 98.4,
+    "lat": 7.883,
+    "lng": 98.4,
     "city": "Phuket (city)"
   },
   "chiangmai": {
-    "latitude": 18.783,
-    "longitude": 98.983,
+    "lat": 18.783,
+    "lng": 98.983,
     "city": "Chiang Mai"
   },
   "suratthani": {
-    "latitude": 9.133,
-    "longitude": 99.333,
+    "lat": 9.133,
+    "lng": 99.333,
     "city": "Surat Thani"
   },
   "padang": {
-    "latitude": -0.95,
-    "longitude": 100.35,
+    "lat": -0.95,
+    "lng": 100.35,
     "city": "Padang"
   },
   "alorstar": {
-    "latitude": 6.117,
-    "longitude": 100.367,
+    "lat": 6.117,
+    "lng": 100.367,
     "city": "Alor Star"
   },
   "hatyai": {
-    "latitude": 7.017,
-    "longitude": 100.467,
+    "lat": 7.017,
+    "lng": 100.467,
     "city": "Hat Yai"
   },
   "bangkok": {
-    "latitude": 13.75,
-    "longitude": 100.483,
+    "lat": 13.75,
+    "lng": 100.483,
     "city": "Bangkok"
   },
   "pattaya": {
-    "latitude": 12.917,
-    "longitude": 100.867,
+    "lat": 12.917,
+    "lng": 100.867,
     "city": "Pattaya"
   },
   "ipoh": {
-    "latitude": 4.6,
-    "longitude": 101.067,
+    "lat": 4.6,
+    "lng": 101.067,
     "city": "Ipoh"
   },
   "pekanbaru": {
-    "latitude": 0.533,
-    "longitude": 101.45,
+    "lat": 0.533,
+    "lng": 101.45,
     "city": "Pekanbaru"
   },
   "bratsk": {
-    "latitude": 56.167,
-    "longitude": 101.617,
+    "lat": 56.167,
+    "lng": 101.617,
     "city": "Bratsk"
   },
   "kualalumpur": {
-    "latitude": 3.133,
-    "longitude": 101.683,
+    "lat": 3.133,
+    "lng": 101.683,
     "city": "Kuala Lumpur"
   },
   "xining": {
-    "latitude": 36.633,
-    "longitude": 101.767,
+    "lat": 36.633,
+    "lng": 101.767,
     "city": "Xining"
   },
   "nakhonratchasima": {
-    "latitude": 14.967,
-    "longitude": 102.1,
+    "lat": 14.967,
+    "lng": 102.1,
     "city": "Nakhon Ratchasima"
   },
   "kotabharu": {
-    "latitude": 6.133,
-    "longitude": 102.25,
+    "lat": 6.133,
+    "lng": 102.25,
     "city": "Kota Bharu"
   },
   "malaccatown": {
-    "latitude": 2.183,
-    "longitude": 102.383,
+    "lat": 2.183,
+    "lng": 102.383,
     "city": "Malacca Town"
   },
   "vientiane": {
-    "latitude": 17.95,
-    "longitude": 102.617,
+    "lat": 17.95,
+    "lng": 102.617,
     "city": "Vientiane"
   },
   "kunming": {
-    "latitude": 25.067,
-    "longitude": 102.683,
+    "lat": 25.067,
+    "lng": 102.683,
     "city": "Kunming"
   },
   "udonthani": {
-    "latitude": 17.417,
-    "longitude": 102.75,
+    "lat": 17.417,
+    "lng": 102.75,
     "city": "Udon Thani"
   },
   "johorbahru": {
-    "latitude": 1.483,
-    "longitude": 103.733,
+    "lat": 1.483,
+    "lng": 103.733,
     "city": "Johor Bahru"
   },
   "lanzhou": {
-    "latitude": 36.033,
-    "longitude": 103.8,
+    "lat": 36.033,
+    "lng": 103.8,
     "city": "Lanzhou"
   },
   "singapore": {
-    "latitude": 1.367,
-    "longitude": 103.8,
+    "lat": 1.367,
+    "lng": 103.8,
     "city": "Singapore"
   },
   "siemreap": {
-    "latitude": 13.35,
-    "longitude": 103.85,
+    "lat": 13.35,
+    "lng": 103.85,
     "city": "Siem Reap"
   },
   "chengdu": {
-    "latitude": 30.65,
-    "longitude": 104.067,
+    "lat": 30.65,
+    "lng": 104.067,
     "city": "Chengdu"
   },
   "palembang": {
-    "latitude": -2.983,
-    "longitude": 104.75,
+    "lat": -2.983,
+    "lng": 104.75,
     "city": "Palembang"
   },
   "phnompenh": {
-    "latitude": 11.55,
-    "longitude": 104.917,
+    "lat": 11.55,
+    "lng": 104.917,
     "city": "Phnom Penh"
   },
   "hanoi": {
-    "latitude": 21.033,
-    "longitude": 105.85,
+    "lat": 21.033,
+    "lng": 105.85,
     "city": "Hanoi"
   },
   "chongqing": {
-    "latitude": 29.55,
-    "longitude": 106.5,
+    "lat": 29.55,
+    "lng": 106.5,
     "city": "Chongqing"
   },
   "haiphong": {
-    "latitude": 20.85,
-    "longitude": 106.683,
+    "lat": 20.85,
+    "lng": 106.683,
     "city": "Hai Phong"
   },
   "hochiminhcity": {
-    "latitude": 10.767,
-    "longitude": 106.683,
+    "lat": 10.767,
+    "lng": 106.683,
     "city": "Ho Chi Minh City"
   },
   "jakarta": {
-    "latitude": -6.133,
-    "longitude": 106.75,
+    "lat": -6.133,
+    "lng": 106.75,
     "city": "Jakarta"
   },
   "bogor": {
-    "latitude": -6.6,
-    "longitude": 106.8,
+    "lat": -6.6,
+    "lng": 106.8,
     "city": "Bogor"
   },
   "ulanbator": {
-    "latitude": 47.917,
-    "longitude": 106.917,
+    "lat": 47.917,
+    "lng": 106.917,
     "city": "Ulan Bator"
   },
   "bandung": {
-    "latitude": -6.95,
-    "longitude": 107.567,
+    "lat": -6.95,
+    "lng": 107.567,
     "city": "Bandung"
   },
   "hu%e1%ba%bf": {
-    "latitude": 16.467,
-    "longitude": 107.6,
+    "lat": 16.467,
+    "lng": 107.6,
     "city": "Hu%E1%BA%BF"
   },
   "danang": {
-    "latitude": 16.067,
-    "longitude": 108.233,
+    "lat": 16.067,
+    "lng": 108.233,
     "city": "Da Nang"
   },
   "nanning": {
-    "latitude": 22.817,
-    "longitude": 108.317,
+    "lat": 22.817,
+    "lng": 108.317,
     "city": "Nanning"
   },
   "xi%27an": {
-    "latitude": 34.267,
-    "longitude": 108.9,
+    "lat": 34.267,
+    "lng": 108.9,
     "city": "Xi%27an"
   },
   "pontianak": {
-    "latitude": 0.0,
-    "longitude": 109.333,
+    "lat": 0.0,
+    "lng": 109.333,
     "city": "Pontianak"
   },
   "kuching": {
-    "latitude": 1.55,
-    "longitude": 110.35,
+    "lat": 1.55,
+    "lng": 110.35,
     "city": "Kuching"
   },
   "yogyakarta": {
-    "latitude": -7.8,
-    "longitude": 110.367,
+    "lat": -7.8,
+    "lng": 110.367,
     "city": "Yogyakarta (city)"
   },
   "semarang": {
-    "latitude": -6.967,
-    "longitude": 110.417,
+    "lat": -6.967,
+    "lng": 110.417,
     "city": "Semarang"
   },
   "taiyuan": {
-    "latitude": 37.867,
-    "longitude": 112.55,
+    "lat": 37.867,
+    "lng": 112.55,
     "city": "Taiyuan"
   },
   "malang": {
-    "latitude": -7.967,
-    "longitude": 112.617,
+    "lat": -7.967,
+    "lng": 112.617,
     "city": "Malang"
   },
   "surabaya": {
-    "latitude": -7.233,
-    "longitude": 112.733,
+    "lat": -7.233,
+    "lng": 112.733,
     "city": "Surabaya"
   },
   "guangzhou": {
-    "latitude": 23.1,
-    "longitude": 113.267,
+    "lat": 23.1,
+    "lng": 113.267,
     "city": "Guangzhou"
   },
   "macau": {
-    "latitude": 22.167,
-    "longitude": 113.55,
+    "lat": 22.167,
+    "lng": 113.55,
     "city": "Macau"
   },
   "zhengzhou": {
-    "latitude": 34.75,
-    "longitude": 113.633,
+    "lat": 34.75,
+    "lng": 113.633,
     "city": "Zhengzhou"
   },
   "dongguan": {
-    "latitude": 23.033,
-    "longitude": 113.717,
+    "lat": 23.033,
+    "lng": 113.717,
     "city": "Dongguan"
   },
   "miri": {
-    "latitude": 4.383,
-    "longitude": 113.967,
+    "lat": 4.383,
+    "lng": 113.967,
     "city": "Miri"
   },
   "shenzhen": {
-    "latitude": 22.55,
-    "longitude": 114.1,
+    "lat": 22.55,
+    "lng": 114.1,
     "city": "Shenzhen"
   },
   "hongkong": {
-    "latitude": 22.3,
-    "longitude": 114.2,
+    "lat": 22.3,
+    "lng": 114.2,
     "city": "Hong Kong"
   },
   "wuhan": {
-    "latitude": 30.567,
-    "longitude": 114.267,
+    "lat": 30.567,
+    "lng": 114.267,
     "city": "Wuhan"
   },
   "handan": {
-    "latitude": 36.6,
-    "longitude": 114.483,
+    "lat": 36.6,
+    "lng": 114.483,
     "city": "Handan"
   },
   "shijiazhuang": {
-    "latitude": 38.033,
-    "longitude": 114.5,
+    "lat": 38.033,
+    "lng": 114.5,
     "city": "Shijiazhuang"
   },
   "bandarseribegawan": {
-    "latitude": 4.883,
-    "longitude": 114.933,
+    "lat": 4.883,
+    "lng": 114.933,
     "city": "Bandar Seri Begawan"
   },
   "denpasar": {
-    "latitude": -8.65,
-    "longitude": 115.217,
+    "lat": -8.65,
+    "lng": 115.217,
     "city": "Denpasar"
   },
   "mandurah": {
-    "latitude": -32.517,
-    "longitude": 115.717,
+    "lat": -32.517,
+    "lng": 115.717,
     "city": "Mandurah"
   },
   "perth": {
-    "latitude": -31.95,
-    "longitude": 115.85,
+    "lat": -31.95,
+    "lng": 115.85,
     "city": "Perth"
   },
   "kotakinabalu": {
-    "latitude": 5.967,
-    "longitude": 116.083,
+    "lat": 5.967,
+    "lng": 116.083,
     "city": "Kota Kinabalu"
   },
   "beijing": {
-    "latitude": 39.9,
-    "longitude": 116.4,
+    "lat": 39.9,
+    "lng": 116.4,
     "city": "Beijing"
   },
   "balikpapan": {
-    "latitude": -1.25,
-    "longitude": 116.817,
+    "lat": -1.25,
+    "lng": 116.817,
     "city": "Balikpapan"
   },
   "jinan": {
-    "latitude": 36.667,
-    "longitude": 116.983,
+    "lat": 36.667,
+    "lng": 116.983,
     "city": "Jinan"
   },
   "tianjin": {
-    "latitude": 39.133,
-    "longitude": 117.183,
+    "lat": 39.133,
+    "lng": 117.183,
     "city": "Tianjin"
   },
   "porthedland": {
-    "latitude": -20.3,
-    "longitude": 118.6,
+    "lat": -20.3,
+    "lng": 118.6,
     "city": "Port Hedland"
   },
   "nanjing": {
-    "latitude": 32.05,
-    "longitude": 118.767,
+    "lat": 32.05,
+    "lng": 118.767,
     "city": "Nanjing"
   },
   "makassar": {
-    "latitude": -5.133,
-    "longitude": 119.417,
+    "lat": -5.133,
+    "lng": 119.417,
     "city": "Makassar"
   },
   "hangzhou": {
-    "latitude": 30.25,
-    "longitude": 120.167,
+    "lat": 30.25,
+    "lng": 120.167,
     "city": "Hangzhou"
   },
   "kaohsiung": {
-    "latitude": 22.633,
-    "longitude": 120.267,
+    "lat": 22.633,
+    "lng": 120.267,
     "city": "Kaohsiung"
   },
   "qingdao": {
-    "latitude": 36.083,
-    "longitude": 120.333,
+    "lat": 36.083,
+    "lng": 120.333,
     "city": "Qingdao"
   },
   "taichung": {
-    "latitude": 24.15,
-    "longitude": 120.667,
+    "lat": 24.15,
+    "lng": 120.667,
     "city": "Taichung"
   },
   "manila": {
-    "latitude": 14.583,
-    "longitude": 120.967,
+    "lat": 14.583,
+    "lng": 120.967,
     "city": "Manila"
   },
   "quezoncity": {
-    "latitude": 14.633,
-    "longitude": 121.033,
+    "lat": 14.633,
+    "lng": 121.033,
     "city": "Quezon City"
   },
   "makaticity": {
-    "latitude": 14.55,
-    "longitude": 121.033,
+    "lat": 14.55,
+    "lng": 121.033,
     "city": "Makati City"
   },
   "shanghai": {
-    "latitude": 31.2,
-    "longitude": 121.5,
+    "lat": 31.2,
+    "lng": 121.5,
     "city": "Shanghai"
   },
   "taipei": {
-    "latitude": 25.033,
-    "longitude": 121.633,
+    "lat": 25.033,
+    "lng": 121.633,
     "city": "Taipei"
   },
   "dalian": {
-    "latitude": 39.033,
-    "longitude": 121.767,
+    "lat": 39.033,
+    "lng": 121.767,
     "city": "Dalian"
   },
   "iloilocity": {
-    "latitude": 10.683,
-    "longitude": 122.55,
+    "lat": 10.683,
+    "lng": 122.55,
     "city": "Iloilo City"
   },
   "zamboangacity": {
-    "latitude": 6.9,
-    "longitude": 122.067,
+    "lat": 6.9,
+    "lng": 122.067,
     "city": "Zamboanga City"
   },
   "shenyang": {
-    "latitude": 41.783,
-    "longitude": 123.45,
+    "lat": 41.783,
+    "lng": 123.45,
     "city": "Shenyang"
   },
   "tagbilaran": {
-    "latitude": 9.65,
-    "longitude": 123.85,
+    "lat": 9.65,
+    "lng": 123.85,
     "city": "Tagbilaran"
   },
   "cebucity": {
-    "latitude": 10.283,
-    "longitude": 123.9,
+    "lat": 10.283,
+    "lng": 123.9,
     "city": "Cebu City"
   },
   "changchun": {
-    "latitude": 43.883,
-    "longitude": 125.317,
+    "lat": 43.883,
+    "lng": 125.317,
     "city": "Changchun"
   },
   "dili": {
-    "latitude": -8.55,
-    "longitude": 125.583,
+    "lat": -8.55,
+    "lng": 125.583,
     "city": "Dili"
   },
   "pyongyang": {
-    "latitude": 39.033,
-    "longitude": 125.75,
+    "lat": 39.033,
+    "lng": 125.75,
     "city": "Pyongyang"
   },
   "davaocity": {
-    "latitude": 7.5,
-    "longitude": 126.0,
+    "lat": 7.5,
+    "lng": 126.0,
     "city": "Davao City"
   },
   "kaesong": {
-    "latitude": 37.967,
-    "longitude": 126.55,
+    "lat": 37.967,
+    "lng": 126.55,
     "city": "Kaesong"
   },
   "harbin": {
-    "latitude": 45.75,
-    "longitude": 126.633,
+    "lat": 45.75,
+    "lng": 126.633,
     "city": "Harbin"
   },
   "incheon": {
-    "latitude": 37.483,
-    "longitude": 126.633,
+    "lat": 37.483,
+    "lng": 126.633,
     "city": "Incheon"
   },
   "seoul": {
-    "latitude": 37.55,
-    "longitude": 126.983,
+    "lat": 37.55,
+    "lng": 126.983,
     "city": "Seoul"
   },
   "wonsan": {
-    "latitude": 39.15,
-    "longitude": 127.433,
+    "lat": 39.15,
+    "lng": 127.433,
     "city": "Wonsan"
   },
   "okinawa": {
-    "latitude": 26.333,
-    "longitude": 127.8,
+    "lat": 26.333,
+    "lng": 127.8,
     "city": "Okinawa"
   },
   "ambon": {
-    "latitude": -3.7,
-    "longitude": 128.167,
+    "lat": -3.7,
+    "lng": 128.167,
     "city": "Ambon"
   },
   "daegu": {
-    "latitude": 35.867,
-    "longitude": 128.6,
+    "lat": 35.867,
+    "lng": 128.6,
     "city": "Daegu"
   },
   "busan": {
-    "latitude": 35.1,
-    "longitude": 129.033,
+    "lat": 35.1,
+    "lng": 129.033,
     "city": "Busan"
   },
   "yakutsk": {
-    "latitude": 62.033,
-    "longitude": 129.733,
+    "lat": 62.033,
+    "lng": 129.733,
     "city": "Yakutsk"
   },
   "chongjin": {
-    "latitude": 41.8,
-    "longitude": 129.783,
+    "lat": 41.8,
+    "lng": 129.783,
     "city": "Chongjin"
   },
   "fukuoka": {
-    "latitude": 33.583,
-    "longitude": 130.4,
+    "lat": 33.583,
+    "lng": 130.4,
     "city": "Fukuoka"
   },
   "darwin": {
-    "latitude": -12.45,
-    "longitude": 130.833,
+    "lat": -12.45,
+    "lng": 130.833,
     "city": "Darwin"
   },
   "vladivostok": {
-    "latitude": 43.133,
-    "longitude": 131.9,
+    "lat": 43.133,
+    "lng": 131.9,
     "city": "Vladivostok"
   },
   "hiroshima": {
-    "latitude": 34.383,
-    "longitude": 132.45,
+    "lat": 34.383,
+    "lng": 132.45,
     "city": "Hiroshima"
   },
   "koror": {
-    "latitude": 7.35,
-    "longitude": 134.467,
+    "lat": 7.35,
+    "lng": 134.467,
     "city": "Koror"
   },
   "melekeok": {
-    "latitude": 7.5,
-    "longitude": 134.617,
+    "lat": 7.5,
+    "lng": 134.617,
     "city": "Melekeok"
   },
   "kobe": {
-    "latitude": 34.683,
-    "longitude": 135.2,
+    "lat": 34.683,
+    "lng": 135.2,
     "city": "Kobe"
   },
   "osaka": {
-    "latitude": 34.683,
-    "longitude": 135.5,
+    "lat": 34.683,
+    "lng": 135.5,
     "city": "Osaka"
   },
   "kyoto": {
-    "latitude": 35.017,
-    "longitude": 135.767,
+    "lat": 35.017,
+    "lng": 135.767,
     "city": "Kyoto"
   },
   "nagoya": {
-    "latitude": 35.183,
-    "longitude": 136.9,
+    "lat": 35.183,
+    "lng": 136.9,
     "city": "Nagoya"
   },
   "adelaide": {
-    "latitude": -34.917,
-    "longitude": 138.6,
+    "lat": -34.917,
+    "lng": 138.6,
     "city": "Adelaide"
   },
   "yokohama": {
-    "latitude": 35.45,
-    "longitude": 139.633,
+    "lat": 35.45,
+    "lng": 139.633,
     "city": "Yokohama"
   },
   "kawasaki": {
-    "latitude": 35.517,
-    "longitude": 139.7,
+    "lat": 35.517,
+    "lng": 139.7,
     "city": "Kawasaki"
   },
   "tokyo": {
-    "latitude": 35.683,
-    "longitude": 139.767,
+    "lat": 35.683,
+    "lng": 139.767,
     "city": "Tokyo"
   },
   "jayapura": {
-    "latitude": -2.533,
-    "longitude": 140.717,
+    "lat": -2.533,
+    "lng": 140.717,
     "city": "Jayapura"
   },
   "sapporo": {
-    "latitude": 43.067,
-    "longitude": 141.35,
+    "lat": 43.067,
+    "lng": 141.35,
     "city": "Sapporo"
   },
   "geelong": {
-    "latitude": -38.15,
-    "longitude": 144.35,
+    "lat": -38.15,
+    "lng": 144.35,
     "city": "Geelong"
   },
   "hag%c3%a5t%c3%b1a": {
-    "latitude": 13.483,
-    "longitude": 144.75,
+    "lat": 13.483,
+    "lng": 144.75,
     "city": "Hag%C3%A5t%C3%B1a"
   },
   "dededo": {
-    "latitude": 13.517,
-    "longitude": 144.833,
+    "lat": 13.517,
+    "lng": 144.833,
     "city": "Dededo"
   },
   "melbourne": {
-    "latitude": -37.8,
-    "longitude": 144.95,
+    "lat": -37.8,
+    "lng": 144.95,
     "city": "Melbourne"
   },
   "saipan": {
-    "latitude": 15.183,
-    "longitude": 145.75,
+    "lat": 15.183,
+    "lng": 145.75,
     "city": "Saipan"
   },
   "cairns": {
-    "latitude": -16.917,
-    "longitude": 145.767,
+    "lat": -16.917,
+    "lng": 145.767,
     "city": "Cairns"
   },
   "townsville": {
-    "latitude": -19.25,
-    "longitude": 146.817,
+    "lat": -19.25,
+    "lng": 146.817,
     "city": "Townsville"
   },
   "portmoresby": {
-    "latitude": -9.467,
-    "longitude": 147.167,
+    "lat": -9.467,
+    "lng": 147.167,
     "city": "Port Moresby"
   },
   "hobart": {
-    "latitude": -42.883,
-    "longitude": 147.317,
+    "lat": -42.883,
+    "lng": 147.317,
     "city": "Hobart"
   },
   "canberra": {
-    "latitude": -35.3,
-    "longitude": 149.117,
+    "lat": -35.3,
+    "lng": 149.117,
     "city": "Canberra"
   },
   "rockhampton": {
-    "latitude": -23.367,
-    "longitude": 150.5,
+    "lat": -23.367,
+    "lng": 150.5,
     "city": "Rockhampton"
   },
   "magadan": {
-    "latitude": 59.567,
-    "longitude": 150.8,
+    "lat": 59.567,
+    "lng": 150.8,
     "city": "Magadan"
   },
   "wollongong": {
-    "latitude": -34.433,
-    "longitude": 150.883,
+    "lat": -34.433,
+    "lng": 150.883,
     "city": "Wollongong"
   },
   "sydney": {
-    "latitude": -33.85,
-    "longitude": 151.2,
+    "lat": -33.85,
+    "lng": 151.2,
     "city": "Sydney"
   },
   "newcastle": {
-    "latitude": -32.917,
-    "longitude": 151.75,
+    "lat": -32.917,
+    "lng": 151.75,
     "city": "Newcastle"
   },
   "weno": {
-    "latitude": 7.45,
-    "longitude": 151.85,
+    "lat": 7.45,
+    "lng": 151.85,
     "city": "Weno"
   },
   "brisbane": {
-    "latitude": -27.467,
-    "longitude": 153.017,
+    "lat": -27.467,
+    "lng": 153.017,
     "city": "Brisbane"
   },
   "goldcoast": {
-    "latitude": -28.167,
-    "longitude": 153.55,
+    "lat": -28.167,
+    "lng": 153.55,
     "city": "Gold Coast"
   },
   "palikir": {
-    "latitude": 6.917,
-    "longitude": 158.183,
+    "lat": 6.917,
+    "lng": 158.183,
     "city": "Palikir"
   },
   "petropavlovskkamchatsky": {
-    "latitude": 53.017,
-    "longitude": 158.65,
+    "lat": 53.017,
+    "lng": 158.65,
     "city": "Petropavlovsk-Kamchatsky"
   },
   "honiara": {
-    "latitude": -9.433,
-    "longitude": 159.95,
+    "lat": -9.433,
+    "lng": 159.95,
     "city": "Honiara"
   },
   "noum%c3%a9a": {
-    "latitude": -22.267,
-    "longitude": 166.45,
+    "lat": -22.267,
+    "lng": 166.45,
     "city": "Noum%C3%A9a"
   },
   "yarendistrict": {
-    "latitude": -0.55,
-    "longitude": 166.917,
+    "lat": -0.55,
+    "lng": 166.917,
     "city": "Yaren District"
   },
   "portvila": {
-    "latitude": -17.75,
-    "longitude": 168.3,
+    "lat": -17.75,
+    "lng": 168.3,
     "city": "Port Vila"
   },
   "invercargill": {
-    "latitude": -46.417,
-    "longitude": 168.3,
+    "lat": -46.417,
+    "lng": 168.3,
     "city": "Invercargill"
   },
   "dunedin": {
-    "latitude": -45.867,
-    "longitude": 170.5,
+    "lat": -45.867,
+    "lng": 170.5,
     "city": "Dunedin"
   },
   "majuro": {
-    "latitude": 7.067,
-    "longitude": 171.267,
+    "lat": 7.067,
+    "lng": 171.267,
     "city": "Majuro"
   },
   "christchurch": {
-    "latitude": -43.533,
-    "longitude": 172.617,
+    "lat": -43.533,
+    "lng": 172.617,
     "city": "Christchurch"
   },
   "southtarawa": {
-    "latitude": 1.317,
-    "longitude": 172.983,
+    "lat": 1.317,
+    "lng": 172.983,
     "city": "South Tarawa"
   },
   "wellington": {
-    "latitude": -41.283,
-    "longitude": 174.767,
+    "lat": -41.283,
+    "lng": 174.767,
     "city": "Wellington"
   },
   "auckland": {
-    "latitude": -36.85,
-    "longitude": 174.783,
+    "lat": -36.85,
+    "lng": 174.783,
     "city": "Auckland"
   },
   "matautu": {
-    "latitude": -13.283,
-    "longitude": 176.183,
+    "lat": -13.283,
+    "lng": 176.183,
     "city": "Mata-Utu"
   },
   "anadyr": {
-    "latitude": 64.733,
-    "longitude": 177.5,
+    "lat": 64.733,
+    "lng": 177.5,
     "city": "Anadyr (town)"
   },
   "suva": {
-    "latitude": -18.133,
-    "longitude": 178.433,
+    "lat": -18.133,
+    "lng": 178.433,
     "city": "Suva"
   },
   "funafuti": {
-    "latitude": -8.517,
-    "longitude": 179.217,
+    "lat": -8.517,
+    "lng": 179.217,
     "city": "Funafuti"
   },
   "labasa": {
-    "latitude": -16.433,
-    "longitude": 179.367,
+    "lat": -16.433,
+    "lng": 179.367,
     "city": "Labasa"
   },
   "nukulaelae": {
-    "latitude": -9.383,
-    "longitude": 179.85,
+    "lat": -9.383,
+    "lng": 179.85,
     "city": "Nukulaelae"
   },
   "nandi": {
@@ -3309,5 +3309,59 @@
     "lat": -17.79959959,
     "lng": 177.4166019,
     "country": "Fiji"
+  },
+  "kagoshima": {
+    "city": "Kagoshima",
+    "lat": 31.58596478,
+    "lng": 130.561064,
+    "country": "Japan"
+  },
+  "mito": {
+    "city": "Mito",
+    "lat": 36.37042727,
+    "lng": 140.4800451,
+    "country": "Japan"
+  },
+  "sendai": {
+    "city": "Sendai",
+    "lat": 38.28710614,
+    "lng": 141.0217175,
+    "country": "Japan"
+  },
+  "akita": {
+    "city": "Akita",
+    "lat": 39.70999086,
+    "lng": 140.0899914,
+    "country": "Japan"
+  },
+  "wroclaw": {
+    "city": "Wroclaw",
+    "lat": 51.11043194,
+    "lng": 17.03000932,
+    "country": "Poland"
+  },
+  "katowice": {
+    "city": "Katowice",
+    "lat": 50.26038047,
+    "lng": 19.02001705,
+    "country": "Poland"
+  },
+  "pula": {
+    "city": "Pula",
+    "lat": 44.86871991,
+    "lng": 13.84808467,
+    "country": "Croatia"
+  },
+  "zadar": {
+    "city": "Zadar",
+    "lat": 44.12013511,
+    "lng": 15.26226192,
+    "country": "Croatia"
+  },
+  "dubrovnik": {
+    "city": "Dubrovnik",
+    "lat": 42.66094769,
+    "lng": 18.09139156,
+    "country": "Croatia"
   }
 }

@@ -70,13 +70,15 @@ var mapaelWaypointer = (function ($) {
 				}
 				return accumulator;
 			}, {});
-			//console.log(selectedCities);
 
 			// Initialise map
 			$(".mw__map-container").mapael({
 				map: {
 					name: maps[vm.args.map],
-					cssClass: 'mw__map-container__svg'
+					cssClass: 'mw__map-container__svg',
+					defaultPlot: {
+						size: 7
+					}
 				},
 				plots: selectedCities,
 				links: {}
