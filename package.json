@@ -1,0 +1,19 @@
+{
+  "name": "Mapael Waypointer",
+  "description": "",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Jackson Hardaker",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-sass": "^3.1.0"
+  },
+  "keywords": [],
+  "repository": "",
+  "licenses": [
+    {}
+  ]
+}
