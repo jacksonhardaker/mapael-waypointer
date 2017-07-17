@@ -30,7 +30,7 @@ var mapaelWaypointer = (function ($) {
 	 */
 	var vm = {
 		zoomSpeed: 600,
-		waypointIndex: -1 
+		waypointIndex: -1
 	};
 
 	$(window).load(function () {
@@ -52,16 +52,22 @@ var mapaelWaypointer = (function ($) {
 		// Load city plots
 		$.getJSON('/wp-content/plugins/mapael-waypointer/public/js/mw-cities.json').complete(function (data) {
 			vm.cities = data.responseJSON;
+			console.log(data);
 
 			var selectedCities = vm.args.cities.map(function (selectedCity) {
 				return vm.cities[selectedCity.trim()];
 			}).reduce(function (accumulator, current) {
+				if (current) {
+					// Add tooltip
+					current.tooltip = { content: current.city };
 
-				// Add tooltip
-				current.tooltip = { content: current.city };
+					// Add full lat/lng, if needed.
+					current.latitude = current.latitude ? current.latitude : current.lat;
+					current.longitude = current.longitude ? current.longitude : current.lng;
 
-				// Remap to attribute and return
-				accumulator[current.city.toLowerCase()] = current;
+					// Remap to attribute and return
+					accumulator[current.city.toLowerCase()] = current;
+				}
 				return accumulator;
 			}, {});
 			//console.log(selectedCities);

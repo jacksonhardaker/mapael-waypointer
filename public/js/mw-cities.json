@@ -2,3967 +2,3312 @@
   "adak": {
     "latitude": 51.883,
     "longitude": -176.633,
-    "wikipedia": "Adak,_Alaska",
     "city": "Adak"
   },
   "nuku%ca%bbalofa": {
     "latitude": -21.133,
     "longitude": -175.2,
-    "wikipedia": "Nuku%CA%BBalofa",
     "city": "Nuku%CA%BBalofa"
   },
   "apia": {
     "latitude": -13.833,
     "longitude": -171.833,
-    "wikipedia": "Apia",
     "city": "Apia"
   },
   "pagopago": {
     "latitude": -14.267,
     "longitude": -170.7,
-    "wikipedia": "Pago_Pago",
     "city": "Pago Pago"
   },
   "alofi": {
     "latitude": -19.05,
     "longitude": -169.917,
-    "wikipedia": "Alofi",
     "city": "Alofi"
   },
   "avarua": {
     "latitude": -21.2,
     "longitude": -159.767,
-    "wikipedia": "Avarua",
     "city": "Avarua"
   },
   "honolulu": {
     "latitude": 21.3,
     "longitude": -157.817,
-    "wikipedia": "Honolulu",
     "city": "Honolulu"
   },
   "hilo": {
     "latitude": 19.7,
     "longitude": -155.1,
-    "wikipedia": "Hilo,_Hawaii",
     "city": "Hilo"
   },
   "anchorage": {
     "latitude": 61.217,
     "longitude": -149.883,
-    "wikipedia": "Anchorage,_Alaska",
     "city": "Anchorage"
   },
   "papeete": {
     "latitude": -17.533,
     "longitude": -149.567,
-    "wikipedia": "Papeete",
     "city": "Papeete"
   },
   "fairbanks": {
     "latitude": 64.833,
     "longitude": -147.7,
-    "wikipedia": "Fairbanks,_Alaska",
     "city": "Fairbanks"
   },
   "sitka": {
     "latitude": 57.05,
     "longitude": -135.317,
-    "wikipedia": "Sitka,_Alaska",
     "city": "Sitka"
   },
   "whitehorse": {
     "latitude": 60.717,
     "longitude": -135.05,
-    "wikipedia": "Whitehorse,_Yukon",
     "city": "Whitehorse"
   },
   "juneau": {
     "latitude": 58.35,
     "longitude": -134.5,
-    "wikipedia": "Juneau,_Alaska",
     "city": "Juneau"
   },
   "adamstown": {
     "latitude": -25.067,
     "longitude": -130.1,
-    "wikipedia": "Adamstown,_Pitcairn_Islands",
     "city": "Adamstown"
   },
   "vancouver": {
     "latitude": 49.25,
     "longitude": -123.1,
-    "wikipedia": "Vancouver",
     "city": "Vancouver"
   },
   "rabiisland": {
     "latitude": 3.133,
     "longitude": -12.05,
-    "wikipedia": "Rabi_Island",
     "city": "Rabi Island"
   },
   "portland": {
     "latitude": 45.517,
     "longitude": -122.667,
-    "wikipedia": "Portland,_Oregon",
     "city": "Portland"
   },
   "sanfrancisco": {
     "latitude": 37.767,
     "longitude": -122.417,
-    "wikipedia": "San_Francisco",
     "city": "San Francisco"
   },
   "seattle": {
     "latitude": 47.6,
     "longitude": -122.317,
-    "wikipedia": "Seattle",
     "city": "Seattle"
   },
   "sacramento": {
     "latitude": 38.55,
     "longitude": -121.467,
-    "wikipedia": "Sacramento,_California",
     "city": "Sacramento"
   },
   "losangeles": {
     "latitude": 34.05,
     "longitude": -118.25,
-    "wikipedia": "Los_Angeles",
     "city": "Los Angeles"
   },
   "riverside": {
     "latitude": 33.933,
     "longitude": -117.383,
-    "wikipedia": "Riverside,_California",
     "city": "Riverside"
   },
   "sandiego": {
     "latitude": 32.767,
     "longitude": -117.15,
-    "wikipedia": "San_Diego",
     "city": "San Diego"
   },
   "tijuana": {
     "latitude": 32.517,
     "longitude": -117.033,
-    "wikipedia": "Tijuana",
     "city": "Tijuana"
   },
   "mexicali": {
     "latitude": 32.667,
     "longitude": -115.467,
-    "wikipedia": "Mexicali",
     "city": "Mexicali"
   },
   "lasvegas": {
     "latitude": 36.167,
     "longitude": -115.133,
-    "wikipedia": "Las_Vegas,_Nevada",
     "city": "Las Vegas"
   },
   "yellowknife": {
     "latitude": 62.45,
     "longitude": -114.4,
-    "wikipedia": "Yellowknife",
     "city": "Yellowknife"
   },
   "calgary": {
     "latitude": 51.033,
     "longitude": -114.05,
-    "wikipedia": "Calgary",
     "city": "Calgary"
   },
   "edmonton": {
     "latitude": 53.567,
     "longitude": -113.517,
-    "wikipedia": "Edmonton",
     "city": "Edmonton"
   },
   "phoenix": {
     "latitude": 33.433,
     "longitude": -112.067,
-    "wikipedia": "Phoenix,_Arizona",
     "city": "Phoenix"
   },
   "saltlakecity": {
     "latitude": 40.75,
     "longitude": -111.883,
-    "wikipedia": "Salt_Lake_City",
     "city": "Salt Lake City"
   },
   "tucson": {
     "latitude": 32.2,
     "longitude": -110.917,
-    "wikipedia": "Tucson,_Arizona",
     "city": "Tucson"
   },
   "hangaroa": {
     "latitude": 27.15,
     "longitude": -109.433,
-    "wikipedia": "Hanga_Roa",
     "city": "Hanga Roa"
   },
   "saskatoon": {
     "latitude": 52.117,
     "longitude": -106.65,
-    "wikipedia": "Saskatoon",
     "city": "Saskatoon"
   },
   "albuquerque": {
     "latitude": 35.1,
     "longitude": -106.6,
-    "wikipedia": "Albuquerque,_New_Mexico",
     "city": "Albuquerque"
   },
   "elpaso": {
     "latitude": 31.783,
     "longitude": -106.417,
-    "wikipedia": "El_Paso,_Texas",
     "city": "El Paso"
   },
   "chihuahua": {
     "latitude": 28.1,
     "longitude": -106.0,
-    "wikipedia": "Chihuahua,_Chihuahua",
     "city": "Chihuahua"
   },
   "denver": {
     "latitude": 39.733,
     "longitude": -104.983,
-    "wikipedia": "Denver",
     "city": "Denver"
   },
   "durango": {
     "latitude": 24.017,
     "longitude": -104.667,
-    "wikipedia": "Durango,_Durango",
     "city": "Durango"
   },
   "regina": {
     "latitude": 50.433,
     "longitude": -104.617,
-    "wikipedia": "Regina,_Saskatchewan",
     "city": "Regina"
   },
   "zapopan": {
     "latitude": 20.767,
     "longitude": -103.4,
-    "wikipedia": "Zapopan,_Jalisco",
     "city": "Zapopan"
   },
   "guadalajara": {
     "latitude": 20.667,
     "longitude": -103.35,
-    "wikipedia": "Guadalajara,_Jalisco",
     "city": "Guadalajara"
   },
   "monterrey": {
     "latitude": 25.667,
     "longitude": -100.3,
-    "wikipedia": "Monterrey",
     "city": "Monterrey"
   },
   "mexicocity": {
     "latitude": 19.4,
     "longitude": -99.117,
-    "wikipedia": "Mexico_City",
     "city": "Mexico City"
   },
   "sanantonio": {
     "latitude": 29.533,
     "longitude": -98.467,
-    "wikipedia": "San_Antonio",
     "city": "San Antonio"
   },
   "puebla": {
     "latitude": 19.05,
     "longitude": -98.2,
-    "wikipedia": "Puebla,_Puebla",
     "city": "Puebla"
   },
   "austin": {
     "latitude": 30.267,
     "longitude": -97.767,
-    "wikipedia": "Austin,_Texas",
     "city": "Austin"
   },
   "oklahomacity": {
     "latitude": 35.467,
     "longitude": -97.533,
-    "wikipedia": "Oklahoma_City",
     "city": "Oklahoma City"
   },
   "wichita": {
     "latitude": 37.683,
     "longitude": -97.333,
-    "wikipedia": "Wichita,_Kansas",
     "city": "Wichita"
   },
   "winnipeg": {
     "latitude": 49.9,
     "longitude": -97.133,
-    "wikipedia": "Winnipeg",
     "city": "Winnipeg"
   },
   "dallas": {
     "latitude": 32.767,
     "longitude": -96.8,
-    "wikipedia": "Dallas",
     "city": "Dallas"
   },
   "veracruz": {
     "latitude": 19.183,
     "longitude": -96.133,
-    "wikipedia": "Veracruz,_Veracruz",
     "city": "Veracruz"
   },
   "houston": {
     "latitude": 29.75,
     "longitude": -95.367,
-    "wikipedia": "Houston",
     "city": "Houston"
   },
   "kansascity": {
     "latitude": 39.1,
     "longitude": -94.567,
-    "wikipedia": "Kansas_City,_Missouri",
     "city": "Kansas City"
   },
   "minneapolis": {
     "latitude": 44.967,
     "longitude": -93.25,
-    "wikipedia": "Minneapolis",
     "city": "Minneapolis"
   },
   "quetzaltenango": {
     "latitude": 14.833,
     "longitude": -91.517,
-    "wikipedia": "Quetzaltenango",
     "city": "Quetzaltenango"
   },
   "guatemalacity": {
     "latitude": 14.633,
     "longitude": -90.55,
-    "wikipedia": "Guatemala_City",
     "city": "Guatemala City"
   },
   "st.louis": {
     "latitude": 38.617,
     "longitude": -90.183,
-    "wikipedia": "St._Louis,_Missouri",
     "city": "St. Louis"
   },
   "neworleans": {
     "latitude": 29.967,
     "longitude": -90.067,
-    "wikipedia": "New_Orleans",
     "city": "New Orleans"
   },
   "memphis": {
     "latitude": 35.117,
     "longitude": -89.967,
-    "wikipedia": "Memphis,_Tennessee",
     "city": "Memphis"
   },
   "m%c3%a9rida": {
     "latitude": 20.967,
     "longitude": -89.617,
-    "wikipedia": "M%C3%A9rida,_Yucat%C3%A1n",
     "city": "M%C3%A9rida"
   },
   "sansalvador": {
     "latitude": 13.683,
     "longitude": -89.183,
-    "wikipedia": "San_Salvador",
     "city": "San Salvador"
   },
   "belmopan": {
     "latitude": 17.25,
     "longitude": -88.767,
-    "wikipedia": "Belmopan",
     "city": "Belmopan"
   },
   "belizecity": {
     "latitude": 17.483,
     "longitude": -88.183,
-    "wikipedia": "Belize_City",
     "city": "Belize City"
   },
   "milwaukee": {
     "latitude": 47.05,
     "longitude": -87.95,
-    "wikipedia": "Milwaukee",
     "city": "Milwaukee"
   },
   "chicago": {
     "latitude": 41.867,
     "longitude": -87.617,
-    "wikipedia": "Chicago",
     "city": "Chicago"
   },
   "tegucigalpa": {
     "latitude": 14.083,
     "longitude": -87.217,
-    "wikipedia": "Tegucigalpa",
     "city": "Tegucigalpa"
   },
   "nashville": {
     "latitude": 36.167,
     "longitude": -86.783,
-    "wikipedia": "Nashville,_Tennessee",
     "city": "Nashville"
   },
   "managua": {
     "latitude": 12.133,
     "longitude": -86.25,
-    "wikipedia": "Managua",
     "city": "Managua"
   },
   "indianapolis": {
     "latitude": 39.783,
     "longitude": -86.15,
-    "wikipedia": "Indianapolis",
     "city": "Indianapolis"
   },
   "louisville": {
     "latitude": 38.25,
     "longitude": -85.75,
-    "wikipedia": "Louisville,_Kentucky",
     "city": "Louisville"
   },
   "cincinnati": {
     "latitude": 39.133,
     "longitude": -84.5,
-    "wikipedia": "Cincinnati",
     "city": "Cincinnati"
   },
   "atlanta": {
     "latitude": 33.75,
     "longitude": -84.383,
-    "wikipedia": "Atlanta",
     "city": "Atlanta"
   },
   "sanjos%c3%a9": {
     "latitude": 9.933,
     "longitude": -84.083,
-    "wikipedia": "San_Jos%C3%A9,_Costa_Rica",
     "city": "San Jos%C3%A9"
   },
   "detroit": {
     "latitude": 42.333,
     "longitude": -83.05,
-    "wikipedia": "Detroit",
     "city": "Detroit"
   },
   "columbus": {
     "latitude": 39.983,
     "longitude": -82.983,
-    "wikipedia": "Columbus,_Ohio",
     "city": "Columbus"
   },
   "tampa": {
     "latitude": 27.967,
     "longitude": -82.467,
-    "wikipedia": "Tampa,_Florida",
     "city": "Tampa"
   },
   "havana": {
     "latitude": 23.133,
     "longitude": -82.383,
-    "wikipedia": "Havana",
     "city": "Havana"
   },
   "cleveland": {
     "latitude": 41.483,
     "longitude": -81.667,
-    "wikipedia": "Cleveland",
     "city": "Cleveland"
   },
   "jacksonville": {
     "latitude": 30.317,
     "longitude": -81.65,
-    "wikipedia": "Jacksonville,_Florida",
     "city": "Jacksonville"
   },
   "georgetown": {
     "latitude": 5.417,
     "longitude": 100.317,
-    "wikipedia": "George_Town,_Penang",
     "city": "George Town"
   },
   "charlotte": {
     "latitude": 35.2,
     "longitude": -80.817,
-    "wikipedia": "Charlotte,_North_Carolina",
     "city": "Charlotte"
   },
   "miami": {
     "latitude": 25.783,
     "longitude": -80.217,
-    "wikipedia": "Miami",
     "city": "Miami"
   },
   "pittsburgh": {
     "latitude": 40.433,
     "longitude": -79.967,
-    "wikipedia": "Pittsburgh",
     "city": "Pittsburgh"
   },
   "guayaquil": {
     "latitude": 2.183,
     "longitude": -79.883,
-    "wikipedia": "Guayaquil",
     "city": "Guayaquil"
   },
   "panamacity": {
     "latitude": 8.983,
     "longitude": -79.517,
-    "wikipedia": "Panama_City",
     "city": "Panama City"
   },
   "toronto": {
     "latitude": 43.65,
     "longitude": -79.383,
-    "wikipedia": "Toronto",
     "city": "Toronto"
   },
   "buffalo": {
     "latitude": 42.9,
     "longitude": -78.85,
-    "wikipedia": "Buffalo,_New_York",
     "city": "Buffalo"
   },
   "raleigh": {
     "latitude": 35.817,
     "longitude": -78.633,
-    "wikipedia": "Raleigh,_North_Carolina",
     "city": "Raleigh"
   },
   "quito": {
     "latitude": 0.25,
     "longitude": -78.583,
-    "wikipedia": "Quito",
     "city": "Quito"
   },
   "rochester": {
     "latitude": 43.15,
     "longitude": -77.6,
-    "wikipedia": "Rochester,_New_York",
     "city": "Rochester"
   },
   "nassau": {
     "latitude": 25.05,
     "longitude": -77.333,
-    "wikipedia": "Nassau,_Bahamas",
     "city": "Nassau"
   },
   "washington": {
     "latitude": 38.883,
     "longitude": -77.033,
-    "wikipedia": "Washington,_D.C.",
     "city": "Washington"
   },
   "lima": {
     "latitude": -12.033,
     "longitude": -77.017,
-    "wikipedia": "Lima",
     "city": "Lima"
   },
   "kingston": {
     "latitude": -29.067,
     "longitude": 167.967,
-    "wikipedia": "Kingston,_Norfolk_Island",
     "city": "Kingston"
   },
   "baltimore": {
     "latitude": 39.283,
     "longitude": -76.617,
-    "wikipedia": "Baltimore",
     "city": "Baltimore"
   },
   "cali": {
     "latitude": 3.417,
     "longitude": -76.517,
-    "wikipedia": "Cali",
     "city": "Cali"
   },
   "virginiabeach": {
     "latitude": 36.85,
     "longitude": -75.983,
-    "wikipedia": "Virginia_Beach",
     "city": "Virginia Beach"
   },
   "santiagodecuba": {
     "latitude": 20.017,
     "longitude": -75.8,
-    "wikipedia": "Santiago_de_Cuba",
     "city": "Santiago de Cuba"
   },
   "ottawa": {
     "latitude": 45.417,
     "longitude": -75.683,
-    "wikipedia": "Ottawa",
     "city": "Ottawa"
   },
   "medell%c3%adn": {
     "latitude": 6.233,
     "longitude": -75.567,
-    "wikipedia": "Medell%C3%ADn",
     "city": "Medell%C3%ADn"
   },
   "cartagena": {
     "latitude": 10.4,
     "longitude": -75.5,
-    "wikipedia": "Cartagena,_Colombia",
     "city": "Cartagena"
   },
   "philadelphia": {
     "latitude": 39.95,
     "longitude": -75.167,
-    "wikipedia": "Philadelphia",
     "city": "Philadelphia"
   },
   "barranquilla": {
     "latitude": 10.95,
     "longitude": -74.783,
-    "wikipedia": "Barranquilla",
     "city": "Barranquilla"
   },
   "forkedriver": {
     "latitude": 39.817,
     "longitude": -74.183,
-    "wikipedia": "Forked_River",
     "city": "Forked River"
   },
   "jerseycity": {
     "latitude": 41.433,
     "longitude": -74.133,
-    "wikipedia": "Jersey_City,_New_Jersey",
     "city": "Jersey City"
   },
   "bogot%c3%a1": {
     "latitude": 4.6,
     "longitude": -74.067,
-    "wikipedia": "Bogot%C3%A1",
     "city": "Bogot%C3%A1"
   },
   "newyorkcity": {
     "latitude": 40.717,
     "longitude": -74.0,
-    "wikipedia": "New_York_City",
     "city": "New York City"
   },
   "montreal": {
     "latitude": 45.5,
     "longitude": -73.55,
-    "wikipedia": "Montreal",
     "city": "Montreal"
   },
   "iquitos": {
     "latitude": -3.733,
     "longitude": -73.25,
-    "wikipedia": "Iquitos",
     "city": "Iquitos"
   },
   "valdivia": {
     "latitude": -39.817,
     "longitude": -73.233,
-    "wikipedia": "Valdivia,_Chile",
     "city": "Valdivia"
   },
   "concepci%c3%b3n": {
     "latitude": -36.833,
     "longitude": -73.05,
-    "wikipedia": "Concepci%C3%B3n,_Chile",
     "city": "Concepci%C3%B3n"
   },
   "portauprince": {
     "latitude": 18.533,
     "longitude": -72.333,
-    "wikipedia": "Port-au-Prince",
     "city": "Port-au-Prince"
   },
   "cusco": {
     "latitude": -13.5,
     "longitude": -71.967,
-    "wikipedia": "Cusco",
     "city": "Cusco"
   },
   "maracaibo": {
     "latitude": -10.65,
     "longitude": -71.633,
-    "wikipedia": "Maracaibo",
     "city": "Maracaibo"
   },
   "valpara%c3%adso": {
     "latitude": -33.05,
     "longitude": -71.617,
-    "wikipedia": "Valpara%C3%ADso",
     "city": "Valpara%C3%ADso"
   },
   "arequipa": {
     "latitude": -16.4,
     "longitude": -71.533,
-    "wikipedia": "Arequipa",
     "city": "Arequipa"
   },
   "providence": {
     "latitude": 41.817,
     "longitude": -71.417,
-    "wikipedia": "Providence,_Rhode_Island",
     "city": "Providence"
   },
   "sancarlosdebariloche": {
     "latitude": -41.15,
     "longitude": -71.3,
-    "wikipedia": "San_Carlos_de_Bariloche",
     "city": "San Carlos de Bariloche"
   },
   "laserena": {
     "latitude": -29.9,
     "longitude": -71.25,
-    "wikipedia": "La_Serena,_Chile",
     "city": "La Serena"
   },
   "quebeccity": {
     "latitude": 46.8,
     "longitude": -71.217,
-    "wikipedia": "Quebec_City",
     "city": "Quebec City"
   },
   "cockburntown": {
     "latitude": 21.45,
     "longitude": -71.133,
-    "wikipedia": "Cockburn_Town",
     "city": "Cockburn Town"
   },
   "boston": {
     "latitude": 42.35,
     "longitude": -71.05,
-    "wikipedia": "Boston",
     "city": "Boston"
   },
   "puntaarenas": {
     "latitude": -53.167,
     "longitude": -70.933,
-    "wikipedia": "Punta_Arenas,_Chile",
     "city": "Punta Arenas"
   },
   "santiago": {
     "latitude": -33.45,
     "longitude": -70.667,
-    "wikipedia": "Santiago,_Chile",
     "city": "Santiago"
   },
   "antofagasta": {
     "latitude": -23.65,
     "longitude": -70.4,
-    "wikipedia": "Antofagasta",
     "city": "Antofagasta"
   },
   "iquique": {
     "latitude": -20.217,
     "longitude": -70.15,
-    "wikipedia": "Iquique",
     "city": "Iquique"
   },
   "oranjestad": {
     "latitude": 12.517,
     "longitude": -70.033,
-    "wikipedia": "Oranjestad,_Aruba",
     "city": "Oranjestad"
   },
   "santodomingo": {
     "latitude": 18.483,
     "longitude": -69.917,
-    "wikipedia": "Santo_Domingo",
     "city": "Santo Domingo"
   },
   "riobranco": {
     "latitude": -10.117,
     "longitude": -69.35,
-    "wikipedia": "Rio_Branco",
     "city": "Rio Branco"
   },
   "willemstad": {
     "latitude": 12.117,
     "longitude": -68.933,
-    "wikipedia": "Willemstad",
     "city": "Willemstad"
   },
   "calama": {
     "latitude": -22.467,
     "longitude": -68.933,
-    "wikipedia": "Calama,_Chile",
     "city": "Calama"
   },
   "mendoza": {
     "latitude": -32.883,
     "longitude": -68.817,
-    "wikipedia": "Mendoza,_Argentina",
     "city": "Mendoza"
   },
   "iqaluit": {
     "latitude": 63.75,
     "longitude": -68.517,
-    "wikipedia": "Iqaluit",
     "city": "Iqaluit"
   },
   "ushuaia": {
     "latitude": -54.8,
     "longitude": -68.3,
-    "wikipedia": "Ushuaia",
     "city": "Ushuaia"
   },
   "lapaz": {
     "latitude": -16.5,
     "longitude": -68.15,
-    "wikipedia": "La_Paz",
     "city": "La Paz"
   },
   "puertowilliams": {
     "latitude": 54.933,
     "longitude": -67.617,
-    "wikipedia": "Puerto_Williams",
     "city": "Puerto Williams"
   },
   "caracas": {
     "latitude": 10.5,
     "longitude": -66.917,
-    "wikipedia": "Caracas",
     "city": "Caracas"
   },
   "fredericton": {
     "latitude": 45.95,
     "longitude": -66.667,
-    "wikipedia": "Fredericton",
     "city": "Fredericton"
   },
   "sanjuan": {
     "latitude": 18.45,
     "longitude": -66.067,
-    "wikipedia": "San_Juan,_Puerto_Rico",
     "city": "San Juan"
   },
   "saintjohn": {
     "latitude": 45.267,
     "longitude": -66.05,
-    "wikipedia": "Saint_John,_New_Brunswick",
     "city": "Saint John"
   },
   "sucre": {
     "latitude": -19.033,
     "longitude": -65.25,
-    "wikipedia": "Sucre",
     "city": "Sucre"
   },
   "charlotteamalie": {
     "latitude": -18.35,
     "longitude": -64.95,
-    "wikipedia": "Charlotte_Amalie,_United_States_Virgin_Islands",
     "city": "Charlotte Amalie"
   },
   "hamilton": {
     "latitude": -37.783,
     "longitude": 175.283,
-    "wikipedia": "Hamilton,_New_Zealand",
     "city": "Hamilton"
   },
   "roadtown": {
     "latitude": 18.433,
     "longitude": -64.617,
-    "wikipedia": "Road_Town",
     "city": "Road Town"
   },
   "c%c3%b3rdoba": {
     "latitude": -31.4,
     "longitude": -64.183,
-    "wikipedia": "C%C3%B3rdoba,_Argentina",
     "city": "C%C3%B3rdoba"
   },
   "portovelho": {
     "latitude": -8.75,
     "longitude": -63.9,
-    "wikipedia": "Porto_Velho",
     "city": "Porto Velho"
   },
   "cityofhalifax": {
     "latitude": 44.667,
     "longitude": -63.6,
-    "wikipedia": "City_of_Halifax",
     "city": "City of Halifax"
   },
   "santacruzdelasierra": {
     "latitude": -17.8,
     "longitude": -63.167,
-    "wikipedia": "Santa_Cruz_de_la_Sierra",
     "city": "Santa Cruz de la Sierra"
   },
   "charlottetown": {
     "latitude": 46.233,
     "longitude": -63.133,
-    "wikipedia": "Charlottetown",
     "city": "Charlottetown"
   },
   "thevalley": {
     "latitude": 18.217,
     "longitude": -63.05,
-    "wikipedia": "The_Valley,_Anguilla",
     "city": "The Valley"
   },
   "basseterre": {
     "latitude": 15.983,
     "longitude": -61.717,
-    "wikipedia": "Basse-Terre",
     "city": "Basse-Terre"
   },
   "bah%c3%adablanca": {
     "latitude": -38.717,
     "longitude": -62.267,
-    "wikipedia": "Bah%C3%ADa_Blanca",
     "city": "Bah%C3%ADa Blanca"
   },
   "st.john%27s": {
     "latitude": 47.55,
     "longitude": -52.7,
-    "wikipedia": "St._John%27s,_Newfoundland_and_Labrador",
     "city": "St. John%27s"
   },
   "st.george%27s": {
     "latitude": 12.05,
     "longitude": -61.75,
-    "wikipedia": "St._George%27s,_Grenada",
     "city": "St. George%27s"
   },
   "portofspain": {
     "latitude": 10.667,
     "longitude": -61.517,
-    "wikipedia": "Port_of_Spain",
     "city": "Port of Spain"
   },
   "sanfernando": {
     "latitude": 10.283,
     "longitude": -61.467,
-    "wikipedia": "San_Fernando,_Trinidad_and_Tobago",
     "city": "San Fernando"
   },
   "roseau": {
     "latitude": 15.3,
     "longitude": -61.383,
-    "wikipedia": "Roseau",
     "city": "Roseau"
   },
   "chaguanas": {
     "latitude": 10.5,
     "longitude": -61.383,
-    "wikipedia": "Chaguanas",
     "city": "Chaguanas"
   },
   "kingstown": {
     "latitude": 13.167,
     "longitude": -61.233,
-    "wikipedia": "Kingstown",
     "city": "Kingstown"
   },
   "fortdefrance": {
     "latitude": 14.6,
     "longitude": -61.083,
-    "wikipedia": "Fort-de-France",
     "city": "Fort-de-France"
   },
   "castries": {
     "latitude": 14.017,
     "longitude": -60.983,
-    "wikipedia": "Castries",
     "city": "Castries"
   },
   "rosario": {
     "latitude": -32.95,
     "longitude": -60.667,
-    "wikipedia": "Rosario,_Santa_Fe",
     "city": "Rosario"
   },
   "boavista": {
     "latitude": 2.817,
     "longitude": -60.65,
-    "wikipedia": "Boa_Vista,_Roraima",
     "city": "Boa Vista"
   },
   "manaus": {
     "latitude": -3.1,
     "longitude": -60.017,
-    "wikipedia": "Manaus",
     "city": "Manaus"
   },
   "bridgetown": {
     "latitude": 13.083,
     "longitude": -59.617,
-    "wikipedia": "Bridgetown",
     "city": "Bridgetown"
   },
   "buenosaires": {
     "latitude": -34.6,
     "longitude": -58.367,
-    "wikipedia": "Buenos_Aires",
     "city": "Buenos Aires"
   },
   "stanley": {
     "latitude": 51.683,
     "longitude": -57.85,
-    "wikipedia": "Stanley,_Falkland_Islands",
     "city": "Stanley"
   },
   "asunci%c3%b3n": {
     "latitude": -25.267,
     "longitude": -57.667,
-    "wikipedia": "Asunci%C3%B3n",
     "city": "Asunci%C3%B3n"
   },
   "saintpierre": {
     "latitude": 46.767,
     "longitude": -56.167,
-    "wikipedia": "Saint-Pierre,_Saint_Pierre_and_Miquelon",
     "city": "Saint-Pierre"
   },
   "montevideo": {
     "latitude": -34.917,
     "longitude": -56.167,
-    "wikipedia": "Montevideo",
     "city": "Montevideo"
   },
   "cuiab%c3%a1": {
     "latitude": -15.583,
     "longitude": -56.083,
-    "wikipedia": "Cuiab%C3%A1",
     "city": "Cuiab%C3%A1"
   },
   "paramaribo": {
     "latitude": 5.867,
     "longitude": -55.167,
-    "wikipedia": "Paramaribo",
     "city": "Paramaribo"
   },
   "campogrande": {
     "latitude": -20.433,
     "longitude": -54.633,
-    "wikipedia": "Campo_Grande",
     "city": "Campo Grande"
   },
   "ciudaddeleste": {
     "latitude": -25.417,
     "longitude": -54.617,
-    "wikipedia": "Ciudad_del_Este",
     "city": "Ciudad del Este"
   },
   "chu%c3%ad": {
     "latitude": -33.683,
     "longitude": -53.45,
-    "wikipedia": "Chu%C3%AD",
     "city": "Chu%C3%AD"
   },
   "pelotas": {
     "latitude": -31.767,
     "longitude": -52.333,
-    "wikipedia": "Pelotas",
     "city": "Pelotas"
   },
   "cayenne": {
     "latitude": 4.917,
     "longitude": -52.317,
-    "wikipedia": "Cayenne",
     "city": "Cayenne"
   },
   "nuuk": {
     "latitude": 64.167,
     "longitude": -51.75,
-    "wikipedia": "Nuuk",
     "city": "Nuuk"
   },
   "portoalegre": {
     "latitude": 30.033,
     "longitude": -51.217,
-    "wikipedia": "Porto_Alegre",
     "city": "Porto Alegre"
   },
   "macap%c3%a1": {
     "latitude": 0.033,
     "longitude": -51.05,
-    "wikipedia": "Macap%C3%A1",
     "city": "Macap%C3%A1"
   },
   "assis": {
     "latitude": -22.65,
     "longitude": -50.4,
-    "wikipedia": "Assis",
     "city": "Assis"
   },
   "curitiba": {
     "latitude": -25.417,
     "longitude": -49.25,
-    "wikipedia": "Curitiba",
     "city": "Curitiba"
   },
   "bel%c3%a9m": {
     "latitude": 1.467,
     "longitude": -48.483,
-    "wikipedia": "Bel%C3%A9m",
     "city": "Bel%C3%A9m"
   },
   "bras%c3%adlia": {
     "latitude": -15.8,
     "longitude": -47.9,
-    "wikipedia": "Bras%C3%ADlia",
     "city": "Bras%C3%ADlia"
   },
   "campinas": {
     "latitude": -22.9,
     "longitude": -47.05,
-    "wikipedia": "Campinas",
     "city": "Campinas"
   },
   "s%c3%a3opaulo": {
     "latitude": -23.55,
     "longitude": -46.633,
-    "wikipedia": "S%C3%A3o_Paulo",
     "city": "S%C3%A3o Paulo"
   },
   "s%c3%a3ojos%c3%a9doscampos": {
     "latitude": -23.183,
     "longitude": -45.867,
-    "wikipedia": "S%C3%A3o_Jos%C3%A9_dos_Campos",
     "city": "S%C3%A3o Jos%C3%A9 dos Campos"
   },
   "riodejaneiro": {
     "latitude": -22.9,
     "longitude": -43.233,
-    "wikipedia": "Rio_de_Janeiro",
     "city": "Rio de Janeiro"
   },
   "vit%c3%b3ria": {
     "latitude": -20.317,
     "longitude": -40.333,
-    "wikipedia": "Vit%C3%B3ria,_Brazil",
     "city": "Vit%C3%B3ria"
   },
   "ilh%c3%a9us": {
     "latitude": -14.783,
     "longitude": -39.05,
-    "wikipedia": "Ilh%C3%A9us",
     "city": "Ilh%C3%A9us"
   },
   "fortaleza": {
     "latitude": -3.767,
     "longitude": -38.567,
-    "wikipedia": "Fortaleza",
     "city": "Fortaleza"
   },
   "macei%c3%b3": {
     "latitude": -9.65,
     "longitude": -35.717,
-    "wikipedia": "Macei%C3%B3",
     "city": "Macei%C3%B3"
   },
   "recife": {
     "latitude": -8.067,
     "longitude": -34.867,
-    "wikipedia": "Recife",
     "city": "Recife"
   },
   "horta": {
     "latitude": 38.533,
     "longitude": -28.633,
-    "wikipedia": "Horta_(Azores)",
     "city": "Horta (Azores)"
   },
   "angradohero%c3%adsmo": {
     "latitude": 38.65,
     "longitude": -27.217,
-    "wikipedia": "Angra_do_Hero%C3%ADsmo",
     "city": "Angra do Hero%C3%ADsmo"
   },
   "pontadelgada": {
     "latitude": 37.733,
     "longitude": -25.667,
-    "wikipedia": "Ponta_Delgada,_S%C3%A3o_Miguel_Island",
     "city": "Ponta Delgada"
   },
   "praia": {
     "latitude": 14.917,
     "longitude": -23.517,
-    "wikipedia": "Praia",
     "city": "Praia"
   },
   "reykjav%c3%adk": {
     "latitude": 64.133,
     "longitude": -21.933,
-    "wikipedia": "Reykjav%C3%ADk",
     "city": "Reykjav%C3%ADk"
   },
   "dakar": {
     "latitude": 14.683,
     "longitude": -17.433,
-    "wikipedia": "Dakar",
     "city": "Dakar"
   },
   "thi%c3%a8s": {
     "latitude": 14.833,
     "longitude": -17.1,
-    "wikipedia": "Thi%C3%A8s",
     "city": "Thi%C3%A8s"
   },
   "serekunda": {
     "latitude": 13.433,
     "longitude": -16.667,
-    "wikipedia": "Serekunda",
     "city": "Serekunda"
   },
   "brikama": {
     "latitude": 13.267,
     "longitude": -16.65,
-    "wikipedia": "Brikama",
     "city": "Brikama"
   },
   "banjul": {
     "latitude": 13.45,
     "longitude": -16.567,
-    "wikipedia": "Banjul",
     "city": "Banjul"
   },
   "santacruzdetenerife": {
     "latitude": 28.467,
     "longitude": -16.25,
-    "wikipedia": "Santa_Cruz_de_Tenerife",
     "city": "Santa Cruz de Tenerife"
   },
   "nouakchott": {
     "latitude": 18.1,
     "longitude": -15.95,
-    "wikipedia": "Nouakchott",
     "city": "Nouakchott"
   },
   "bissau": {
     "latitude": 11.85,
     "longitude": -15.583,
-    "wikipedia": "Bissau",
     "city": "Bissau"
   },
   "laspalmasdegrancanaria": {
     "latitude": 28.133,
     "longitude": -15.433,
-    "wikipedia": "Las_Palmas_de_Gran_Canaria",
     "city": "Las Palmas de Gran Canaria"
   },
   "conakry": {
     "latitude": 9.517,
     "longitude": -13.7,
-    "wikipedia": "Conakry",
     "city": "Conakry"
   },
   "freetown": {
     "latitude": 8.467,
     "longitude": -13.267,
-    "wikipedia": "Freetown",
     "city": "Freetown"
   },
   "elaai%c3%ban": {
     "latitude": 27.15,
     "longitude": -13.2,
-    "wikipedia": "El_Aai%C3%BAn",
     "city": "El Aai%C3%BAn"
   },
   "monrovia": {
     "latitude": 6.317,
     "longitude": -10.767,
-    "wikipedia": "Monrovia",
     "city": "Monrovia"
   },
   "lisbon": {
     "latitude": 38.7,
     "longitude": -9.183,
-    "wikipedia": "Lisbon",
     "city": "Lisbon"
   },
   "porto": {
     "latitude": 41.15,
     "longitude": -8.633,
-    "wikipedia": "Porto",
     "city": "Porto"
   },
   "cork": {
     "latitude": 51.883,
     "longitude": -8.467,
-    "wikipedia": "Cork_(city)",
     "city": "Cork (city)"
   },
   "marrakech": {
     "latitude": 31.633,
     "longitude": -8.0,
-    "wikipedia": "Marrakech",
     "city": "Marrakech"
   },
   "bamako": {
     "latitude": 12.65,
     "longitude": -8.0,
-    "wikipedia": "Bamako",
     "city": "Bamako"
   },
   "casablanca": {
     "latitude": 33.533,
     "longitude": -7.583,
-    "wikipedia": "Casablanca",
     "city": "Casablanca"
   },
   "koulikoro": {
     "latitude": 12.983,
     "longitude": -7.567,
-    "wikipedia": "Koulikoro",
     "city": "Koulikoro"
   },
   "rabat": {
     "latitude": 34.033,
     "longitude": -6.833,
-    "wikipedia": "Rabat",
     "city": "Rabat"
   },
   "t%c3%b3rshavn": {
     "latitude": 62.0,
     "longitude": -6.783,
-    "wikipedia": "T%C3%B3rshavn",
     "city": "T%C3%B3rshavn"
   },
   "dublin": {
     "latitude": 53.333,
     "longitude": -6.267,
-    "wikipedia": "Dublin",
     "city": "Dublin"
   },
   "seville": {
     "latitude": 37.367,
     "longitude": -5.983,
-    "wikipedia": "Seville",
     "city": "Seville"
   },
   "belfast": {
     "latitude": 54.6,
     "longitude": -5.917,
-    "wikipedia": "Belfast",
     "city": "Belfast"
   },
   "jamestown": {
     "latitude": -15.917,
     "longitude": -5.733,
-    "wikipedia": "Jamestown,_Saint_Helena",
     "city": "Jamestown"
   },
   "gibraltar": {
     "latitude": 36.133,
     "longitude": -5.35,
-    "wikipedia": "Gibraltar",
     "city": "Gibraltar"
   },
   "yamoussoukro": {
     "latitude": 6.817,
     "longitude": -5.283,
-    "wikipedia": "Yamoussoukro",
     "city": "Yamoussoukro"
   },
   "douglas": {
     "latitude": 54.133,
     "longitude": -4.483,
-    "wikipedia": "Douglas,_Isle_of_Man",
     "city": "Douglas"
   },
   "m%c3%a1laga": {
     "latitude": 36.717,
     "longitude": -4.417,
-    "wikipedia": "M%C3%A1laga",
     "city": "M%C3%A1laga"
   },
   "glasgow": {
     "latitude": 55.85,
     "longitude": -4.25,
-    "wikipedia": "Glasgow",
     "city": "Glasgow"
   },
   "abidjan": {
     "latitude": 5.333,
     "longitude": -4.017,
-    "wikipedia": "Abidjan",
     "city": "Abidjan"
   },
   "madrid": {
     "latitude": 40.4,
     "longitude": -3.683,
-    "wikipedia": "Madrid",
     "city": "Madrid"
   },
   "cardiff": {
     "latitude": 51.483,
     "longitude": -3.183,
-    "wikipedia": "Cardiff",
     "city": "Cardiff"
   },
   "edinburgh": {
     "latitude": 55.95,
     "longitude": -3.15,
-    "wikipedia": "Edinburgh",
     "city": "Edinburgh"
   },
   "timbuktu": {
     "latitude": 16.767,
     "longitude": -3.0,
-    "wikipedia": "Timbuktu",
     "city": "Timbuktu"
   },
   "liverpool": {
     "latitude": 53.4,
     "longitude": -2.983,
-    "wikipedia": "Liverpool",
     "city": "Liverpool"
   },
   "bilbao": {
     "latitude": 43.25,
     "longitude": -2.917,
-    "wikipedia": "Bilbao",
     "city": "Bilbao"
   },
   "manchester": {
     "latitude": 53.467,
     "longitude": -2.233,
-    "wikipedia": "Manchester",
     "city": "Manchester"
   },
   "aberdeen": {
     "latitude": 57.15,
     "longitude": -2.1,
-    "wikipedia": "Aberdeen",
     "city": "Aberdeen"
   },
   "birmingham": {
     "latitude": 52.483,
     "longitude": -1.883,
-    "wikipedia": "Birmingham",
     "city": "Birmingham"
   },
   "leeds": {
     "latitude": 53.8,
     "longitude": -1.55,
-    "wikipedia": "Leeds",
     "city": "Leeds"
   },
   "nantes": {
     "latitude": 47.217,
     "longitude": -1.55,
-    "wikipedia": "Nantes",
     "city": "Nantes"
   },
   "ouagadougou": {
     "latitude": 12.35,
     "longitude": -1.533,
-    "wikipedia": "Ouagadougou",
     "city": "Ouagadougou"
   },
   "tamale": {
     "latitude": 9.4,
     "longitude": -0.85,
-    "wikipedia": "Tamale,_Ghana",
     "city": "Tamale"
   },
   "valencia": {
     "latitude": 39.483,
     "longitude": -0.367,
-    "wikipedia": "Valencia,_Spain",
     "city": "Valencia"
   },
   "accra": {
     "latitude": 5.55,
     "longitude": -0.2,
-    "wikipedia": "Accra",
     "city": "Accra"
   },
   "london": {
     "latitude": 51.5,
     "longitude": -0.117,
-    "wikipedia": "London",
     "city": "London"
   },
   "greenwich": {
     "latitude": 51.467,
     "longitude": -0.0,
-    "wikipedia": "Greenwich",
     "city": "Greenwich"
   },
   "lom%c3%a9": {
     "latitude": 6.133,
     "longitude": 1.2,
-    "wikipedia": "Lom%C3%A9",
     "city": "Lom%C3%A9"
   },
   "toulouse": {
     "latitude": 43.6,
     "longitude": 1.433,
-    "wikipedia": "Toulouse",
     "city": "Toulouse"
   },
   "andorralavella": {
     "latitude": 42.5,
     "longitude": 1.5,
-    "wikipedia": "Andorra_la_Vella",
     "city": "Andorra la Vella"
   },
   "ibiza": {
     "latitude": 39.633,
     "longitude": 1.717,
-    "wikipedia": "Ibiza",
     "city": "Ibiza"
   },
   "niamey": {
     "latitude": 13.517,
     "longitude": 2.1,
-    "wikipedia": "Niamey",
     "city": "Niamey"
   },
   "barcelona": {
     "latitude": 41.383,
     "longitude": 2.183,
-    "wikipedia": "Barcelona",
     "city": "Barcelona"
   },
   "paris": {
     "latitude": 48.867,
     "longitude": 2.333,
-    "wikipedia": "Paris",
     "city": "Paris"
   },
   "cotonou": {
     "latitude": 6.35,
     "longitude": 2.417,
-    "wikipedia": "Cotonou",
     "city": "Cotonou"
   },
   "portonovo": {
     "latitude": 6.5,
     "longitude": 2.6,
-    "wikipedia": "Porto-Novo",
     "city": "Porto-Novo"
   },
   "palma": {
     "latitude": 39.567,
     "longitude": 2.65,
-    "wikipedia": "Palma,_Majorca",
     "city": "Palma"
   },
   "algiers": {
     "latitude": 36.7,
     "longitude": 3.217,
-    "wikipedia": "Algiers",
     "city": "Algiers"
   },
   "lagos": {
     "latitude": 6.45,
     "longitude": 3.383,
-    "wikipedia": "Lagos",
     "city": "Lagos"
   },
   "ibadan": {
     "latitude": 7.367,
     "longitude": 3.883,
-    "wikipedia": "Ibadan",
     "city": "Ibadan"
   },
   "thehague": {
     "latitude": 52.067,
     "longitude": 4.3,
-    "wikipedia": "The_Hague",
     "city": "The Hague"
   },
   "brussels": {
     "latitude": 50.833,
     "longitude": 4.35,
-    "wikipedia": "Brussels",
     "city": "Brussels"
   },
   "antwerp": {
     "latitude": 51.217,
     "longitude": 4.4,
-    "wikipedia": "Antwerp",
     "city": "Antwerp"
   },
   "rotterdam": {
     "latitude": 51.933,
     "longitude": 4.467,
-    "wikipedia": "Rotterdam",
     "city": "Rotterdam"
   },
   "lyon": {
     "latitude": 45.767,
     "longitude": 4.833,
-    "wikipedia": "Lyon",
     "city": "Lyon"
   },
   "amsterdam": {
     "latitude": 52.367,
     "longitude": 4.883,
-    "wikipedia": "Amsterdam",
     "city": "Amsterdam"
   },
   "marseille": {
     "latitude": 43.3,
     "longitude": 5.367,
-    "wikipedia": "Marseille",
     "city": "Marseille"
   },
   "bergen": {
     "latitude": 60.367,
     "longitude": 5.4,
-    "wikipedia": "Bergen",
     "city": "Bergen"
   },
   "luxembourg": {
     "latitude": 49.6,
     "longitude": 6.117,
-    "wikipedia": "Luxembourg_(city)",
     "city": "Luxembourg (city)"
   },
   "geneva": {
     "latitude": 46.2,
     "longitude": 6.15,
-    "wikipedia": "Geneva",
     "city": "Geneva"
   },
   "s%c3%a3otom%c3%a9": {
     "latitude": 0.333,
     "longitude": 6.683,
-    "wikipedia": "S%C3%A3o_Tom%C3%A9",
     "city": "S%C3%A3o Tom%C3%A9"
   },
   "d%c3%bcsseldorf": {
     "latitude": 51.233,
     "longitude": 6.783,
-    "wikipedia": "D%C3%BCsseldorf",
     "city": "D%C3%BCsseldorf"
   },
   "cologne": {
     "latitude": 50.95,
     "longitude": 6.967,
-    "wikipedia": "Cologne",
     "city": "Cologne"
   },
   "cannes": {
     "latitude": 43.55,
     "longitude": 7.0,
-    "wikipedia": "Cannes",
     "city": "Cannes"
   },
   "nice": {
     "latitude": 43.7,
     "longitude": 7.267,
-    "wikipedia": "Nice",
     "city": "Nice"
   },
   "monaco": {
     "latitude": 43.733,
     "longitude": 7.4,
-    "wikipedia": "Monaco",
     "city": "Monaco"
   },
   "bern": {
     "latitude": 46.95,
     "longitude": 7.45,
-    "wikipedia": "Bern",
     "city": "Bern"
   },
   "abuja": {
     "latitude": 9.067,
     "longitude": 7.483,
-    "wikipedia": "Abuja",
     "city": "Abuja"
   },
   "enugu": {
     "latitude": 6.45,
     "longitude": 7.5,
-    "wikipedia": "Enugu",
     "city": "Enugu"
   },
   "turin": {
     "latitude": 45.067,
     "longitude": 7.7,
-    "wikipedia": "Turin",
     "city": "Turin"
   },
   "strasbourg": {
     "latitude": 48.583,
     "longitude": 7.75,
-    "wikipedia": "Strasbourg",
     "city": "Strasbourg"
   },
   "kano": {
     "latitude": 12.0,
     "longitude": 8.517,
-    "wikipedia": "Kano",
     "city": "Kano"
   },
   "z%c3%bcrich": {
     "latitude": 47.367,
     "longitude": 8.55,
-    "wikipedia": "Z%C3%BCrich",
     "city": "Z%C3%BCrich"
   },
   "frankfurt": {
     "latitude": 50.1,
     "longitude": 8.683,
-    "wikipedia": "Frankfurt",
     "city": "Frankfurt"
   },
   "malabo": {
     "latitude": 3.75,
     "longitude": 8.767,
-    "wikipedia": "Malabo",
     "city": "Malabo"
   },
   "stuttgart": {
     "latitude": 48.767,
     "longitude": 9.167,
-    "wikipedia": "Stuttgart",
     "city": "Stuttgart"
   },
   "milan": {
     "latitude": 45.467,
     "longitude": 9.183,
-    "wikipedia": "Milan",
     "city": "Milan"
   },
   "libreville": {
     "latitude": 0.383,
     "longitude": 9.45,
-    "wikipedia": "Libreville",
     "city": "Libreville"
   },
   "vaduz": {
     "latitude": 47.133,
     "longitude": 9.517,
-    "wikipedia": "Vaduz",
     "city": "Vaduz"
   },
   "douala": {
     "latitude": 4.05,
     "longitude": 9.7,
-    "wikipedia": "Douala",
     "city": "Douala"
   },
   "hanover": {
     "latitude": 52.367,
     "longitude": 9.717,
-    "wikipedia": "Hanover",
     "city": "Hanover"
   },
   "hamburg": {
     "latitude": 53.583,
     "longitude": 9.983,
-    "wikipedia": "Hamburg",
     "city": "Hamburg"
   },
   "tunis": {
     "latitude": 36.8,
     "longitude": 10.167,
-    "wikipedia": "Tunis",
     "city": "Tunis"
   },
   "aarhus": {
     "latitude": 56.15,
     "longitude": 10.2,
-    "wikipedia": "Aarhus",
     "city": "Aarhus"
   },
   "oslo": {
     "latitude": 59.95,
     "longitude": 10.75,
-    "wikipedia": "Oslo",
     "city": "Oslo"
   },
   "innsbruck": {
     "latitude": 47.267,
     "longitude": 11.383,
-    "wikipedia": "Innsbruck",
     "city": "Innsbruck"
   },
   "yaound%c3%a9": {
     "latitude": 3.867,
     "longitude": 11.517,
-    "wikipedia": "Yaound%C3%A9",
     "city": "Yaound%C3%A9"
   },
   "munich": {
     "latitude": 48.133,
     "longitude": 11.567,
-    "wikipedia": "Munich",
     "city": "Munich"
   },
   "gothenburg": {
     "latitude": 57.7,
     "longitude": 11.967,
-    "wikipedia": "Gothenburg",
     "city": "Gothenburg"
   },
   "leipzig": {
     "latitude": 51.333,
     "longitude": 12.383,
-    "wikipedia": "Leipzig",
     "city": "Leipzig"
   },
   "cityofsanmarino": {
     "latitude": 43.933,
     "longitude": 12.433,
-    "wikipedia": "City_of_San_Marino",
     "city": "City of San Marino"
   },
   "vaticancity": {
     "latitude": 41.9,
     "longitude": 12.45,
-    "wikipedia": "Vatican_City",
     "city": "Vatican City"
   },
   "rome": {
     "latitude": 41.9,
     "longitude": 12.5,
-    "wikipedia": "Rome",
     "city": "Rome"
   },
   "copenhagen": {
     "latitude": 55.667,
     "longitude": 12.567,
-    "wikipedia": "Copenhagen",
     "city": "Copenhagen"
   },
   "malm%c3%b6": {
     "latitude": 55.583,
     "longitude": 13.033,
-    "wikipedia": "Malm%C3%B6",
     "city": "Malm%C3%B6"
   },
   "salzburg": {
     "latitude": 47.8,
     "longitude": 13.033,
-    "wikipedia": "Salzburg",
     "city": "Salzburg"
   },
   "tripoli": {
     "latitude": 32.9,
     "longitude": 13.183,
-    "wikipedia": "Tripoli",
     "city": "Tripoli"
   },
   "luanda": {
     "latitude": -8.833,
     "longitude": 13.233,
-    "wikipedia": "Luanda",
     "city": "Luanda"
   },
   "berlin": {
     "latitude": 52.517,
     "longitude": 13.417,
-    "wikipedia": "Berlin",
     "city": "Berlin"
   },
   "dresden": {
     "latitude": 51.05,
     "longitude": 13.733,
-    "wikipedia": "Dresden",
     "city": "Dresden"
   },
   "naples": {
     "latitude": 40.833,
     "longitude": 14.25,
-    "wikipedia": "Naples",
     "city": "Naples"
   },
   "linz": {
     "latitude": 48.3,
     "longitude": 14.283,
-    "wikipedia": "Linz",
     "city": "Linz"
   },
   "prague": {
     "latitude": 50.083,
     "longitude": 14.417,
-    "wikipedia": "Prague",
     "city": "Prague"
   },
   "sabha": {
     "latitude": 27.033,
     "longitude": 14.433,
-    "wikipedia": "Sabha,_Libya",
     "city": "Sabha"
   },
   "birkirkara": {
     "latitude": 35.883,
     "longitude": 14.45,
-    "wikipedia": "Birkirkara",
     "city": "Birkirkara"
   },
   "ljubljana": {
     "latitude": 46.067,
     "longitude": 14.5,
-    "wikipedia": "Ljubljana",
     "city": "Ljubljana"
   },
   "valletta": {
     "latitude": 35.9,
     "longitude": 14.5,
-    "wikipedia": "Valletta",
     "city": "Valletta"
   },
   "n%27djamena": {
     "latitude": 12.1,
     "longitude": 15.05,
-    "wikipedia": "N%27Djamena",
     "city": "N%27Djamena"
   },
   "brazzaville": {
     "latitude": -4.267,
     "longitude": 15.283,
-    "wikipedia": "Brazzaville",
     "city": "Brazzaville"
   },
   "kinshasa": {
     "latitude": -4.317,
     "longitude": 15.317,
-    "wikipedia": "Kinshasa",
     "city": "Kinshasa"
   },
   "graz": {
     "latitude": 47.067,
     "longitude": 15.433,
-    "wikipedia": "Graz",
     "city": "Graz"
   },
   "longyearbyen": {
     "latitude": 78.217,
     "longitude": 15.55,
-    "wikipedia": "Longyearbyen",
     "city": "Longyearbyen"
   },
   "zagreb": {
     "latitude": 45.817,
     "longitude": 15.983,
-    "wikipedia": "Zagreb",
     "city": "Zagreb"
   },
   "vienna": {
     "latitude": 48.2,
     "longitude": 16.367,
-    "wikipedia": "Vienna",
     "city": "Vienna"
   },
   "split": {
     "latitude": 43.5,
     "longitude": 16.433,
-    "wikipedia": "Split_(city)",
     "city": "Split (city)"
   },
   "bratislava": {
     "latitude": 48.133,
     "longitude": 17.1,
-    "wikipedia": "Bratislava",
     "city": "Bratislava"
   },
   "stockholm": {
     "latitude": 59.35,
     "longitude": 18.067,
-    "wikipedia": "Stockholm",
     "city": "Stockholm"
   },
   "sarajevo": {
     "latitude": 43.85,
     "longitude": 18.35,
-    "wikipedia": "Sarajevo",
     "city": "Sarajevo"
   },
   "capetown": {
     "latitude": -33.917,
     "longitude": 18.417,
-    "wikipedia": "Cape_Town",
     "city": "Cape Town"
   },
   "bangui": {
     "latitude": 4.35,
     "longitude": 18.583,
-    "wikipedia": "Bangui",
     "city": "Bangui"
   },
   "gda%c5%84sk": {
     "latitude": 54.35,
     "longitude": 18.667,
-    "wikipedia": "Gda%C5%84sk",
     "city": "Gda%C5%84sk"
   },
   "budapest": {
     "latitude": 47.467,
     "longitude": 19.05,
-    "wikipedia": "Budapest",
     "city": "Budapest"
   },
   "podgorica": {
     "latitude": 42.467,
     "longitude": 19.267,
-    "wikipedia": "Podgorica",
     "city": "Podgorica"
   },
   "tirana": {
     "latitude": 41.317,
     "longitude": 19.817,
-    "wikipedia": "Tirana",
     "city": "Tirana"
   },
   "krak%c3%b3w": {
     "latitude": 50.05,
     "longitude": 19.933,
-    "wikipedia": "Krak%C3%B3w",
     "city": "Krak%C3%B3w"
   },
   "belgrade": {
     "latitude": 44.817,
     "longitude": 20.45,
-    "wikipedia": "Belgrade",
     "city": "Belgrade"
   },
   "kaliningrad": {
     "latitude": 54.717,
     "longitude": 20.517,
-    "wikipedia": "Kaliningrad",
     "city": "Kaliningrad"
   },
   "warsaw": {
     "latitude": 52.233,
     "longitude": 21.0,
-    "wikipedia": "Warsaw",
     "city": "Warsaw"
   },
   "pristina": {
     "latitude": 42.667,
     "longitude": 21.167,
-    "wikipedia": "Pristina",
     "city": "Pristina"
   },
   "skopje": {
     "latitude": 42.0,
     "longitude": 21.433,
-    "wikipedia": "Skopje",
     "city": "Skopje"
   },
   "thessaloniki": {
     "latitude": 40.633,
     "longitude": 22.95,
-    "wikipedia": "Thessaloniki",
     "city": "Thessaloniki"
   },
   "sofia": {
     "latitude": 42.7,
     "longitude": 23.333,
-    "wikipedia": "Sofia",
     "city": "Sofia"
   },
   "athens": {
     "latitude": 37.967,
     "longitude": 23.717,
-    "wikipedia": "Athens",
     "city": "Athens"
   },
   "tampere": {
     "latitude": 61.5,
     "longitude": 23.75,
-    "wikipedia": "Tampere",
     "city": "Tampere"
   },
   "lviv": {
     "latitude": 49.85,
     "longitude": 24.017,
-    "wikipedia": "Lviv",
     "city": "Lviv"
   },
   "riga": {
     "latitude": 56.967,
     "longitude": 24.133,
-    "wikipedia": "Riga",
     "city": "Riga"
   },
   "espoo": {
     "latitude": 60.2,
     "longitude": 24.65,
-    "wikipedia": "Espoo",
     "city": "Espoo"
   },
   "tallinn": {
     "latitude": 59.433,
     "longitude": 24.75,
-    "wikipedia": "Tallinn",
     "city": "Tallinn"
   },
   "helsinki": {
     "latitude": 60.167,
     "longitude": 24.933,
-    "wikipedia": "Helsinki",
     "city": "Helsinki"
   },
   "vilnius": {
     "latitude": 54.683,
     "longitude": 25.283,
-    "wikipedia": "Vilnius",
     "city": "Vilnius"
   },
   "portelizabeth": {
     "latitude": -33.95,
     "longitude": 25.6,
-    "wikipedia": "Port_Elizabeth",
     "city": "Port Elizabeth"
   },
   "livingstone": {
     "latitude": -17.85,
     "longitude": 25.867,
-    "wikipedia": "Livingstone,_Zambia",
     "city": "Livingstone"
   },
   "gaborone": {
     "latitude": -24.65,
     "longitude": 25.9,
-    "wikipedia": "Gaborone",
     "city": "Gaborone"
   },
   "bucharest": {
     "latitude": 44.433,
     "longitude": 26.1,
-    "wikipedia": "Bucharest",
     "city": "Bucharest"
   },
   "bloemfontein": {
     "latitude": -29.1,
     "longitude": 26.217,
-    "wikipedia": "Bloemfontein",
     "city": "Bloemfontein"
   },
   "tartu": {
     "latitude": 58.383,
     "longitude": 26.717,
-    "wikipedia": "Tartu",
     "city": "Tartu"
   },
   "%c4%b0zmir": {
     "latitude": 38.433,
     "longitude": 27.15,
-    "wikipedia": "%C4%B0zmir",
     "city": "%C4%B0zmir"
   },
   "lubumbashi": {
     "latitude": -11.667,
     "longitude": 27.467,
-    "wikipedia": "Lubumbashi",
     "city": "Lubumbashi"
   },
   "maseru": {
     "latitude": -29.3,
     "longitude": 27.467,
-    "wikipedia": "Maseru",
     "city": "Maseru"
   },
   "francistown": {
     "latitude": -21.167,
     "longitude": 27.5,
-    "wikipedia": "Francistown",
     "city": "Francistown"
   },
   "minsk": {
     "latitude": 53.9,
     "longitude": 27.567,
-    "wikipedia": "Minsk",
     "city": "Minsk"
   },
   "johannesburg": {
     "latitude": -26.2,
     "longitude": 28.033,
-    "wikipedia": "Johannesburg",
     "city": "Johannesburg"
   },
   "pretoria": {
     "latitude": -25.733,
     "longitude": 28.183,
-    "wikipedia": "Pretoria",
     "city": "Pretoria"
   },
   "lusaka": {
     "latitude": -15.417,
     "longitude": 28.283,
-    "wikipedia": "Lusaka",
     "city": "Lusaka"
   },
   "ndola": {
     "latitude": -12.967,
     "longitude": 28.633,
-    "wikipedia": "Ndola",
     "city": "Ndola"
   },
   "bulawayo": {
     "latitude": -20.167,
     "longitude": 28.567,
-    "wikipedia": "Bulawayo",
     "city": "Bulawayo"
   },
   "chi%c5%9fin%c4%83u": {
     "latitude": 47.0,
     "longitude": 28.867,
-    "wikipedia": "Chi%C5%9Fin%C4%83u",
     "city": "Chi%C5%9Fin%C4%83u"
   },
   "istanbul": {
     "latitude": 41.0,
     "longitude": 28.967,
-    "wikipedia": "Istanbul",
     "city": "Istanbul"
   },
   "bursa": {
     "latitude": 40.183,
     "longitude": 29.067,
-    "wikipedia": "Bursa",
     "city": "Bursa"
   },
   "bujumbura": {
     "latitude": -3.383,
     "longitude": 29.367,
-    "wikipedia": "Bujumbura",
     "city": "Bujumbura"
   },
   "tiraspol": {
     "latitude": 46.85,
     "longitude": 29.633,
-    "wikipedia": "Tiraspol",
     "city": "Tiraspol"
   },
   "alexandria": {
     "latitude": 31.2,
     "longitude": 29.917,
-    "wikipedia": "Alexandria",
     "city": "Alexandria"
   },
   "kigali": {
     "latitude": -1.933,
     "longitude": 30.05,
-    "wikipedia": "Kigali",
     "city": "Kigali"
   },
   "saintpetersburg": {
     "latitude": 59.933,
     "longitude": 30.333,
-    "wikipedia": "Saint_Petersburg",
     "city": "Saint Petersburg"
   },
   "kiev": {
     "latitude": 50.45,
     "longitude": 30.517,
-    "wikipedia": "Kiev",
     "city": "Kiev"
   },
   "odessa": {
     "latitude": 46.467,
     "longitude": 30.733,
-    "wikipedia": "Odessa",
     "city": "Odessa"
   },
   "harare": {
     "latitude": -17.817,
     "longitude": 31.05,
-    "wikipedia": "Harare",
     "city": "Harare"
   },
   "durban": {
     "latitude": -29.883,
     "longitude": 31.05,
-    "wikipedia": "Durban",
     "city": "Durban"
   },
   "mbabane": {
     "latitude": -26.317,
     "longitude": 31.133,
-    "wikipedia": "Mbabane",
     "city": "Mbabane"
   },
   "lobamba": {
     "latitude": -26.467,
     "longitude": 31.2,
-    "wikipedia": "Lobamba",
     "city": "Lobamba"
   },
   "cairo": {
     "latitude": 30.05,
     "longitude": 31.217,
-    "wikipedia": "Cairo",
     "city": "Cairo"
   },
   "manzini": {
     "latitude": -26.483,
     "longitude": 31.367,
-    "wikipedia": "Manzini,_Swaziland",
     "city": "Manzini"
   },
   "portsaid": {
     "latitude": 31.25,
     "longitude": 32.283,
-    "wikipedia": "Port_Said",
     "city": "Port Said"
   },
   "konya": {
     "latitude": 37.867,
     "longitude": 32.483,
-    "wikipedia": "Konya",
     "city": "Konya"
   },
   "omdurman": {
     "latitude": 15.65,
     "longitude": 32.483,
-    "wikipedia": "Omdurman",
     "city": "Omdurman"
   },
   "khartoum": {
     "latitude": 15.633,
     "longitude": 32.533,
-    "wikipedia": "Khartoum",
     "city": "Khartoum"
   },
   "suez": {
     "latitude": 29.967,
     "longitude": 32.55,
-    "wikipedia": "Suez",
     "city": "Suez"
   },
   "maputo": {
     "latitude": -25.967,
     "longitude": 32.583,
-    "wikipedia": "Maputo",
     "city": "Maputo"
   },
   "luxor": {
     "latitude": 25.683,
     "longitude": 32.65,
-    "wikipedia": "Luxor",
     "city": "Luxor"
   },
   "ankara": {
     "latitude": 39.867,
     "longitude": 32.833,
-    "wikipedia": "Ankara",
     "city": "Ankara"
   },
   "mwanza": {
     "latitude": -2.517,
     "longitude": 32.9,
-    "wikipedia": "Mwanza",
     "city": "Mwanza"
   },
   "murmansk": {
     "latitude": 68.967,
     "longitude": 33.083,
-    "wikipedia": "Murmansk",
     "city": "Murmansk"
   },
   "nicosia": {
     "latitude": 35.167,
     "longitude": 33.35,
-    "wikipedia": "Nicosia",
     "city": "Nicosia"
   },
   "lilongwe": {
     "latitude": -13.983,
     "longitude": 33.783,
-    "wikipedia": "Lilongwe",
     "city": "Lilongwe"
   },
   "simferopol": {
     "latitude": 44.95,
     "longitude": 34.1,
-    "wikipedia": "Simferopol",
     "city": "Simferopol"
   },
   "gaza": {
     "latitude": 31.517,
     "longitude": 34.45,
-    "wikipedia": "Gaza",
     "city": "Gaza"
   },
   "mersin": {
     "latitude": 36.8,
     "longitude": 34.633,
-    "wikipedia": "Mersin",
     "city": "Mersin"
   },
   "telaviv": {
     "latitude": 32.083,
     "longitude": 34.8,
-    "wikipedia": "Tel_Aviv",
     "city": "Tel Aviv"
   },
   "blantyre": {
     "latitude": -15.783,
     "longitude": 35.0,
-    "wikipedia": "Blantyre,_Malawi",
     "city": "Blantyre"
   },
   "jerusalem": {
     "latitude": 31.783,
     "longitude": 35.217,
-    "wikipedia": "Jerusalem",
     "city": "Jerusalem"
   },
   "adana": {
     "latitude": 37.0,
     "longitude": 35.317,
-    "wikipedia": "Adana",
     "city": "Adana"
   },
   "beirut": {
     "latitude": 33.883,
     "longitude": 35.5,
-    "wikipedia": "Beirut",
     "city": "Beirut"
   },
   "dodoma": {
     "latitude": -6.167,
     "longitude": 35.733,
-    "wikipedia": "Dodoma",
     "city": "Dodoma"
   },
   "amman": {
     "latitude": 31.95,
     "longitude": 35.933,
-    "wikipedia": "Amman",
     "city": "Amman"
   },
   "damascus": {
     "latitude": 33.5,
     "longitude": 36.283,
-    "wikipedia": "Damascus",
     "city": "Damascus"
   },
   "kharkiv": {
     "latitude": 49.917,
     "longitude": 36.317,
-    "wikipedia": "Kharkiv",
     "city": "Kharkiv"
   },
   "nairobi": {
     "latitude": -1.283,
     "longitude": 36.817,
-    "wikipedia": "Nairobi",
     "city": "Nairobi"
   },
   "gaziantep": {
     "latitude": 37.067,
     "longitude": 37.383,
-    "wikipedia": "Gaziantep",
     "city": "Gaziantep"
   },
   "moscow": {
     "latitude": 55.75,
     "longitude": 37.6,
-    "wikipedia": "Moscow",
     "city": "Moscow"
   },
   "addisababa": {
     "latitude": 9.017,
     "longitude": 38.733,
-    "wikipedia": "Addis_Ababa",
     "city": "Addis Ababa"
   },
   "asmara": {
     "latitude": 15.333,
     "longitude": 38.933,
-    "wikipedia": "Asmara",
     "city": "Asmara"
   },
   "jeddah": {
     "latitude": 21.533,
     "longitude": 39.167,
-    "wikipedia": "Jeddah",
     "city": "Jeddah"
   },
   "zanzibarcity": {
     "latitude": -6.167,
     "longitude": 39.2,
-    "wikipedia": "Zanzibar_City",
     "city": "Zanzibar City"
   },
   "daressalaam": {
     "latitude": -6.817,
     "longitude": 39.267,
-    "wikipedia": "Dar_es_Salaam",
     "city": "Dar es Salaam"
   },
   "medina": {
     "latitude": 24.467,
     "longitude": 39.6,
-    "wikipedia": "Medina",
     "city": "Medina"
   },
   "mecca": {
     "latitude": 21.417,
     "longitude": 39.817,
-    "wikipedia": "Mecca",
     "city": "Mecca"
   },
   "sukhumi": {
     "latitude": 43.0,
     "longitude": 41.017,
-    "wikipedia": "Sukhumi",
     "city": "Sukhumi"
   },
   "djibouti": {
     "latitude": 11.583,
     "longitude": 43.133,
-    "wikipedia": "Djibouti_(city)",
     "city": "Djibouti (city)"
   },
   "moroni": {
     "latitude": -11.75,
     "longitude": 43.2,
-    "wikipedia": "Moroni,_Comoros",
     "city": "Moroni"
   },
   "tskhinvali": {
     "latitude": 42.233,
     "longitude": 43.967,
-    "wikipedia": "Tskhinvali",
     "city": "Tskhinvali"
   },
   "sana%27a": {
     "latitude": 15.35,
     "longitude": 44.2,
-    "wikipedia": "Sana%27a",
     "city": "Sana%27a"
   },
   "baghdad": {
     "latitude": 33.317,
     "longitude": 44.417,
-    "wikipedia": "Baghdad",
     "city": "Baghdad"
   },
   "nizhnynovgorod": {
     "latitude": 56.333,
     "longitude": 44.0,
-    "wikipedia": "Nizhny_Novgorod",
     "city": "Nizhny Novgorod"
   },
   "hargeisa": {
     "latitude": 9.5,
     "longitude": 44.0,
-    "wikipedia": "Hargeisa",
     "city": "Hargeisa"
   },
   "arbil": {
     "latitude": 36.333,
     "longitude": 44.017,
-    "wikipedia": "Arbil",
     "city": "Arbil"
   },
   "yerevan": {
     "latitude": 40.183,
     "longitude": 44.517,
-    "wikipedia": "Yerevan",
     "city": "Yerevan"
   },
   "tbilisi": {
     "latitude": 41.717,
     "longitude": 44.783,
-    "wikipedia": "Tbilisi",
     "city": "Tbilisi"
   },
   "mamoudzou": {
     "latitude": -12.783,
     "longitude": 45.217,
-    "wikipedia": "Mamoudzou",
     "city": "Mamoudzou"
   },
   "mogadishu": {
     "latitude": 2.033,
     "longitude": 45.35,
-    "wikipedia": "Mogadishu",
     "city": "Mogadishu"
   },
   "tabriz": {
     "latitude": 38.083,
     "longitude": 46.283,
-    "wikipedia": "Tabriz",
     "city": "Tabriz"
   },
   "riyadh": {
     "latitude": 24.7,
     "longitude": 46.717,
-    "wikipedia": "Riyadh",
     "city": "Riyadh"
   },
   "stepanakert": {
     "latitude": 39.817,
     "longitude": 46.75,
-    "wikipedia": "Stepanakert",
     "city": "Stepanakert"
   },
   "antananarivo": {
     "latitude": -18.933,
     "longitude": 47.517,
-    "wikipedia": "Antananarivo",
     "city": "Antananarivo"
   },
   "basra": {
     "latitude": 30.5,
     "longitude": 47.817,
-    "wikipedia": "Basra",
     "city": "Basra"
   },
   "kuwaitcity": {
     "latitude": 29.367,
     "longitude": 47.967,
-    "wikipedia": "Kuwait_City",
     "city": "Kuwait City"
   },
   "baku": {
     "latitude": 40.367,
     "longitude": 49.883,
-    "wikipedia": "Baku",
     "city": "Baku"
   },
   "dammam": {
     "latitude": 26.433,
     "longitude": 50.117,
-    "wikipedia": "Dammam",
     "city": "Dammam"
   },
   "samara": {
     "latitude": 53.233,
     "longitude": 50.167,
-    "wikipedia": "Samara,_Russia",
     "city": "Samara"
   },
   "manama": {
     "latitude": 26.217,
     "longitude": 50.583,
-    "wikipedia": "Manama",
     "city": "Manama"
   },
   "tehran": {
     "latitude": 35.683,
     "longitude": 51.417,
-    "wikipedia": "Tehran",
     "city": "Tehran"
   },
   "doha": {
     "latitude": 25.283,
     "longitude": 51.533,
-    "wikipedia": "Doha",
     "city": "Doha"
   },
   "abudhabi": {
     "latitude": 24.467,
     "longitude": 54.367,
-    "wikipedia": "Abu_Dhabi",
     "city": "Abu Dhabi"
   },
   "dubai": {
     "latitude": 25.267,
     "longitude": 55.3,
-    "wikipedia": "Dubai",
     "city": "Dubai"
   },
   "victoria": {
     "latitude": -4.617,
     "longitude": 55.45,
-    "wikipedia": "Victoria,_Seychelles",
     "city": "Victoria"
   },
   "saintdenis": {
     "latitude": -20.867,
     "longitude": 55.45,
-    "wikipedia": "Saint-Denis,_R%C3%A9union",
     "city": "Saint-Denis"
   },
   "perm": {
     "latitude": 58.0,
     "longitude": 56.317,
-    "wikipedia": "Perm",
     "city": "Perm"
   },
   "portlouis": {
     "latitude": -20.167,
     "longitude": 57.5,
-    "wikipedia": "Port_Louis",
     "city": "Port Louis"
   },
   "ashgabat": {
     "latitude": 37.967,
     "longitude": 58.333,
-    "wikipedia": "Ashgabat",
     "city": "Ashgabat"
   },
   "muscat": {
     "latitude": 23.6,
     "longitude": 58.533,
-    "wikipedia": "Muscat,_Oman",
     "city": "Muscat"
   },
   "nukus": {
     "latitude": 42.467,
     "longitude": 59.6,
-    "wikipedia": "Nukus",
     "city": "Nukus"
   },
   "mashhad": {
     "latitude": 36.3,
     "longitude": 59.6,
-    "wikipedia": "Mashhad",
     "city": "Mashhad"
   },
   "yekaterinburg": {
     "latitude": 56.833,
     "longitude": 60.583,
-    "wikipedia": "Yekaterinburg",
     "city": "Yekaterinburg"
   },
   "kandahar": {
     "latitude": 31.617,
     "longitude": 65.717,
-    "wikipedia": "Kandahar",
     "city": "Kandahar"
   },
   "karachi": {
     "latitude": 24.85,
     "longitude": 67.0,
-    "wikipedia": "Karachi",
     "city": "Karachi"
   },
   "hyderabad": {
     "latitude": 17.367,
     "longitude": 78.467,
-    "wikipedia": "Hyderabad,_Andhra_Pradesh",
     "city": "Hyderabad"
   },
   "dushanbe": {
     "latitude": 38.533,
     "longitude": 68.767,
-    "wikipedia": "Dushanbe",
     "city": "Dushanbe"
   },
   "kabul": {
     "latitude": 34.533,
     "longitude": 69.167,
-    "wikipedia": "Kabul",
     "city": "Kabul"
   },
   "tashkent": {
     "latitude": 41.267,
     "longitude": 69.217,
-    "wikipedia": "Tashkent",
     "city": "Tashkent"
   },
   "astana": {
     "latitude": 51.183,
     "longitude": 71.45,
-    "wikipedia": "Astana",
     "city": "Astana"
   },
   "multan": {
     "latitude": 30.2,
     "longitude": 71.45,
-    "wikipedia": "Multan",
     "city": "Multan"
   },
   "peshawar": {
     "latitude": 34.0,
     "longitude": 71.5,
-    "wikipedia": "Peshawar",
     "city": "Peshawar"
   },
   "namangan": {
     "latitude": 41.633,
     "longitude": 71.967,
-    "wikipedia": "Namangan",
     "city": "Namangan"
   },
   "ahmedabad": {
     "latitude": 23.017,
     "longitude": 72.567,
-    "wikipedia": "Ahmedabad",
     "city": "Ahmedabad"
   },
   "mumbai": {
     "latitude": 18.95,
     "longitude": 72.817,
-    "wikipedia": "Mumbai",
     "city": "Mumbai"
   },
   "surat": {
     "latitude": 21.167,
     "longitude": 72.817,
-    "wikipedia": "Surat,_Gujarat",
     "city": "Surat"
   },
   "faisalabad": {
     "latitude": 31.367,
     "longitude": 72.983,
-    "wikipedia": "Faisalabad",
     "city": "Faisalabad"
   },
   "rawalpindi": {
     "latitude": 33.6,
     "longitude": 73.033,
-    "wikipedia": "Rawalpindi",
     "city": "Rawalpindi"
   },
   "islamabad": {
     "latitude": 33.717,
     "longitude": 73.067,
-    "wikipedia": "Islamabad",
     "city": "Islamabad"
   },
   "omsk": {
     "latitude": 54.983,
     "longitude": 73.367,
-    "wikipedia": "Omsk",
     "city": "Omsk"
   },
   "mal%c3%a9": {
     "latitude": 4.167,
     "longitude": 73.5,
-    "wikipedia": "Mal%C3%A9",
     "city": "Mal%C3%A9"
   },
   "pune": {
     "latitude": 18.517,
     "longitude": 73.85,
-    "wikipedia": "Pune",
     "city": "Pune"
   },
   "lahore": {
     "latitude": 31.55,
     "longitude": 74.333,
-    "wikipedia": "Lahore",
     "city": "Lahore"
   },
   "bishkek": {
     "latitude": 42.867,
     "longitude": 74.6,
-    "wikipedia": "Bishkek",
     "city": "Bishkek"
   },
   "srinagar": {
     "latitude": 34.083,
     "longitude": 74.783,
-    "wikipedia": "Srinagar",
     "city": "Srinagar"
   },
   "amritsar": {
     "latitude": 31.633,
     "longitude": 74.85,
-    "wikipedia": "Amritsar",
     "city": "Amritsar"
   },
   "jaipur": {
     "latitude": 26.917,
     "longitude": 75.817,
-    "wikipedia": "Jaipur",
     "city": "Jaipur"
   },
   "ludhiana": {
     "latitude": 30.9,
     "longitude": 75.85,
-    "wikipedia": "Ludhiana",
     "city": "Ludhiana"
   },
   "almaty": {
     "latitude": 43.267,
     "longitude": 76.883,
-    "wikipedia": "Almaty",
     "city": "Almaty"
   },
   "newdelhi": {
     "latitude": 28.617,
     "longitude": 77.2,
-    "wikipedia": "New_Delhi",
     "city": "New Delhi"
   },
   "bangalore": {
     "latitude": 12.967,
     "longitude": 77.567,
-    "wikipedia": "Bangalore",
     "city": "Bangalore"
   },
   "nagpur": {
     "latitude": 21.067,
     "longitude": 79.017,
-    "wikipedia": "Nagpur",
     "city": "Nagpur"
   },
   "colombo": {
     "latitude": 6.883,
     "longitude": 79.867,
-    "wikipedia": "Colombo",
     "city": "Colombo"
   },
   "srijayawardenapurakotte": {
     "latitude": 6.9,
     "longitude": 79.883,
-    "wikipedia": "Sri_Jayawardenapura-Kotte",
     "city": "Sri Jayawardenapura-Kotte"
   },
   "chennai": {
     "latitude": 13.083,
     "longitude": 80.267,
-    "wikipedia": "Chennai",
     "city": "Chennai"
   },
   "kanpur": {
     "latitude": 26.45,
     "longitude": 80.333,
-    "wikipedia": "Kanpur",
     "city": "Kanpur"
   },
   "kandy": {
     "latitude": 7.283,
     "longitude": 80.633,
-    "wikipedia": "Kandy",
     "city": "Kandy"
   },
   "lucknow": {
     "latitude": 26.85,
     "longitude": 80.917,
-    "wikipedia": "Lucknow",
     "city": "Lucknow"
   },
   "batticaloa": {
     "latitude": 7.717,
     "longitude": 81.7,
-    "wikipedia": "Batticaloa",
     "city": "Batticaloa"
   },
   "novosibirsk": {
     "latitude": 55.017,
     "longitude": 82.933,
-    "wikipedia": "Novosibirsk",
     "city": "Novosibirsk"
   },
   "patna": {
     "latitude": 25.6,
     "longitude": 85.133,
-    "wikipedia": "Patna",
     "city": "Patna"
   },
   "kathmandu": {
     "latitude": 27.7,
     "longitude": 85.333,
-    "wikipedia": "Kathmandu",
     "city": "Kathmandu"
   },
   "%c3%9cr%c3%bcmqi": {
     "latitude": 43.8,
     "longitude": 87.583,
-    "wikipedia": "%C3%9Cr%C3%BCmqi",
     "city": "%C3%9Cr%C3%BCmqi"
   },
   "norilsk": {
     "latitude": 69.35,
     "longitude": 88.2,
-    "wikipedia": "Norilsk",
     "city": "Norilsk"
   },
   "kolkata": {
     "latitude": 22.567,
     "longitude": 88.367,
-    "wikipedia": "Kolkata",
     "city": "Kolkata"
   },
   "gangtok": {
     "latitude": 27.317,
     "longitude": 88.617,
-    "wikipedia": "Gangtok",
     "city": "Gangtok"
   },
   "shigatse": {
     "latitude": 29.267,
     "longitude": 88.867,
-    "wikipedia": "Shigatse",
     "city": "Shigatse"
   },
   "thimphu": {
     "latitude": 27.467,
     "longitude": 89.633,
-    "wikipedia": "Thimphu",
     "city": "Thimphu"
   },
   "dhaka": {
     "latitude": 23.7,
     "longitude": 90.367,
-    "wikipedia": "Dhaka",
     "city": "Dhaka"
   },
   "lhasa": {
     "latitude": 29.65,
     "longitude": 91.117,
-    "wikipedia": "Lhasa",
     "city": "Lhasa"
   },
   "agartala": {
     "latitude": 23.5,
     "longitude": 91.2,
-    "wikipedia": "Agartala",
     "city": "Agartala"
   },
   "guwahati": {
     "latitude": 26.167,
     "longitude": 91.767,
-    "wikipedia": "Guwahati",
     "city": "Guwahati"
   },
   "chittagong": {
     "latitude": 22.367,
     "longitude": 91.8,
-    "wikipedia": "Chittagong",
     "city": "Chittagong"
   },
   "shillong": {
     "latitude": 25.567,
     "longitude": 91.883,
-    "wikipedia": "Shillong",
     "city": "Shillong"
   },
   "portblair": {
     "latitude": 11.667,
     "longitude": 92.75,
-    "wikipedia": "Port_Blair",
     "city": "Port Blair"
   },
   "dibrugarh": {
     "latitude": 27.467,
     "longitude": 94.9,
-    "wikipedia": "Dibrugarh",
     "city": "Dibrugarh"
   },
   "bandaaceh": {
     "latitude": 5.55,
     "longitude": 95.317,
-    "wikipedia": "Banda_Aceh",
     "city": "Banda Aceh"
   },
   "naypyidaw": {
     "latitude": 19.75,
     "longitude": 96.1,
-    "wikipedia": "Naypyidaw",
     "city": "Naypyidaw"
   },
   "yangon": {
     "latitude": 16.8,
     "longitude": 96.167,
-    "wikipedia": "Yangon",
     "city": "Yangon"
   },
   "medan": {
     "latitude": 3.583,
     "longitude": 98.667,
-    "wikipedia": "Medan",
     "city": "Medan"
   },
   "phuket": {
     "latitude": 7.883,
     "longitude": 98.4,
-    "wikipedia": "Phuket_(city)",
     "city": "Phuket (city)"
   },
   "chiangmai": {
     "latitude": 18.783,
     "longitude": 98.983,
-    "wikipedia": "Chiang_Mai",
     "city": "Chiang Mai"
   },
   "suratthani": {
     "latitude": 9.133,
     "longitude": 99.333,
-    "wikipedia": "Surat_Thani",
     "city": "Surat Thani"
   },
   "padang": {
     "latitude": -0.95,
     "longitude": 100.35,
-    "wikipedia": "Padang,_Indonesia",
     "city": "Padang"
   },
   "alorstar": {
     "latitude": 6.117,
     "longitude": 100.367,
-    "wikipedia": "Alor_Star",
     "city": "Alor Star"
   },
   "hatyai": {
     "latitude": 7.017,
     "longitude": 100.467,
-    "wikipedia": "Hat_Yai",
     "city": "Hat Yai"
   },
   "bangkok": {
     "latitude": 13.75,
     "longitude": 100.483,
-    "wikipedia": "Bangkok",
     "city": "Bangkok"
   },
   "pattaya": {
     "latitude": 12.917,
     "longitude": 100.867,
-    "wikipedia": "Pattaya",
     "city": "Pattaya"
   },
   "ipoh": {
     "latitude": 4.6,
     "longitude": 101.067,
-    "wikipedia": "Ipoh",
     "city": "Ipoh"
   },
   "pekanbaru": {
     "latitude": 0.533,
     "longitude": 101.45,
-    "wikipedia": "Pekanbaru",
     "city": "Pekanbaru"
   },
   "bratsk": {
     "latitude": 56.167,
     "longitude": 101.617,
-    "wikipedia": "Bratsk",
     "city": "Bratsk"
   },
   "kualalumpur": {
     "latitude": 3.133,
     "longitude": 101.683,
-    "wikipedia": "Kuala_Lumpur",
     "city": "Kuala Lumpur"
   },
   "xining": {
     "latitude": 36.633,
     "longitude": 101.767,
-    "wikipedia": "Xining",
     "city": "Xining"
   },
   "nakhonratchasima": {
     "latitude": 14.967,
     "longitude": 102.1,
-    "wikipedia": "Nakhon_Ratchasima",
     "city": "Nakhon Ratchasima"
   },
   "kotabharu": {
     "latitude": 6.133,
     "longitude": 102.25,
-    "wikipedia": "Kota_Bharu",
     "city": "Kota Bharu"
   },
   "malaccatown": {
     "latitude": 2.183,
     "longitude": 102.383,
-    "wikipedia": "Malacca_Town",
     "city": "Malacca Town"
   },
   "vientiane": {
     "latitude": 17.95,
     "longitude": 102.617,
-    "wikipedia": "Vientiane",
     "city": "Vientiane"
   },
   "kunming": {
     "latitude": 25.067,
     "longitude": 102.683,
-    "wikipedia": "Kunming",
     "city": "Kunming"
   },
   "udonthani": {
     "latitude": 17.417,
     "longitude": 102.75,
-    "wikipedia": "Udon_Thani",
     "city": "Udon Thani"
   },
   "johorbahru": {
     "latitude": 1.483,
     "longitude": 103.733,
-    "wikipedia": "Johor_Bahru",
     "city": "Johor Bahru"
   },
   "lanzhou": {
     "latitude": 36.033,
     "longitude": 103.8,
-    "wikipedia": "Lanzhou",
     "city": "Lanzhou"
   },
   "singapore": {
     "latitude": 1.367,
     "longitude": 103.8,
-    "wikipedia": "Singapore",
     "city": "Singapore"
   },
   "siemreap": {
     "latitude": 13.35,
     "longitude": 103.85,
-    "wikipedia": "Siem_Reap",
     "city": "Siem Reap"
   },
   "chengdu": {
     "latitude": 30.65,
     "longitude": 104.067,
-    "wikipedia": "Chengdu",
     "city": "Chengdu"
   },
   "palembang": {
     "latitude": -2.983,
     "longitude": 104.75,
-    "wikipedia": "Palembang",
     "city": "Palembang"
   },
   "phnompenh": {
     "latitude": 11.55,
     "longitude": 104.917,
-    "wikipedia": "Phnom_Penh",
     "city": "Phnom Penh"
   },
   "hanoi": {
     "latitude": 21.033,
     "longitude": 105.85,
-    "wikipedia": "Hanoi",
     "city": "Hanoi"
   },
   "chongqing": {
     "latitude": 29.55,
     "longitude": 106.5,
-    "wikipedia": "Chongqing",
     "city": "Chongqing"
   },
   "haiphong": {
     "latitude": 20.85,
     "longitude": 106.683,
-    "wikipedia": "Hai_Phong",
     "city": "Hai Phong"
   },
   "hochiminhcity": {
     "latitude": 10.767,
     "longitude": 106.683,
-    "wikipedia": "Ho_Chi_Minh_City",
     "city": "Ho Chi Minh City"
   },
   "jakarta": {
     "latitude": -6.133,
     "longitude": 106.75,
-    "wikipedia": "Jakarta",
     "city": "Jakarta"
   },
   "bogor": {
     "latitude": -6.6,
     "longitude": 106.8,
-    "wikipedia": "Bogor",
     "city": "Bogor"
   },
   "ulanbator": {
     "latitude": 47.917,
     "longitude": 106.917,
-    "wikipedia": "Ulan_Bator",
     "city": "Ulan Bator"
   },
   "bandung": {
     "latitude": -6.95,
     "longitude": 107.567,
-    "wikipedia": "Bandung",
     "city": "Bandung"
   },
   "hu%e1%ba%bf": {
     "latitude": 16.467,
     "longitude": 107.6,
-    "wikipedia": "Hu%E1%BA%BF",
     "city": "Hu%E1%BA%BF"
   },
   "danang": {
     "latitude": 16.067,
     "longitude": 108.233,
-    "wikipedia": "Da_Nang",
     "city": "Da Nang"
   },
   "nanning": {
     "latitude": 22.817,
     "longitude": 108.317,
-    "wikipedia": "Nanning",
     "city": "Nanning"
   },
   "xi%27an": {
     "latitude": 34.267,
     "longitude": 108.9,
-    "wikipedia": "Xi%27an",
     "city": "Xi%27an"
   },
   "pontianak": {
     "latitude": 0.0,
     "longitude": 109.333,
-    "wikipedia": "Pontianak,_Indonesia",
     "city": "Pontianak"
   },
   "kuching": {
     "latitude": 1.55,
     "longitude": 110.35,
-    "wikipedia": "Kuching",
     "city": "Kuching"
   },
   "yogyakarta": {
     "latitude": -7.8,
     "longitude": 110.367,
-    "wikipedia": "Yogyakarta_(city)",
     "city": "Yogyakarta (city)"
   },
   "semarang": {
     "latitude": -6.967,
     "longitude": 110.417,
-    "wikipedia": "Semarang",
     "city": "Semarang"
   },
   "taiyuan": {
     "latitude": 37.867,
     "longitude": 112.55,
-    "wikipedia": "Taiyuan",
     "city": "Taiyuan"
   },
   "malang": {
     "latitude": -7.967,
     "longitude": 112.617,
-    "wikipedia": "Malang",
     "city": "Malang"
   },
   "surabaya": {
     "latitude": -7.233,
     "longitude": 112.733,
-    "wikipedia": "Surabaya",
     "city": "Surabaya"
   },
   "guangzhou": {
     "latitude": 23.1,
     "longitude": 113.267,
-    "wikipedia": "Guangzhou",
     "city": "Guangzhou"
   },
   "macau": {
     "latitude": 22.167,
     "longitude": 113.55,
-    "wikipedia": "Macau",
     "city": "Macau"
   },
   "zhengzhou": {
     "latitude": 34.75,
     "longitude": 113.633,
-    "wikipedia": "Zhengzhou",
     "city": "Zhengzhou"
   },
   "dongguan": {
     "latitude": 23.033,
     "longitude": 113.717,
-    "wikipedia": "Dongguan",
     "city": "Dongguan"
   },
   "miri": {
     "latitude": 4.383,
     "longitude": 113.967,
-    "wikipedia": "Miri",
     "city": "Miri"
   },
   "shenzhen": {
     "latitude": 22.55,
     "longitude": 114.1,
-    "wikipedia": "Shenzhen",
     "city": "Shenzhen"
   },
   "hongkong": {
     "latitude": 22.3,
     "longitude": 114.2,
-    "wikipedia": "Hong Kong",
     "city": "Hong Kong"
   },
   "wuhan": {
     "latitude": 30.567,
     "longitude": 114.267,
-    "wikipedia": "Wuhan",
     "city": "Wuhan"
   },
   "handan": {
     "latitude": 36.6,
     "longitude": 114.483,
-    "wikipedia": "Handan",
     "city": "Handan"
   },
   "shijiazhuang": {
     "latitude": 38.033,
     "longitude": 114.5,
-    "wikipedia": "Shijiazhuang",
     "city": "Shijiazhuang"
   },
   "bandarseribegawan": {
     "latitude": 4.883,
     "longitude": 114.933,
-    "wikipedia": "Bandar_Seri_Begawan",
     "city": "Bandar Seri Begawan"
   },
   "denpasar": {
     "latitude": -8.65,
     "longitude": 115.217,
-    "wikipedia": "Denpasar",
     "city": "Denpasar"
   },
   "mandurah": {
     "latitude": -32.517,
     "longitude": 115.717,
-    "wikipedia": "Mandurah",
     "city": "Mandurah"
   },
   "perth": {
     "latitude": -31.95,
     "longitude": 115.85,
-    "wikipedia": "Perth,_Western_Australia",
     "city": "Perth"
   },
   "kotakinabalu": {
     "latitude": 5.967,
     "longitude": 116.083,
-    "wikipedia": "Kota_Kinabalu",
     "city": "Kota Kinabalu"
   },
   "beijing": {
     "latitude": 39.9,
     "longitude": 116.4,
-    "wikipedia": "Beijing",
     "city": "Beijing"
   },
   "balikpapan": {
     "latitude": -1.25,
     "longitude": 116.817,
-    "wikipedia": "Balikpapan",
     "city": "Balikpapan"
   },
   "jinan": {
     "latitude": 36.667,
     "longitude": 116.983,
-    "wikipedia": "Jinan",
     "city": "Jinan"
   },
   "tianjin": {
     "latitude": 39.133,
     "longitude": 117.183,
-    "wikipedia": "Tianjin",
     "city": "Tianjin"
   },
   "porthedland": {
     "latitude": -20.3,
     "longitude": 118.6,
-    "wikipedia": "Port_Hedland,_Western_Australia",
     "city": "Port Hedland"
   },
   "nanjing": {
     "latitude": 32.05,
     "longitude": 118.767,
-    "wikipedia": "Nanjing",
     "city": "Nanjing"
   },
   "makassar": {
     "latitude": -5.133,
     "longitude": 119.417,
-    "wikipedia": "Makassar",
     "city": "Makassar"
   },
   "hangzhou": {
     "latitude": 30.25,
     "longitude": 120.167,
-    "wikipedia": "Hangzhou",
     "city": "Hangzhou"
   },
   "kaohsiung": {
     "latitude": 22.633,
     "longitude": 120.267,
-    "wikipedia": "Kaohsiung",
     "city": "Kaohsiung"
   },
   "qingdao": {
     "latitude": 36.083,
     "longitude": 120.333,
-    "wikipedia": "Qingdao",
     "city": "Qingdao"
   },
   "taichung": {
     "latitude": 24.15,
     "longitude": 120.667,
-    "wikipedia": "Taichung",
     "city": "Taichung"
   },
   "manila": {
     "latitude": 14.583,
     "longitude": 120.967,
-    "wikipedia": "Manila",
     "city": "Manila"
   },
   "quezoncity": {
     "latitude": 14.633,
     "longitude": 121.033,
-    "wikipedia": "Quezon_City",
     "city": "Quezon City"
   },
   "makaticity": {
     "latitude": 14.55,
     "longitude": 121.033,
-    "wikipedia": "Makati_City",
     "city": "Makati City"
   },
   "shanghai": {
     "latitude": 31.2,
     "longitude": 121.5,
-    "wikipedia": "Shanghai",
     "city": "Shanghai"
   },
   "taipei": {
     "latitude": 25.033,
     "longitude": 121.633,
-    "wikipedia": "Taipei",
     "city": "Taipei"
   },
   "dalian": {
     "latitude": 39.033,
     "longitude": 121.767,
-    "wikipedia": "Dalian",
     "city": "Dalian"
   },
   "iloilocity": {
     "latitude": 10.683,
     "longitude": 122.55,
-    "wikipedia": "Iloilo_City",
     "city": "Iloilo City"
   },
   "zamboangacity": {
     "latitude": 6.9,
     "longitude": 122.067,
-    "wikipedia": "Zamboanga_City",
     "city": "Zamboanga City"
   },
   "shenyang": {
     "latitude": 41.783,
     "longitude": 123.45,
-    "wikipedia": "Shenyang",
     "city": "Shenyang"
   },
   "tagbilaran": {
     "latitude": 9.65,
     "longitude": 123.85,
-    "wikipedia": "Tagbilaran",
     "city": "Tagbilaran"
   },
   "cebucity": {
     "latitude": 10.283,
     "longitude": 123.9,
-    "wikipedia": "Cebu_City",
     "city": "Cebu City"
   },
   "changchun": {
     "latitude": 43.883,
     "longitude": 125.317,
-    "wikipedia": "Changchun",
     "city": "Changchun"
   },
   "dili": {
     "latitude": -8.55,
     "longitude": 125.583,
-    "wikipedia": "Dili",
     "city": "Dili"
   },
   "pyongyang": {
     "latitude": 39.033,
     "longitude": 125.75,
-    "wikipedia": "Pyongyang",
     "city": "Pyongyang"
   },
   "davaocity": {
     "latitude": 7.5,
     "longitude": 126.0,
-    "wikipedia": "Davao_City",
     "city": "Davao City"
   },
   "kaesong": {
     "latitude": 37.967,
     "longitude": 126.55,
-    "wikipedia": "Kaesong",
     "city": "Kaesong"
   },
   "harbin": {
     "latitude": 45.75,
     "longitude": 126.633,
-    "wikipedia": "Harbin",
     "city": "Harbin"
   },
   "incheon": {
     "latitude": 37.483,
     "longitude": 126.633,
-    "wikipedia": "Incheon",
     "city": "Incheon"
   },
   "seoul": {
     "latitude": 37.55,
     "longitude": 126.983,
-    "wikipedia": "Seoul",
     "city": "Seoul"
   },
   "wonsan": {
     "latitude": 39.15,
     "longitude": 127.433,
-    "wikipedia": "Wonsan",
     "city": "Wonsan"
   },
   "okinawa": {
     "latitude": 26.333,
     "longitude": 127.8,
-    "wikipedia": "Okinawa,_Okinawa",
     "city": "Okinawa"
   },
   "ambon": {
     "latitude": -3.7,
     "longitude": 128.167,
-    "wikipedia": "Ambon,_Maluku",
     "city": "Ambon"
   },
   "daegu": {
     "latitude": 35.867,
     "longitude": 128.6,
-    "wikipedia": "Daegu",
     "city": "Daegu"
   },
   "busan": {
     "latitude": 35.1,
     "longitude": 129.033,
-    "wikipedia": "Busan",
     "city": "Busan"
   },
   "yakutsk": {
     "latitude": 62.033,
     "longitude": 129.733,
-    "wikipedia": "Yakutsk",
     "city": "Yakutsk"
   },
   "chongjin": {
     "latitude": 41.8,
     "longitude": 129.783,
-    "wikipedia": "Chongjin",
     "city": "Chongjin"
   },
   "fukuoka": {
     "latitude": 33.583,
     "longitude": 130.4,
-    "wikipedia": "Fukuoka",
     "city": "Fukuoka"
   },
   "darwin": {
     "latitude": -12.45,
     "longitude": 130.833,
-    "wikipedia": "Darwin,_Northern_Territory",
     "city": "Darwin"
   },
   "vladivostok": {
     "latitude": 43.133,
     "longitude": 131.9,
-    "wikipedia": "Vladivostok",
     "city": "Vladivostok"
   },
   "hiroshima": {
     "latitude": 34.383,
     "longitude": 132.45,
-    "wikipedia": "Hiroshima",
     "city": "Hiroshima"
   },
   "koror": {
     "latitude": 7.35,
     "longitude": 134.467,
-    "wikipedia": "Koror",
     "city": "Koror"
   },
   "melekeok": {
     "latitude": 7.5,
     "longitude": 134.617,
-    "wikipedia": "Melekeok",
     "city": "Melekeok"
   },
   "kobe": {
     "latitude": 34.683,
     "longitude": 135.2,
-    "wikipedia": "Kobe",
     "city": "Kobe"
   },
   "osaka": {
     "latitude": 34.683,
     "longitude": 135.5,
-    "wikipedia": "Osaka",
     "city": "Osaka"
   },
   "kyoto": {
     "latitude": 35.017,
     "longitude": 135.767,
-    "wikipedia": "Kyoto",
     "city": "Kyoto"
   },
   "nagoya": {
     "latitude": 35.183,
     "longitude": 136.9,
-    "wikipedia": "Nagoya",
     "city": "Nagoya"
   },
   "adelaide": {
     "latitude": -34.917,
     "longitude": 138.6,
-    "wikipedia": "Adelaide",
     "city": "Adelaide"
   },
   "yokohama": {
     "latitude": 35.45,
     "longitude": 139.633,
-    "wikipedia": "Yokohama",
     "city": "Yokohama"
   },
   "kawasaki": {
     "latitude": 35.517,
     "longitude": 139.7,
-    "wikipedia": "Kawasaki,_Kanagawa",
     "city": "Kawasaki"
   },
   "tokyo": {
     "latitude": 35.683,
     "longitude": 139.767,
-    "wikipedia": "Tokyo",
     "city": "Tokyo"
   },
   "jayapura": {
     "latitude": -2.533,
     "longitude": 140.717,
-    "wikipedia": "Jayapura",
     "city": "Jayapura"
   },
   "sapporo": {
     "latitude": 43.067,
     "longitude": 141.35,
-    "wikipedia": "Sapporo",
     "city": "Sapporo"
   },
   "geelong": {
     "latitude": -38.15,
     "longitude": 144.35,
-    "wikipedia": "Geelong",
     "city": "Geelong"
   },
   "hag%c3%a5t%c3%b1a": {
     "latitude": 13.483,
     "longitude": 144.75,
-    "wikipedia": "Hag%C3%A5t%C3%B1a,_Guam",
     "city": "Hag%C3%A5t%C3%B1a"
   },
   "dededo": {
     "latitude": 13.517,
     "longitude": 144.833,
-    "wikipedia": "Dededo,_Guam",
     "city": "Dededo"
   },
   "melbourne": {
     "latitude": -37.8,
     "longitude": 144.95,
-    "wikipedia": "Melbourne",
     "city": "Melbourne"
   },
   "saipan": {
     "latitude": 15.183,
     "longitude": 145.75,
-    "wikipedia": "Saipan",
     "city": "Saipan"
   },
   "cairns": {
     "latitude": -16.917,
     "longitude": 145.767,
-    "wikipedia": "Cairns",
     "city": "Cairns"
   },
   "townsville": {
     "latitude": -19.25,
     "longitude": 146.817,
-    "wikipedia": "Townsville",
     "city": "Townsville"
   },
   "portmoresby": {
     "latitude": -9.467,
     "longitude": 147.167,
-    "wikipedia": "Port_Moresby",
     "city": "Port Moresby"
   },
   "hobart": {
     "latitude": -42.883,
     "longitude": 147.317,
-    "wikipedia": "Hobart",
     "city": "Hobart"
   },
   "canberra": {
     "latitude": -35.3,
     "longitude": 149.117,
-    "wikipedia": "Canberra",
     "city": "Canberra"
   },
   "rockhampton": {
     "latitude": -23.367,
     "longitude": 150.5,
-    "wikipedia": "Rockhampton",
     "city": "Rockhampton"
   },
   "magadan": {
     "latitude": 59.567,
     "longitude": 150.8,
-    "wikipedia": "Magadan",
     "city": "Magadan"
   },
   "wollongong": {
     "latitude": -34.433,
     "longitude": 150.883,
-    "wikipedia": "Wollongong",
     "city": "Wollongong"
   },
   "sydney": {
     "latitude": -33.85,
     "longitude": 151.2,
-    "wikipedia": "Sydney",
     "city": "Sydney"
   },
   "newcastle": {
     "latitude": -32.917,
     "longitude": 151.75,
-    "wikipedia": "Newcastle,_New_South_Wales",
     "city": "Newcastle"
   },
   "weno": {
     "latitude": 7.45,
     "longitude": 151.85,
-    "wikipedia": "Weno",
     "city": "Weno"
   },
   "brisbane": {
     "latitude": -27.467,
     "longitude": 153.017,
-    "wikipedia": "Brisbane",
     "city": "Brisbane"
   },
   "goldcoast": {
     "latitude": -28.167,
     "longitude": 153.55,
-    "wikipedia": "Gold_Coast,_Queensland",
     "city": "Gold Coast"
   },
   "palikir": {
     "latitude": 6.917,
     "longitude": 158.183,
-    "wikipedia": "Palikir",
     "city": "Palikir"
   },
   "petropavlovskkamchatsky": {
     "latitude": 53.017,
     "longitude": 158.65,
-    "wikipedia": "Petropavlovsk-Kamchatsky",
     "city": "Petropavlovsk-Kamchatsky"
   },
   "honiara": {
     "latitude": -9.433,
     "longitude": 159.95,
-    "wikipedia": "Honiara",
     "city": "Honiara"
   },
   "noum%c3%a9a": {
     "latitude": -22.267,
     "longitude": 166.45,
-    "wikipedia": "Noum%C3%A9a",
     "city": "Noum%C3%A9a"
   },
   "yarendistrict": {
     "latitude": -0.55,
     "longitude": 166.917,
-    "wikipedia": "Yaren_District",
     "city": "Yaren District"
   },
   "portvila": {
     "latitude": -17.75,
     "longitude": 168.3,
-    "wikipedia": "Port_Vila",
     "city": "Port Vila"
   },
   "invercargill": {
     "latitude": -46.417,
     "longitude": 168.3,
-    "wikipedia": "Invercargill",
     "city": "Invercargill"
   },
   "dunedin": {
     "latitude": -45.867,
     "longitude": 170.5,
-    "wikipedia": "Dunedin",
     "city": "Dunedin"
   },
   "majuro": {
     "latitude": 7.067,
     "longitude": 171.267,
-    "wikipedia": "Majuro",
     "city": "Majuro"
   },
   "christchurch": {
     "latitude": -43.533,
     "longitude": 172.617,
-    "wikipedia": "Christchurch",
     "city": "Christchurch"
   },
   "southtarawa": {
     "latitude": 1.317,
     "longitude": 172.983,
-    "wikipedia": "South_Tarawa",
     "city": "South Tarawa"
   },
   "wellington": {
     "latitude": -41.283,
     "longitude": 174.767,
-    "wikipedia": "Wellington",
     "city": "Wellington"
   },
   "auckland": {
     "latitude": -36.85,
     "longitude": 174.783,
-    "wikipedia": "Auckland",
     "city": "Auckland"
   },
   "matautu": {
     "latitude": -13.283,
     "longitude": 176.183,
-    "wikipedia": "Mata-Utu",
     "city": "Mata-Utu"
   },
   "anadyr": {
     "latitude": 64.733,
     "longitude": 177.5,
-    "wikipedia": "Anadyr_(town)",
     "city": "Anadyr (town)"
   },
   "suva": {
     "latitude": -18.133,
     "longitude": 178.433,
-    "wikipedia": "Suva",
     "city": "Suva"
   },
   "funafuti": {
     "latitude": -8.517,
     "longitude": 179.217,
-    "wikipedia": "Funafuti",
     "city": "Funafuti"
   },
   "labasa": {
     "latitude": -16.433,
     "longitude": 179.367,
-    "wikipedia": "Labasa",
     "city": "Labasa"
   },
   "nukulaelae": {
     "latitude": -9.383,
     "longitude": 179.85,
-    "wikipedia": "Nukulaelae",
     "city": "Nukulaelae"
+  },
+  "nandi": {
+    "city": "Nandi",
+    "lat": -17.79959959,
+    "lng": 177.4166019,
+    "country": "Fiji"
   }
 }
