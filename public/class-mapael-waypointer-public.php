@@ -133,6 +133,8 @@ class Mapael_Waypointer_Public {
 		wp_enqueue_script( 'mapael-world_countries', 'https://cdnjs.cloudflare.com/ajax/libs/jquery-mapael/2.1.0/js/maps/world_countries.min.js', array( 'mapael' ), '2.1.0', false );
 		wp_enqueue_script( 'mapael-world_countries_mercator', 'https://cdnjs.cloudflare.com/ajax/libs/jquery-mapael/2.1.0/js/maps/world_countries_mercator.min.js', array( 'mapael' ), '2.1.0', false );
 		wp_enqueue_script( 'mapael-world_countries_miller', 'https://cdnjs.cloudflare.com/ajax/libs/jquery-mapael/2.1.0/js/maps/world_countries_miller.min.js', array( 'mapael' ), '2.1.0', false );
+		wp_enqueue_script( 'mapael-world_countries_miller', 'https://cdnjs.cloudflare.com/ajax/libs/jquery-mapael/2.1.0/js/maps/world_countries_miller.min.js', array( 'mapael' ), '2.1.0', false );
+		wp_enqueue_script( 'sri-lanka-map', plugin_dir_url( __FILE__ ) . 'js/sri_lanka.js', array( 'mapael' ), $this->version, false );
 		wp_enqueue_script( $this->plugin_name, plugin_dir_url( __FILE__ ) . 'js/mapael-waypointer-public.js', array( 'jquery', 'mapael', 'waypoints' ), $this->version, false );
 	}
 	
