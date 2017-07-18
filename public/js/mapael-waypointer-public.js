@@ -43,7 +43,8 @@ var mapaelWaypointer = (function ($) {
 		var maps = {
 			'world': 'world_countries',
 			'worldmercator': 'world_countries_mercator',
-			'worldmiller': 'world_countries_miller'
+			'worldmiller': 'world_countries_miller',
+			'srilanka': 'sri_lanka'
 		};
 
 		// Move the map a few layouts outwards.
@@ -52,10 +53,13 @@ var mapaelWaypointer = (function ($) {
 		// Load city plots
 		$.getJSON('/wp-content/plugins/mapael-waypointer/public/js/mw-cities.json').complete(function (data) {
 			vm.cities = data.responseJSON;
-			console.log(data);
-
 			var selectedCities = vm.args.cities.map(function (selectedCity) {
-				return vm.cities[selectedCity.trim()];
+				selectedCity = selectedCity.trim();
+
+				// Add key attribute and return
+				var city = vm.cities[selectedCity];
+				city.key = selectedCity;
+				return city;
 			}).reduce(function (accumulator, current) {
 				if (current) {
 					// Add tooltip
@@ -66,7 +70,7 @@ var mapaelWaypointer = (function ($) {
 					current.longitude = current.longitude ? current.longitude : current.lng;
 
 					// Remap to attribute and return
-					accumulator[current.city.toLowerCase()] = current;
+					accumulator[current.key.toLowerCase()] = current;
 				}
 				return accumulator;
 			}, {});
@@ -150,7 +154,7 @@ var mapaelWaypointer = (function ($) {
 
 		if (vm.args.zoom) {
 			$('.mw__map-container').trigger('zoom', {
-				level: '3',
+				level: '4',
 				latitude: newPlots[cityName].latitude,
 				longitude: newPlots[cityName].longitude,
 				animDuration: vm.zoomSpeed
@@ -169,7 +173,7 @@ var mapaelWaypointer = (function ($) {
 	}
 
 	function addLink(to, from) {
-		//console.log(['Adding a new link: ', to, ' ', from].join(''));
+		//console.log(['Adding a new link: ', from, ' ', to].join(''));
 
 		var newLinks = {};
 		newLinks[[from, to].join('')] = {
