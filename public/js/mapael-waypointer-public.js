@@ -53,7 +53,7 @@ var mapaelWaypointer = (function ($) {
 		// Load city plots
 		$.getJSON('/wp-content/plugins/mapael-waypointer/public/js/mw-cities.json').complete(function (data) {
 			vm.cities = data.responseJSON;
-			var selectedCities = vm.args.cities.map(function (selectedCity) {
+			var selectedCities = vm.args.cities.map ? vm.args.cities.map(function (selectedCity) {
 				selectedCity = selectedCity.trim();
 
 				// Add key attribute and return
@@ -73,7 +73,7 @@ var mapaelWaypointer = (function ($) {
 					accumulator[current.key.toLowerCase()] = current;
 				}
 				return accumulator;
-			}, {});
+			}, {}) : {};
 
 			// Initialise map
 			$(".mw__map-container").mapael({
@@ -81,11 +81,15 @@ var mapaelWaypointer = (function ($) {
 					name: maps[vm.args.map],
 					cssClass: 'mw__map-container__svg',
 					defaultPlot: {
-						size: 7
+						size: 4
 					}
 				},
 				plots: selectedCities,
-				links: {}
+				links: {},
+				zoom: {
+					animEasing: 'ease-in',
+					animDuration: vm.zoomSpeed
+				}
 			});
 
 		});
@@ -133,8 +137,7 @@ var mapaelWaypointer = (function ($) {
 
 		if (vm.waypointIndex === -1 && vm.args.zoom) {
 			$('.mw__map-container').trigger('zoom', {
-				level: '0',
-				animDuration: vm.zoomSpeed
+				level: '0'
 			});
 		}
 	}
@@ -154,10 +157,9 @@ var mapaelWaypointer = (function ($) {
 
 		if (vm.args.zoom) {
 			$('.mw__map-container').trigger('zoom', {
-				level: '4',
+				level: '5',
 				latitude: newPlots[cityName].latitude,
-				longitude: newPlots[cityName].longitude,
-				animDuration: vm.zoomSpeed
+				longitude: newPlots[cityName].longitude
 			});
 		}
 	}
@@ -188,10 +190,9 @@ var mapaelWaypointer = (function ($) {
 
 		if (vm.args.zoom) {
 			$('.mw__map-container').trigger('zoom', {
-				level: '1',
+				level: '2',
 				latitude: vm.cities[to].latitude,
-				longitude: vm.cities[to].longitude,
-				animDuration: vm.zoomSpeed
+				longitude: vm.cities[to].longitude
 			});
 		}
 	}
@@ -206,10 +207,9 @@ var mapaelWaypointer = (function ($) {
 
 		if (vm.args.zoom) {
 			$('.mw__map-container').trigger('zoom', {
-				level: '1',
+				level: '2',
 				latitude: vm.cities[from].latitude,
-				longitude: vm.cities[from].longitude,
-				animDuration: vm.zoomSpeed
+				longitude: vm.cities[from].longitude
 			});
 		}
 	}
