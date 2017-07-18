@@ -540,7 +540,7 @@
     "city": "Bogot%C3%A1"
   },
   "newyorkcity": {
-    "lat": 40.717,
+    "lat": 40.72,
     "lng": -74.0,
     "city": "New York City"
   },
@@ -1632,7 +1632,7 @@
   "split": {
     "lat": 43.5,
     "lng": 16.433,
-    "city": "Split (city)"
+    "city": "Split"
   },
   "bratislava": {
     "lat": 48.133,
@@ -3306,62 +3306,62 @@
   },
   "nandi": {
     "city": "Nandi",
-    "lat": -17.79959959,
-    "lng": 177.4166019,
+    "lat": -17.80,
+    "lng": 177.42,
     "country": "Fiji"
   },
   "kagoshima": {
     "city": "Kagoshima",
-    "lat": 31.58596478,
-    "lng": 130.561064,
+    "lat": 31.59,
+    "lng": 130.56,
     "country": "Japan"
   },
   "mito": {
     "city": "Mito",
-    "lat": 36.37042727,
-    "lng": 140.4800451,
+    "lat": 36.37,
+    "lng": 140.481,
     "country": "Japan"
   },
   "sendai": {
     "city": "Sendai",
-    "lat": 38.28710614,
-    "lng": 141.0217175,
+    "lat": 38.29,
+    "lng": 141.02,
     "country": "Japan"
   },
   "akita": {
     "city": "Akita",
-    "lat": 39.70999086,
-    "lng": 140.0899914,
+    "lat": 39.71,
+    "lng": 140.09,
     "country": "Japan"
   },
   "wroclaw": {
     "city": "Wroclaw",
-    "lat": 51.11043194,
-    "lng": 17.03000932,
+    "lat": 51.11,
+    "lng": 17.03,
     "country": "Poland"
   },
   "katowice": {
     "city": "Katowice",
-    "lat": 50.26038047,
-    "lng": 19.02001705,
+    "lat": 50.26,
+    "lng": 19.02,
     "country": "Poland"
   },
   "pula": {
     "city": "Pula",
-    "lat": 44.86871991,
-    "lng": 13.84808467,
+    "lat": 44.87,
+    "lng": 13.85,
     "country": "Croatia"
   },
   "zadar": {
     "city": "Zadar",
-    "lat": 44.12013511,
-    "lng": 15.26226192,
+    "lat": 44.12,
+    "lng": 15.26,
     "country": "Croatia"
   },
   "dubrovnik": {
     "city": "Dubrovnik",
-    "lat": 42.66094769,
-    "lng": 18.09139156,
+    "lat": 42.66,
+    "lng": 18.09,
     "country": "Croatia"
   }
 }
