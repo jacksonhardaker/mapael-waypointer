@@ -34,80 +34,82 @@ var mapaelWaypointer = (function ($) {
 	};
 
 	$(window).load(function () {
-		console.log('Initialising Mapel Waypointer');
+		if ($(".mw__map-container")[0]) {
+			console.log('Initialising Mapel Waypointer');
 
-		// Load args from the html (saved by the php code)
-		vm.args = $('[data-side="mw-map-front"]').data('params');
-		vm.args.cities = vm.args.cities ? vm.args.cities.split(',') : {};
-		vm.args.zoom = vm.args.zoom === 'true' ? true : false;
-		var maps = {
-			'world': 'world_countries',
-			'worldmercator': 'world_countries_mercator',
-			'worldmiller': 'world_countries_miller',
-			'srilanka': 'sri_lanka'
-		};
+			// Load args from the html (saved by the php code)
+			vm.args = $('[data-side="mw-map-front"]').data('params');
+			vm.args.cities = vm.args.cities ? vm.args.cities.split(',') : {};
+			vm.args.zoom = vm.args.zoom === 'true' ? true : false;
+			var maps = {
+				'world': 'world_countries',
+				'worldmercator': 'world_countries_mercator',
+				'worldmiller': 'world_countries_miller',
+				'srilanka': 'sri_lanka'
+			};
 
-		// Move the map a few layouts outwards.
-		$(".mw__map-container").appendTo('.site-container');
+			// Move the map a few layouts outwards.
+			$(".mw__map-container").appendTo('.site-container');
 
-		// Load city plots
-		$.getJSON('/wp-content/plugins/mapael-waypointer/public/js/mw-cities.json').complete(function (data) {
-			vm.cities = data.responseJSON;
-			var selectedCities = vm.args.cities.map ? vm.args.cities.map(function (selectedCity) {
-				selectedCity = selectedCity.trim();
+			// Load city plots
+			$.getJSON('/wp-content/plugins/mapael-waypointer/public/js/mw-cities.json').complete(function (data) {
+				vm.cities = data.responseJSON;
+				var selectedCities = vm.args.cities.map ? vm.args.cities.map(function (selectedCity) {
+					selectedCity = selectedCity.trim();
 
-				// Add key attribute and return
-				var city = vm.cities[selectedCity];
-				city.key = selectedCity;
-				return city;
-			}).reduce(function (accumulator, current) {
-				if (current) {
-					// Add tooltip
-					current.tooltip = { content: current.city };
+					// Add key attribute and return
+					var city = vm.cities[selectedCity];
+					city.key = selectedCity;
+					return city;
+				}).reduce(function (accumulator, current) {
+					if (current) {
+						// Add tooltip
+						current.tooltip = { content: current.city };
 
-					// Add full lat/lng, if needed.
-					current.latitude = current.latitude ? current.latitude : current.lat;
-					current.longitude = current.longitude ? current.longitude : current.lng;
+						// Add full lat/lng, if needed.
+						current.latitude = current.latitude ? current.latitude : current.lat;
+						current.longitude = current.longitude ? current.longitude : current.lng;
 
-					// Remap to attribute and return
-					accumulator[current.key.toLowerCase()] = current;
-				}
-				return accumulator;
-			}, {}) : {};
-
-			// Initialise map
-			$(".mw__map-container").mapael({
-				map: {
-					name: maps[vm.args.map],
-					cssClass: 'mw__map-container__svg',
-					defaultPlot: {
-						size: 4
+						// Remap to attribute and return
+						accumulator[current.key.toLowerCase()] = current;
 					}
-				},
-				plots: selectedCities,
-				links: {},
-				zoom: {
-					animEasing: 'ease-in',
-					animDuration: vm.zoomSpeed
-				}
+					return accumulator;
+				}, {}) : {};
+
+				// Initialise map
+				$(".mw__map-container").mapael({
+					map: {
+						name: maps[vm.args.map],
+						cssClass: 'mw__map-container__svg',
+						defaultPlot: {
+							size: 4
+						}
+					},
+					plots: selectedCities,
+					links: {},
+					zoom: {
+						animEasing: 'ease-in',
+						animDuration: vm.zoomSpeed
+					}
+				});
+
 			});
 
-		});
+			var waypoints = $('.mw__waypoint').waypoint({
+				handler: function (direction) {
+					var $element = $(this.element);
 
-		var waypoints = $('.mw__waypoint').waypoint({
-			handler: function (direction) {
-				var $element = $(this.element);
-
-				switch (direction) {
-					case 'down':
-						triggerDownAction($element.data('waypoint-type'), $element);
-						break;
-					case 'up':
-						triggerUpAction($element.data('waypoint-type'), $element);
-						break;
+					switch (direction) {
+						case 'down':
+							triggerDownAction($element.data('waypoint-type'), $element);
+							break;
+						case 'up':
+							triggerUpAction($element.data('waypoint-type'), $element);
+							break;
+					}
 				}
-			}
-		});
+			});
+		}
 	});
 
 	function triggerDownAction(type, $element) {
