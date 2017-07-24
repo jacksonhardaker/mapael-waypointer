@@ -62,14 +62,14 @@ class Mapael_Waypointer_Public {
 	 
 	 public function mw_register_shortcodes() {
 
-		function mw_map_shortcode($dataParams) { ?>
-			
-			<div class="mw__map-container">
-				<div hidden data-side="mw-map-front" data-params="<?php echo htmlspecialchars(json_encode($dataParams), ENT_QUOTES, 'UTF-8'); ?>"></div>
-        		<div class="mw__map-container__svg"></div>
-			</div>
-			
-		<?php }
+		function mw_map_shortcode($dataParams) { 
+		
+			$html = '<div class="mw__map-container">'
+				. '<div hidden data-side="mw-map-front" data-params=' . htmlspecialchars(json_encode($dataParams), ENT_QUOTES, "UTF-8") . '></div>'
+        		. '<div class="mw__map-container__svg"></div>'
+				. '</div>';
+			return $html;
+		}
 		add_shortcode( 'mw-map' , 'mw_map_shortcode' );
 
 		function mw_waypoint_shortcode($dataParams) {
