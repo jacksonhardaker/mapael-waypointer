@@ -65,7 +65,7 @@ class Mapael_Waypointer_Public {
 		function mw_map_shortcode($dataParams) { 
 		
 			$html = '<div class="mw__map-container">'
-				. '<div hidden data-side="mw-map-front" data-params=' . htmlspecialchars(json_encode($dataParams), ENT_QUOTES, "UTF-8") . '></div>'
+				. '<div hidden data-side="mw-map-front" data-params="' . htmlspecialchars(json_encode($dataParams), ENT_QUOTES, "UTF-8") . '"></div>'
         		. '<div class="mw__map-container__svg"></div>'
 				. '</div>';
 			return $html;
