@@ -217,7 +217,11 @@ var mapaelWaypointer = (function ($) {
 	}
 
 	function generateRandomFactor() {
-		return ((Math.floor(Math.random() * (27 - 9 + 1) + 9)) - 18) / 10;
+		var factor =  ((Math.floor(Math.random() * (27 - 9 + 1) + 9)) - 18) / 10;
+		factor = (factor >= 0 && factor < 0.3) ? factor + 0.3 : factor;
+		factor = (factor < 0 && factor > -0.3) ? factor - 0.3 : factor;
+
+		return factor;
 	}
 
 })(jQuery);
