@@ -3363,5 +3363,58 @@
     "lat": 42.66,
     "lng": 18.09,
     "country": "Croatia"
+  },
+  "sigiriya": {
+    "latitude": 7.9568,
+    "longitude":80.7599,
+    "city": "Sigiriya"
+  },
+  "galle": {
+    "city": "Galle",
+    "lat": 6.030005309,
+    "lng": 80.24000118,
+    "country": "Sri Lanka"
+  },
+  "ella": {
+    "city": "Ella",
+    "lat": 6.8667,
+    "lng": 81.0466,
+    "country": "Sri Lanka"
+  },
+  "trincomalee": {
+    "city": "Trincomalee",
+    "lat": 8.5874,
+    "lng": 81.2152,
+    "country": "Sri Lanka"
+  },
+  "nilaveli": {
+    "city": "Nilaveli",
+    "lat": 8.6927,
+    "lng": 81.1885,
+    "country": "Sri Lanka"
+  },
+  "polonnaruwa": {
+    "city": "Polonnaruwa",
+    "lat": 7.9403,
+    "lng": 81.0188,
+    "country": "Sri Lanka"
+  },
+  "anuradhapura": {
+    "city": "Anuradhapura",
+    "lat": 8.3114,
+    "lng": 80.4037,
+    "country": "Sri Lanka"
+  },
+  "negombo": {
+    "city": "Negombo",
+    "lat": 7.2008,
+    "lng": 79.8737,
+    "country": "Sri Lanka"
+  },
+  "irrakkakandi": {
+    "city": "Irrakkakandi",
+    "lat": 8.7143,
+    "lng": 81.1775,
+    "country": "Sri Lanka"
   }
 }
