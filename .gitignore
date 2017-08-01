@@ -59,3 +59,4 @@ typings/
 
 # Build files
 .tmp
+source/kartograph.py
