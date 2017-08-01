@@ -27,6 +27,7 @@ var mapaelWaypointer = (function ($) {
 			// Load city plots
 			$.getJSON('wp-content/plugins/mapael-waypointer/public/js/mw-cities.json').complete(function (data) {
 				vm.cities = data.responseJSON;
+				console.log(vm.cities);
 				var selectedCities = vm.args.cities.map ? vm.args.cities.map(function (selectedCity) {
 					selectedCity = selectedCity.trim();
 
@@ -65,6 +66,9 @@ var mapaelWaypointer = (function ($) {
 						animDuration: vm.zoomSpeed
 					}
 				});
+
+				// Set SVG height
+				$(".mw__map-container").find('svg').height($(window).height());
 
 			});
 
@@ -189,10 +193,30 @@ var mapaelWaypointer = (function ($) {
 		}
 	}
 
+	var previousArcDirection = 'under';
+
 	function generateRandomFactor() {
 		var factor = ((Math.floor(Math.random() * (27 - 9 + 1) + 9)) - 18) / 10;
 		factor = (factor >= 0 && factor < 0.3) ? factor + 0.3 : factor;
 		factor = (factor < 0 && factor > -0.3) ? factor - 0.3 : factor;
+
+
+		switch (previousArcDirection) {
+			case 'under':
+				if (factor < 0) {
+					factor = factor * -1;
+				}
+
+				previousArcDirection = 'over';
+				break;
+			case 'over':
+				if (factor > 0) {
+					factor = factor * -1;
+				}
+
+				previousArcDirection = 'under';
+				break;
+		}
 
 		return factor;
 	}
