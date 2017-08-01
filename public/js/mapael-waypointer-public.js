@@ -6,7 +6,7 @@ var mapaelWaypointer = (function ($) {
 		waypointIndex: -1
 	};
 
-	$(window).load(function () {
+	$(window).on('load', function () {
 		if ($(".mw__map-container")[0]) {
 			console.log('Initialising Mapel Waypointer');
 
@@ -25,7 +25,8 @@ var mapaelWaypointer = (function ($) {
 			$(".mw__map-container").appendTo('.site-container');
 
 			// Load city plots
-			$.getJSON('/wp-content/plugins/mapael-waypointer/public/js/mw-cities.json').complete(function (data) {
+			///wp-content/plugins/mapael-waypointer/public/
+			$.getJSON('js/mw-cities.json').done(function (data) {
 				vm.cities = data.responseJSON;
 				var selectedCities = vm.args.cities.map ? vm.args.cities.map(function (selectedCity) {
 					selectedCity = selectedCity.trim();
@@ -190,7 +191,7 @@ var mapaelWaypointer = (function ($) {
 	}
 
 	function generateRandomFactor() {
-		var factor =  ((Math.floor(Math.random() * (27 - 9 + 1) + 9)) - 18) / 10;
+		var factor = ((Math.floor(Math.random() * (27 - 9 + 1) + 9)) - 18) / 10;
 		factor = (factor >= 0 && factor < 0.3) ? factor + 0.3 : factor;
 		factor = (factor < 0 && factor > -0.3) ? factor - 0.3 : factor;
 
