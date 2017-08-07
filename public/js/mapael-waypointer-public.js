@@ -25,7 +25,7 @@ var mapaelWaypointer = (function ($) {
 			$(".mw__map-container").appendTo('.site-container');
 
 			// Load city plots
-			$.getJSON('/wp-content/plugins/mapael-waypointer/public/js/mw-cities.json').complete(function (data) {
+			$.getJSON('/wp-content/plugins/mapael-waypointer/public/js/mw-cities.min.json').done(function (data) {
 				vm.cities = data.responseJSON;
 				console.log(vm.cities);
 				var selectedCities = vm.args.cities.map ? vm.args.cities.map(function (selectedCity) {
