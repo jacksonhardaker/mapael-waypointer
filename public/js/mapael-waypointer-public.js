@@ -18,7 +18,8 @@ var mapaelWaypointer = (function ($) {
 				'world': 'world_countries',
 				'worldmercator': 'world_countries_mercator',
 				'worldmiller': 'world_countries_miller',
-				'srilanka': 'sri_lanka'
+				'srilanka': 'sri_lanka',
+				'croatia': 'croatia'
 			};
 
 			// Move the map a few layouts outwards.
