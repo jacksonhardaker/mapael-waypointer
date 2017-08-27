@@ -136,6 +136,7 @@ class Mapael_Waypointer_Public {
 		wp_enqueue_script( 'mapael-world_countries_miller', 'https://cdnjs.cloudflare.com/ajax/libs/jquery-mapael/2.1.0/js/maps/world_countries_miller.min.js', array( 'mapael' ), null, true );
 		wp_enqueue_script( 'mapael-world_countries_miller', 'https://cdnjs.cloudflare.com/ajax/libs/jquery-mapael/2.1.0/js/maps/world_countries_miller.min.js', array( 'mapael' ), null, true );
 		wp_enqueue_script( 'sri-lanka-map', plugin_dir_url( __FILE__ ) . 'js/sri_lanka.min.js', array( 'mapael' ), null, true );
+		wp_enqueue_script( 'croatia-map', plugin_dir_url( __FILE__ ) . 'js/croatia.min.js', array( 'mapael' ), null, true );
 		wp_enqueue_script( $this->plugin_name, plugin_dir_url( __FILE__ ) . 'js/mapael-waypointer-public.min.js', array( 'jquery', 'mapael', 'waypoints' ), null, true );
 	}
 	
