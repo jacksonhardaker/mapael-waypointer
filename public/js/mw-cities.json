@@ -3416,5 +3416,47 @@
     "lat": 8.7143,
     "lng": 81.1775,
     "country": "Sri Lanka"
+  },
+  "crikvenica": {
+    "city": "Crikvenica",
+    "lat": 45.1037,
+    "lng": 14.4134,
+    "country": "Croatia"
+  },
+  "samobor": {
+    "city": "Samobor",
+    "lat": 45.802641,
+    "lng": 15.712448,
+    "country": "Croatia"
+  },
+  "plitvice": {
+    "city": "Plitvice",
+    "lat": 44.88056,
+    "lng": 15.61611,
+    "country": "Croatia"
+  },
+  "sibenik": {
+    "city": "Šibenik",
+    "lat": 43.735,
+    "lng": 15.8952,
+    "country": "Croatia"
+  },
+  "brela": {
+    "city": "Brela",
+    "lat": 43.3685,
+    "lng": 16.9202,
+    "country": "Croatia"
+  },
+  "ston": {
+    "city": "Ston",
+    "lat": 42.833,
+    "lng": 17.700,
+    "country": "Croatia"
+  },
+  "lokrum": {
+    "city": "Lokrum",
+    "lat": 42.62833,
+    "lng": 18.11972,
+    "country": "Croatia"
   }
 }
