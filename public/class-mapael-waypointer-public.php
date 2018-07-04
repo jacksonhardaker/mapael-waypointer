@@ -75,7 +75,7 @@ class Mapael_Waypointer_Public {
 		function mw_waypoint_shortcode($dataParams) {
 			switch ($dataParams['type']) {
 				case "city":
-					return '<div class="mw__waypoint-wrapper"><div class="mw__waypoint mw__waypoint--plot" data-waypoint-type="plot" data-waypoint-name="' . $dataParams['city-name'] . '"></div></div>';
+					return '<div class="mw__waypoint-wrapper"><div class="mw__waypoint mw__waypoint--plot" data-waypoint-type="plot" data-waypoint-name="' . $dataParams['name'] . '"></div></div>';
 				break;
 				case "route":
 					return '<div class="mw__waypoint-wrapper"><div class="mw__waypoint mw__waypoint--link" data-waypoint-type="link" data-waypoint-from="' . $dataParams['from'] . '" data-waypoint-to="' . $dataParams['to'] . '"></div></div>';
