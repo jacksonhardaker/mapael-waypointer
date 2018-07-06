@@ -138,6 +138,7 @@ class Mapael_Waypointer_Public {
 		wp_enqueue_script( 'sri-lanka-map', plugin_dir_url( __FILE__ ) . 'js/sri_lanka.min.js', array( 'mapael' ), null, true );
 		wp_enqueue_script( 'croatia-map', plugin_dir_url( __FILE__ ) . 'js/croatia.min.js', array( 'mapael' ), null, true );
 		wp_enqueue_script( 'japan-map', plugin_dir_url( __FILE__ ) . 'js/japan.min.js', array( 'mapael' ), null, true );
+		wp_enqueue_script( 'thailand-map', plugin_dir_url( __FILE__ ) . 'js/thailand.min.js', array( 'mapael' ), null, true );
 		wp_enqueue_script( $this->plugin_name, plugin_dir_url( __FILE__ ) . 'js/mapael-waypointer-public.min.js', array( 'jquery', 'mapael', 'waypoints' ), null, true );
 	}
 	

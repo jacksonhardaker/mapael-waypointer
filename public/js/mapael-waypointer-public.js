@@ -20,7 +20,8 @@ var mapaelWaypointer = (function ($) {
 				'worldmiller': 'world_countries_miller',
 				'srilanka': 'sri_lanka',
 				'croatia': 'croatia',
-				'japan': 'japan'
+				'japan': 'japan',
+				'thailand': 'thailand'
 			};
 
 			// Move the map a few layouts outwards.
