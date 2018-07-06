@@ -2564,6 +2564,11 @@
     "lng": 98.983,
     "city": "Chiang Mai"
   },
+  "krabi": {
+    "lat": 8.0863,
+    "lng": 98.9063,
+    "city": "Krabi"
+  },
   "suratthani": {
     "lat": 9.133,
     "lng": 99.333,
