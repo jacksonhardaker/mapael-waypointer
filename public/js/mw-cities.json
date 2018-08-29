@@ -1,4 +1,379 @@
 {
+  "newyorkcity": {
+    "lat": 40.72,
+    "lng": -74,
+    "city": "New York City"
+  },
+  "colombo": {
+    "lat": 6.883,
+    "lng": 79.867,
+    "city": "Colombo"
+  },
+  "kandy": {
+    "lat": 7.283,
+    "lng": 80.633,
+    "city": "Kandy"
+  },
+  "nuwaraeliya": {
+    "city": "Nuwara Eliya",
+    "lat": 6.9497,
+    "lng": 80.7891,
+    "country": "Sri Lanka"
+  },
+  "haputale": {
+    "city": "Haputale",
+    "lat": 6.7654,
+    "lng": 80.9526,
+    "country": "Sri Lanka"
+  },
+  "tangalle": {
+    "city": "Tangalle",
+    "lat": 6.0243,
+    "lng": 80.7941,
+    "country": "Sri Lanka"
+  },
+  "galle": {
+    "city": "Galle",
+    "lat": 6.030005309,
+    "lng": 80.24000118,
+    "country": "Sri Lanka"
+  },
+  "balapitiya": {
+    "city": "Balapitiya",
+    "lat": 6.2784,
+    "lng": 80.0403,
+    "country": "Sri Lanka"
+  },
+  "negombo": {
+    "city": "Negombo",
+    "lat": 7.2008,
+    "lng": 79.8737,
+    "country": "Sri Lanka"
+  },
+  "bangkok": {
+    "lat": 13.75,
+    "lng": 100.483,
+    "city": "Bangkok"
+  },
+  "huahin": {
+    "city": "Hua Hin",
+    "lat": 12.5685,
+    "lng": 99.9577,
+    "country": "Thailand"
+  },
+  "suratthani": {
+    "lat": 9.133,
+    "lng": 99.333,
+    "city": "Surat Thani",
+    "country": "Thailand"
+  },
+  "khaosok": {
+    "city": "Khao Sok",
+    "lat": 8.9155,
+    "lng": 98.5284,
+    "country": "Thailand"
+  },
+  "krabi": {
+    "lat": 8.0863,
+    "lng": 98.9063,
+    "city": "Krabi",
+    "country": "Thailand"
+  },
+  "kohlanta": {
+    "lat": 7.6244,
+    "lng": 99.0792,
+    "city": "Koh Lanta"
+  },
+  "singapore": {
+    "lat": 1.367,
+    "lng": 103.8,
+    "city": "Singapore"
+  },
+  "johannesburg": {
+    "lat": -26.2,
+    "lng": 28.033,
+    "city": "Johannesburg"
+  },
+  "bethlehem": {
+    "city": "Bethlehem",
+    "lat": -28.2423,
+    "lng": 28.3111,
+    "country": "South Africa"
+  },
+  "colesberg": {
+    "city": "Colesberg",
+    "lat": -30.6913,
+    "lng": 25.0703,
+    "country": "South Africa"
+  },
+  "cradock": {
+    "city": "Cradock",
+    "lat": -32.1810,
+    "lng": 25.6510,
+    "country": "South Africa"
+  },
+  "plettenbergbay": {
+    "city": "Plettenberg Bay",
+    "lat": -34.0575,
+    "lng": 23.3645,
+    "country": "South Africa"
+  },
+  "oudtshoorn": {
+    "city": "Oudtshoorn",
+    "lat": -33.6007,
+    "lng": 22.2026,
+    "country": "South Africa"
+  },
+  "gansbaai": {
+    "city": "Gansbaai",
+    "lat": -34.5805,
+    "lng": 19.3518,
+    "country": "South Africa"
+  },
+  "capetown": {
+    "lat": -33.917,
+    "lng": 18.417,
+    "city": "Cape Town"
+  },
+  "franschhoek": {
+    "city": "Franschhoek",
+    "lat": -33.8975,
+    "lng": 19.1523,
+    "country": "South Africa"
+  },
+  "langebaan": {
+    "city": "Langebaan",
+    "lat": -33.0547,
+    "lng": 18.0658,
+    "country": "South Africa"
+  },
+  "cederberg": {
+    "city": "Cederberg",
+    "lat": -32.5891,
+    "lng": 19.0118,
+    "country": "South Africa"
+  },
+  "springbok": {
+    "city": "Springbok",
+    "lat": -29.6655,
+    "lng": 17.8880,
+    "country": "South Africa"
+  },
+  "fishrivercanyon": {
+    "city": "Fish River Canyon",
+    "lat": -27.7292,
+    "lng": 17.5621,
+    "country": "Namibia"
+  },
+  "keetmanshoop": {
+    "city": "Keetmanshoop",
+    "lat": -26.5642,
+    "lng": 18.1310,
+    "country": "Namibia"
+  },
+  "luderitz": {
+    "city": "Luderitz",
+    "lat": -26.6420,
+    "lng": 15.1639,
+    "country": "Namibia"
+  },
+  "hardap": {
+    "city": "Hardap",
+    "lat": -24.2310,
+    "lng": 17.6689,
+    "country": "Namibia"
+  },
+  "sesriem": {
+    "city": "Sesriem",
+    "lat": -24.4867,
+    "lng": 15.8011,
+    "country": "Namibia"
+  },
+  "sossusvlei": {
+    "city": "Sosusvlei",
+    "lat": -24.7274,
+    "lng": 15.3424,
+    "country": "Namibia"
+  },
+  "hakos": {
+    "city": "Hakos",
+    "lat": -23.2352,
+    "lng": 16.3617,
+    "country": "Namibia"
+  },
+  "windhoek": {
+    "city": "Windhoek",
+    "lat": -22.5609,
+    "lng": 17.0658,
+    "country": "Namibia"
+  },
+  "swakopmund": {
+    "city": "Swakopmund",
+    "lat": -22.6467,
+    "lng": 14.6005,
+    "country": "Namibia"
+  },
+  "damaraland": {
+    "city": "Damaraland",
+    "lat": -21.2187,
+    "lng": 14.8674,
+    "country": "Namibia"
+  },
+  "etosha": {
+    "city": "Etosha",
+    "lat": -18.8556,
+    "lng": 16.3293,
+    "country": "Namibia"
+  },
+  "grootfontein": {
+    "city": "Grootfontein",
+    "lat": -19.5729,
+    "lng": 18.1073,
+    "country": "Namibia"
+  },
+  "ngepi": {
+    "city": "Ngepi Camp",
+    "lat": -18.1164,
+    "lng": 21.6696,
+    "country": "Namibia"
+  },
+  "katimamulilo": {
+    "city": "Katima Mulilo",
+    "lat": -17.5062,
+    "lng": 24.2807,
+    "country": "Namibia"
+  },
+  "kasane": {
+    "city": "Kasane",
+    "lat": -17.8167,
+    "lng": 25.15,
+    "country": "Botswana"
+  },
+  "elephantsands": {
+    "city": "Elephant Sands Camp",
+    "lat": -19.7488,
+    "lng": 26.0710,
+    "country": "Botswana"
+  },
+  "francistown": {
+    "lat": -21.167,
+    "lng": 27.5,
+    "city": "Francistown"
+  },
+  "khamarhino": {
+    "city": "Kharma Rhino Sanctuary",
+    "lat": -22.233994,
+    "lng": 26.72018,
+    "country": "Botswana"
+  },
+  "mokopane": {
+    "city": "Mokopane",
+    "lat": -24.1772,
+    "lng": 29.0019,
+    "country": "South Africa"
+  },
+  "hammanskraal": {
+    "city": "Hammanskraal",
+    "lat": -25.4132,
+    "lng": 28.2578,
+    "country": "South Africa"
+  },
+  "pretoria": {
+    "lat": -25.733,
+    "lng": 28.183,
+    "city": "Pretoria"
+  },
+  "casablanca": {
+    "lat": 33.533,
+    "lng": -7.583,
+    "city": "Casablanca"
+  },
+  "fez": {
+    "city": "Fez",
+    "lat": 34.0181,
+    "lng": -5.0078,
+    "country": "Morocco"
+  },
+  "chefchaouen": {
+    "city": "Chefchaouen",
+    "lat": 35.1688,
+    "lng": -5.2684,
+    "country": "Morocco"
+  },
+  "tangier": {
+    "city": "Tangier",
+    "lat": 35.7595,
+    "lng": -5.8340,
+    "country": "Morocco"
+  },
+  "madrid": {
+    "lat": 40.4,
+    "lng": -3.683,
+    "city": "Madrid"
+  },
+  "salamanca": {
+    "city": "Salamanca",
+    "lat": 40.9701,
+    "lng": -5.6635,
+    "country": "Spain"
+  },
+  "porto": {
+    "lat": 41.15,
+    "lng": -8.633,
+    "city": "Porto"
+  },
+  "sesimbra": {
+    "city": "Sesimbra",
+    "lat": 38.4445,
+    "lng": -9.1020,
+    "country": "Portugal"
+  },
+  "saobrasdealportel": {
+    "city": "São Brás de Alportel",
+    "lat": 37.1526,
+    "lng": -7.8891,
+    "country": "Portugal"
+  },
+  "sagres": {
+    "city": "Sagres",
+    "lat": 37.0168,
+    "lng": -8.9406,
+    "country": "Portugal"
+  },
+  "seville": {
+    "lat": 37.367,
+    "lng": -5.983,
+    "city": "Seville"
+  },
+  "fuengirola": {
+    "city": "Fuengirola",
+    "lat": 36.5441,
+    "lng": -4.6249,
+    "country": "Spain"
+  },
+  "ronda": {
+    "city": "Ronda",
+    "lat": 36.7462,
+    "lng": -5.1612,
+    "country": "Spain"
+  },
+  "malaga": {
+    "city": "Malaga",
+    "lat": 36.7213,
+    "lng": -4.4214,
+    "country": "Spain"
+  },
+  "cadiz": {
+    "city": "Cadiz",
+    "lat": 36.5271,
+    "lng": -6.2886,
+    "country": "Spain"
+  },
+  "gibraltar": {
+    "lat": 36.133,
+    "lng": -5.35,
+    "city": "Gibraltar"
+  },
   "adak": {
     "lat": 51.883,
     "lng": -176.633,
@@ -186,7 +561,7 @@
   },
   "chihuahua": {
     "lat": 28.1,
-    "lng": -106.0,
+    "lng": -106,
     "city": "Chihuahua"
   },
   "denver": {
@@ -538,11 +913,6 @@
     "lat": 4.6,
     "lng": -74.067,
     "city": "Bogot%C3%A1"
-  },
-  "newyorkcity": {
-    "lat": 40.72,
-    "lng": -74.0,
-    "city": "New York City"
   },
   "montreal": {
     "lat": 45.5,
@@ -1069,11 +1439,6 @@
     "lng": -9.183,
     "city": "Lisbon"
   },
-  "porto": {
-    "lat": 41.15,
-    "lng": -8.633,
-    "city": "Porto"
-  },
   "cork": {
     "lat": 51.883,
     "lng": -8.467,
@@ -1081,18 +1446,13 @@
   },
   "marrakech": {
     "lat": 31.633,
-    "lng": -8.0,
+    "lng": -8,
     "city": "Marrakech"
   },
   "bamako": {
     "lat": 12.65,
-    "lng": -8.0,
+    "lng": -8,
     "city": "Bamako"
-  },
-  "casablanca": {
-    "lat": 33.533,
-    "lng": -7.583,
-    "city": "Casablanca"
   },
   "koulikoro": {
     "lat": 12.983,
@@ -1105,7 +1465,7 @@
     "city": "Rabat"
   },
   "t%c3%b3rshavn": {
-    "lat": 62.0,
+    "lat": 62,
     "lng": -6.783,
     "city": "T%C3%B3rshavn"
   },
@@ -1113,11 +1473,6 @@
     "lat": 53.333,
     "lng": -6.267,
     "city": "Dublin"
-  },
-  "seville": {
-    "lat": 37.367,
-    "lng": -5.983,
-    "city": "Seville"
   },
   "belfast": {
     "lat": 54.6,
@@ -1128,11 +1483,6 @@
     "lat": -15.917,
     "lng": -5.733,
     "city": "Jamestown"
-  },
-  "gibraltar": {
-    "lat": 36.133,
-    "lng": -5.35,
-    "city": "Gibraltar"
   },
   "yamoussoukro": {
     "lat": 6.817,
@@ -1159,11 +1509,6 @@
     "lng": -4.017,
     "city": "Abidjan"
   },
-  "madrid": {
-    "lat": 40.4,
-    "lng": -3.683,
-    "city": "Madrid"
-  },
   "cardiff": {
     "lat": 51.483,
     "lng": -3.183,
@@ -1176,7 +1521,7 @@
   },
   "timbuktu": {
     "lat": 16.767,
-    "lng": -3.0,
+    "lng": -3,
     "city": "Timbuktu"
   },
   "liverpool": {
@@ -1241,7 +1586,7 @@
   },
   "greenwich": {
     "lat": 51.467,
-    "lng": -0.0,
+    "lng": 0,
     "city": "Greenwich"
   },
   "lom%c3%a9": {
@@ -1376,7 +1721,7 @@
   },
   "cannes": {
     "lat": 43.55,
-    "lng": 7.0,
+    "lng": 7,
     "city": "Cannes"
   },
   "nice": {
@@ -1415,7 +1760,7 @@
     "city": "Strasbourg"
   },
   "kano": {
-    "lat": 12.0,
+    "lat": 12,
     "lng": 8.517,
     "city": "Kano"
   },
@@ -1649,11 +1994,6 @@
     "lng": 18.35,
     "city": "Sarajevo"
   },
-  "capetown": {
-    "lat": -33.917,
-    "lng": 18.417,
-    "city": "Cape Town"
-  },
   "bangui": {
     "lat": 4.35,
     "lng": 18.583,
@@ -1696,7 +2036,7 @@
   },
   "warsaw": {
     "lat": 52.233,
-    "lng": 21.0,
+    "lng": 21,
     "city": "Warsaw"
   },
   "pristina": {
@@ -1705,7 +2045,7 @@
     "city": "Pristina"
   },
   "skopje": {
-    "lat": 42.0,
+    "lat": 42,
     "lng": 21.433,
     "city": "Skopje"
   },
@@ -1804,25 +2144,10 @@
     "lng": 27.467,
     "city": "Maseru"
   },
-  "francistown": {
-    "lat": -21.167,
-    "lng": 27.5,
-    "city": "Francistown"
-  },
   "minsk": {
     "lat": 53.9,
     "lng": 27.567,
     "city": "Minsk"
-  },
-  "johannesburg": {
-    "lat": -26.2,
-    "lng": 28.033,
-    "city": "Johannesburg"
-  },
-  "pretoria": {
-    "lat": -25.733,
-    "lng": 28.183,
-    "city": "Pretoria"
   },
   "lusaka": {
     "lat": -15.417,
@@ -1840,12 +2165,12 @@
     "city": "Bulawayo"
   },
   "chi%c5%9fin%c4%83u": {
-    "lat": 47.0,
+    "lat": 47,
     "lng": 28.867,
     "city": "Chi%C5%9Fin%C4%83u"
   },
   "istanbul": {
-    "lat": 41.0,
+    "lat": 41,
     "lng": 28.967,
     "city": "Istanbul"
   },
@@ -2001,7 +2326,7 @@
   },
   "blantyre": {
     "lat": -15.783,
-    "lng": 35.0,
+    "lng": 35,
     "city": "Blantyre"
   },
   "jerusalem": {
@@ -2010,7 +2335,7 @@
     "city": "Jerusalem"
   },
   "adana": {
-    "lat": 37.0,
+    "lat": 37,
     "lng": 35.317,
     "city": "Adana"
   },
@@ -2090,7 +2415,7 @@
     "city": "Mecca"
   },
   "sukhumi": {
-    "lat": 43.0,
+    "lat": 43,
     "lng": 41.017,
     "city": "Sukhumi"
   },
@@ -2121,12 +2446,12 @@
   },
   "nizhnynovgorod": {
     "lat": 56.333,
-    "lng": 44.0,
+    "lng": 44,
     "city": "Nizhny Novgorod"
   },
   "hargeisa": {
     "lat": 9.5,
-    "lng": 44.0,
+    "lng": 44,
     "city": "Hargeisa"
   },
   "arbil": {
@@ -2235,7 +2560,7 @@
     "city": "Saint-Denis"
   },
   "perm": {
-    "lat": 58.0,
+    "lat": 58,
     "lng": 56.317,
     "city": "Perm"
   },
@@ -2276,7 +2601,7 @@
   },
   "karachi": {
     "lat": 24.85,
-    "lng": 67.0,
+    "lng": 67,
     "city": "Karachi"
   },
   "hyderabad": {
@@ -2310,7 +2635,7 @@
     "city": "Multan"
   },
   "peshawar": {
-    "lat": 34.0,
+    "lat": 34,
     "lng": 71.5,
     "city": "Peshawar"
   },
@@ -2414,11 +2739,6 @@
     "lng": 79.017,
     "city": "Nagpur"
   },
-  "colombo": {
-    "lat": 6.883,
-    "lng": 79.867,
-    "city": "Colombo"
-  },
   "srijayawardenapurakotte": {
     "lat": 6.9,
     "lng": 79.883,
@@ -2433,11 +2753,6 @@
     "lat": 26.45,
     "lng": 80.333,
     "city": "Kanpur"
-  },
-  "kandy": {
-    "lat": 7.283,
-    "lng": 80.633,
-    "city": "Kandy"
   },
   "lucknow": {
     "lat": 26.85,
@@ -2564,21 +2879,6 @@
     "lng": 98.983,
     "city": "Chiang Mai"
   },
-  "krabi": {
-    "lat": 8.0863,
-    "lng": 98.9063,
-    "city": "Krabi"
-  },
-  "suratthani": {
-    "lat": 9.133,
-    "lng": 99.333,
-    "city": "Surat Thani"
-  },
-  "kohlanta": {
-    "lat": 7.6244,
-    "lng": 99.0792,
-    "city": "Koh Lanta"
-  },
   "padang": {
     "lat": -0.95,
     "lng": 100.35,
@@ -2593,11 +2893,6 @@
     "lat": 7.017,
     "lng": 100.467,
     "city": "Hat Yai"
-  },
-  "bangkok": {
-    "lat": 13.75,
-    "lng": 100.483,
-    "city": "Bangkok"
   },
   "pattaya": {
     "lat": 12.917,
@@ -2668,11 +2963,6 @@
     "lat": 36.033,
     "lng": 103.8,
     "city": "Lanzhou"
-  },
-  "singapore": {
-    "lat": 1.367,
-    "lng": 103.8,
-    "city": "Singapore"
   },
   "siemreap": {
     "lat": 13.35,
@@ -2755,7 +3045,7 @@
     "city": "Xi%27an"
   },
   "pontianak": {
-    "lat": 0.0,
+    "lat": 0,
     "lng": 109.333,
     "city": "Pontianak"
   },
@@ -2991,7 +3281,7 @@
   },
   "davaocity": {
     "lat": 7.5,
-    "lng": 126.0,
+    "lng": 126,
     "city": "Davao City"
   },
   "kaesong": {
@@ -3316,7 +3606,7 @@
   },
   "nandi": {
     "city": "Nandi",
-    "lat": -17.80,
+    "lat": -17.8,
     "lng": 177.42,
     "country": "Fiji"
   },
@@ -3376,14 +3666,8 @@
   },
   "sigiriya": {
     "latitude": 7.9568,
-    "longitude":80.7599,
+    "longitude": 80.7599,
     "city": "Sigiriya"
-  },
-  "galle": {
-    "city": "Galle",
-    "lat": 6.030005309,
-    "lng": 80.24000118,
-    "country": "Sri Lanka"
   },
   "ella": {
     "city": "Ella",
@@ -3413,12 +3697,6 @@
     "city": "Anuradhapura",
     "lat": 8.3114,
     "lng": 80.4037,
-    "country": "Sri Lanka"
-  },
-  "negombo": {
-    "city": "Negombo",
-    "lat": 7.2008,
-    "lng": 79.8737,
     "country": "Sri Lanka"
   },
   "irrakkakandi": {
@@ -3460,7 +3738,7 @@
   "ston": {
     "city": "Ston",
     "lat": 42.833,
-    "lng": 17.700,
+    "lng": 17.7,
     "country": "Croatia"
   },
   "lokrum": {
