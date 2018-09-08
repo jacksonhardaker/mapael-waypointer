@@ -4,6 +4,36 @@
     "lng": -74,
     "city": "New York City"
   },
+  "albany": {
+    "lat": 42.6526,
+    "lng": -73.7562,
+    "city": "Albany"
+  },
+  "lakegeorge": {
+    "lat": 43.4262,
+    "lng": -73.7123,
+    "city": "Lake George"
+  },
+  "manchestervt": {
+    "lat": 43.1637,
+    "lng": -73.0723,
+    "city": "Manchester"
+  },
+  "burlington": {
+    "lat": 44.4759,
+    "lng": -73.2121,
+    "city": "Burlington"
+  },
+  "santafe": {
+    "lat": 35.6870,
+    "lng": -105.9378,
+    "city": "Santa Fe"
+  },
+  "cortez": {
+    "lat": 37.3489,
+    "lng": -108.5859,
+    "city": "Cortez"
+  },
   "colombo": {
     "lat": 6.883,
     "lng": 79.867,
