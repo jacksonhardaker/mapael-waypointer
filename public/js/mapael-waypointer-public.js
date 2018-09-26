@@ -15,13 +15,12 @@ var mapaelWaypointer = (function ($) {
 			vm.args.cities = vm.args.cities ? vm.args.cities.split(',') : {};
 			vm.args.zoom = vm.args.zoom === 'true' ? true : false;
 			var maps = {
-				'world': 'world_countries',
 				'worldmercator': 'world_countries_mercator',
-				'worldmiller': 'world_countries_miller',
 				'srilanka': 'sri_lanka',
 				'croatia': 'croatia',
 				'japan': 'japan',
-				'thailand': 'thailand'
+				'thailand': 'thailand',
+				'morocco': 'morocco'
 			};
 
 			// Move the map a few layouts outwards.
