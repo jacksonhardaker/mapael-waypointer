@@ -3595,6 +3595,51 @@
     "lng": 172.617,
     "city": "Christchurch"
   },
+  "foxglacier": {
+    "lat": -43.4645,
+    "lng": 170.0176,
+    "city": "Fox Glacier"
+  },
+  "jacksonbay": {
+    "lat": -43.9721,
+    "lng": 168.6124,
+    "city": "Jackson Bay"
+  },
+  "queenstown": {
+    "lat": -45.0312,
+    "lng": 168.6626,
+    "city": "Queenstown"
+  },
+  "teanau": {
+    "lat": -45.4145,
+    "lng": 167.7181,
+    "city": "Te Anau"
+  },
+  "milfordsound": {
+    "lat": -44.6414,
+    "lng": 167.8974,
+    "city": "Milford Sound"
+  },
+  "hokitika": {
+    "lat": -42.7174,
+    "lng": 170.9665,
+    "city": "Hokitika"
+  },
+  "thecatlins": {
+    "lat": -46.4900,
+    "lng": 169.1539,
+    "city": "The Catlins"
+  },
+  "oamaru ": {
+    "lat": -45.0975,
+    "lng": 170.9704,
+    "city": "Oamaru"
+  },
+  "tekapo": {
+    "lat": -44.0047,
+    "lng": 170.4771,
+    "city": "Tekapo"
+  },
   "southtarawa": {
     "lat": 1.317,
     "lng": 172.983,
