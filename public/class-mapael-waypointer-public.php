@@ -133,6 +133,7 @@ class Mapael_Waypointer_Public {
 		wp_enqueue_script( 'mapael', 'https://cdnjs.cloudflare.com/ajax/libs/jquery-mapael/2.1.0/js/jquery.mapael.min.js', array( 'jquery', 'raphael' ), null, true );
 		wp_enqueue_script( 'mapael-world_countries_mercator', 'https://cdnjs.cloudflare.com/ajax/libs/jquery-mapael/2.1.0/js/maps/world_countries_mercator.min.js', array( 'mapael' ), null, true );
 		wp_enqueue_script( 'sri-lanka-map', plugin_dir_url( __FILE__ ) . 'js/sri_lanka.min.js', array( 'mapael' ), null, true );
+		wp_enqueue_script( 'new-zealand-map', plugin_dir_url( __FILE__ ) . 'js/new_zealand.min.js', array( 'mapael' ), null, true );
 		wp_enqueue_script( 'croatia-map', plugin_dir_url( __FILE__ ) . 'js/croatia.min.js', array( 'mapael' ), null, true );
 		wp_enqueue_script( 'japan-map', plugin_dir_url( __FILE__ ) . 'js/japan.min.js', array( 'mapael' ), null, true );
 		wp_enqueue_script( 'thailand-map', plugin_dir_url( __FILE__ ) . 'js/thailand.min.js', array( 'mapael' ), null, true );

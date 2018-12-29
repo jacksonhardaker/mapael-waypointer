@@ -17,6 +17,7 @@ var mapaelWaypointer = (function ($) {
 			var maps = {
 				'worldmercator': 'world_countries_mercator',
 				'srilanka': 'sri_lanka',
+				'newzealand': 'new_zealand',
 				'croatia': 'croatia',
 				'japan': 'japan',
 				'thailand': 'thailand',
